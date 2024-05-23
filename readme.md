@@ -1,6 +1,6 @@
-# TechiDaily
+# Vimeo Videos Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://vimeo-videos.techidaily.com](https://vimeo-videos.techidaily.com)
 
 ## Publish
 

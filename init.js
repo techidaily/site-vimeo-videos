@@ -8,9 +8,9 @@ const fs = require('fs');
 const path = require('path');
 
 // ------------------------------------------------------------------------------------------- 以下内容需要自己替换
-const subSiteAuthor = 'Nova';
-const subSiteKeywords = `` + ','; // 关键字，多个关键字用逗号分隔
-const indexNowKey = 'ec9c9516ea82433086d979e16e1960e0'; // 替换为你的API密钥
+const subSiteAuthor = 'Michael';
+const subSiteKeywords = `Videos on Vimeo,Vimeo video posts,Vimeo video updates,Vimeo video sharing,Vimeo video content,Vimeo video footage,Vimeo video recordings,Vimeo video streams,Vimeo video files` + ','; // 关键字，多个关键字用逗号分隔
+const indexNowKey = '42c338148dce4f3b90c996b92d9c45f6'; // 替换为你的API密钥
 
 
 
