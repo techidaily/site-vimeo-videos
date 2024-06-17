@@ -1,7 +1,7 @@
 ---
 title: "Leverage Social Platforms for Vimeo Video Sharing for 2024"
-date: 2024-05-22T05:40:20.518Z
-updated: 2024-05-23T05:40:20.518Z
+date: 2024-06-08T13:45:38.570Z
+updated: 2024-06-09T13:45:38.570Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Leverage Social Platforms for Vimeo Video Sharing for 2024"
 excerpt: "This Article Describes Leverage Social Platforms for Vimeo Video Sharing for 2024"
 keywords: "Share via Vimeo,Vimeo Video Sync,Social Media Vimeo,Vimeo Content Sharing,Vimeo Platform Leverage,Vimeo Social Engage,Share Videos on Vimeo"
-thumbnail: https://www.lifewire.com/thmb/Y7SypD6PvHXtCRwqrd6s12LZPhw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-01-13at12.25.09PM-aa52f1508d6b489b84df85c774669e89.png
+thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211ca4fd673ea682421459ce79.png
 ---
 
 ## Leverage Social Platforms for Vimeo Video Sharing

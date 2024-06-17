@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Budget-Friendly Video Editing Masterclass on Vimeo\""
-date: 2024-05-22T05:09:56.416Z
-updated: 2024-05-23T05:09:56.416Z
+date: 2024-06-08T13:45:43.417Z
+updated: 2024-06-09T13:45:43.417Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Budget-Friendly Video Editing Masterclass on Vimeo\""
 excerpt: "\"This Article Describes [Updated] In 2024, Budget-Friendly Video Editing Masterclass on Vimeo\""
 keywords: "\"Video Editing Classes,Budget Edits Course,Vimeo Mastery,Affordable Editing,Video Production Tips,Cost-Effective Editing,Learn Editing Cheaply\""
-thumbnail: https://www.lifewire.com/thmb/bbeiFr7M7Hblm82AcPyl3Z3IAu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-fix-it-when-roku-tv-sound-is-not-working-5198644-bc2ace5bd66c4dcb9ba516eac5fc3df8.jpg
+thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056b7a7373daee332b511aa58b.jpg
 ---
 
 ## Budget-Friendly Video Editing Masterclass on Vimeo

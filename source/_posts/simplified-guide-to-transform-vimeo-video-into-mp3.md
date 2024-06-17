@@ -1,7 +1,7 @@
 ---
 title: "Simplified Guide to Transform Vimeo Video Into MP3"
-date: 2024-05-22T05:14:04.835Z
-updated: 2024-05-23T05:14:04.835Z
+date: 2024-06-08T13:45:38.732Z
+updated: 2024-06-09T13:45:38.732Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Simplified Guide to Transform Vimeo Video Into MP3"
 excerpt: "This Article Describes Simplified Guide to Transform Vimeo Video Into MP3"
 keywords: "\"Convert Vimeo Videos,MP3 Audio Extraction,Simple Video-to-MP3,Vimeo Sound Conversion,Easy Video MP3 Making,Vimeo Audio Download,Streamlined MP3 Creation\""
-thumbnail: https://www.lifewire.com/thmb/2V_G_xN9itHN1yVayRsBfLGLGZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/20201117103929-532580a0db8346228f20b8d694ee67cb.jpg
+thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42d3ab8c5759ae25bd6bbada4.jpg
 ---
 
 ## Simplified Guide to Transform Vimeo Video Into MP3

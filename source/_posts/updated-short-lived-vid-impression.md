@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Short-Lived Vid Impression\""
-date: 2024-05-22T04:52:19.314Z
-updated: 2024-05-23T04:52:19.314Z
+date: 2024-06-08T13:45:44.066Z
+updated: 2024-06-09T13:45:44.066Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Short-Lived Vid Impression\""
 excerpt: "\"This Article Describes [Updated] Short-Lived Vid Impression\""
 keywords: "\"Brief Video Views,Ephemeral Video Impact,Short-Term Video Stats,Transient Video Insight,Flash Vid Analysis,Temporary Video Look,Quick Vid Metrics\""
-thumbnail: https://www.lifewire.com/thmb/mjIJFCo03dTiW_sWBiKGYCEP8Ho=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-953660514-5b1410543de42300371597a7.jpg
+thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f342702915251fd121c5a13e0.jpg
 ---
 
 ## Short-Lived Vid Impression

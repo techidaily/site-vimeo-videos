@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Vimeo's Video Segments  The Chapter Creation Handbook\""
-date: 2024-05-22T06:19:01.334Z
-updated: 2024-05-23T06:19:01.334Z
+date: 2024-06-08T13:45:45.926Z
+updated: 2024-06-09T13:45:45.926Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Vimeo's Video Segments: The Chapter Creation Handbook\""
 excerpt: "\"This Article Describes [Updated] In 2024, Vimeo's Video Segments: The Chapter Creation Handbook\""
 keywords: "Vimeo Ch. Guide,Video Segmenting,Chapters in Videos,Vimeo Editing Tips,Creating Videochapters,Vimeo Chapter Making,Mastering Videography Sections"
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## Vimeo's Video Segments: The Chapter Creation Handbook

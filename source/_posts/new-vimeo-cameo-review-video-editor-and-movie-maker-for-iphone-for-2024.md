@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Vimeo Cameo Review-Video Editor & Movie Maker for iPhone for 2024\""
-date: 2024-05-22T05:37:53.822Z
-updated: 2024-05-23T05:37:53.822Z
+date: 2024-06-08T13:45:42.321Z
+updated: 2024-06-09T13:45:42.321Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Vimeo Cameo Review-Video Editor & Movie Maker for iPhone for 2024\""
 excerpt: "\"This Article Describes [New] Vimeo Cameo Review-Video Editor & Movie Maker for iPhone for 2024\""
 keywords: "Vimeo Cameos,Video Editor iPhone,Movie Maker iOS,Edit iPhone Videos,IPhone Cameo Tool,Professional Video Editor,Mobile Film Creation"
-thumbnail: https://www.lifewire.com/thmb/F5BTzUP2d_h2drCRoj1OLhAxwKo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsung-galaxy-s24-ultra-d98962629d6f44f1ba48f09829e604eb.jpeg
+thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde0b8653330eff8897000d29a.jpeg
 ---
 
 ## Short-Lived Vid Impression

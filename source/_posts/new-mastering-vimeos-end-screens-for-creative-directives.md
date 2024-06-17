@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Vimeo's End Screens for Creative Directives"
-date: 2024-05-22T05:15:58.008Z
-updated: 2024-05-23T05:15:58.008Z
+date: 2024-06-08T13:45:37.560Z
+updated: 2024-06-09T13:45:37.560Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Mastering Vimeo's End Screens for Creative Directives"
 excerpt: "This Article Describes [New] Mastering Vimeo's End Screens for Creative Directives"
 keywords: "Vimeo End Screen Optimization,Creatives in Video Marketing,Directed End Screen Strategies,Video Advertising Success,Engaging Vimeo Screens,Content Promotion on Videos,Creative Videography Tips"
-thumbnail: https://www.lifewire.com/thmb/lPMj5TBQ17ELvQCvU7sXIvRYnnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tvmonitor01-97c662b1359f4c06893ce1fb2381e706.jpg
+thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e47132cccfb907573c9519566.jpg
 ---
 
 ## Mastering Vimeo's End Screens for Creative Directives

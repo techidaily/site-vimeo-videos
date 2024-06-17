@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring the Features of Vimeo's Innovative Recorder"
-date: 2024-05-22T05:23:39.641Z
-updated: 2024-05-23T05:23:39.641Z
+date: 2024-06-08T13:45:37.731Z
+updated: 2024-06-09T13:45:37.731Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Exploring the Features of Vimeo's Innovative Recorder"
 excerpt: "This Article Describes [New] Exploring the Features of Vimeo's Innovative Recorder"
 keywords: "Vimeo Record,Video Editing,Innovative Filming,Streaming Platform,Creative Recording,Media Production,Online Video Editor"
-thumbnail: https://www.lifewire.com/thmb/RuMU3Fr0cPHrL8k7T5fBnqjnGVE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/163727875-56a1044b3df78cafdaa7de78.jpg
+thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985a4f6edf3b35f62e51fa261d.jpg
 ---
 
 ## Exploring the Features of Vimeo's Innovative Recorder

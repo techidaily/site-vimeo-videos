@@ -1,7 +1,7 @@
 ---
 title: "Adding Closed Captions to Vimeo Footage"
-date: 2024-05-22T05:38:18.856Z
-updated: 2024-05-23T05:38:18.856Z
+date: 2024-06-08T13:45:43.226Z
+updated: 2024-06-09T13:45:43.226Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Adding Closed Captions to Vimeo Footage"
 excerpt: "This Article Describes Adding Closed Captions to Vimeo Footage"
 keywords: "Closed Caption Vimeo,Subtitles for Videos,Video Accessibility,Adding CC in Vimeo,Enhance Video Viewing,Transcribe Vimeo Content,ADA Compliant Footage"
-thumbnail: https://www.lifewire.com/thmb/k634jL7WWQtyro9CdwkyFmFzEGA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Neo-QLED-vs-OLED-8eb18283c4fe49f3a8c583443f2b89b6.jpg
+thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a720808faf7dee8c99a861a3.jpg
 ---
 
 ## Adding Closed Captions to Vimeo Footage

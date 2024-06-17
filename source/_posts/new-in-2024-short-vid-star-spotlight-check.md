@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Short Vid Star Spotlight Check"
-date: 2024-05-22T05:20:28.839Z
-updated: 2024-05-23T05:20:28.839Z
+date: 2024-06-08T13:45:45.683Z
+updated: 2024-06-09T13:45:45.683Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Short Vid Star Spotlight Check"
 excerpt: "This Article Describes [New] In 2024, Short Vid Star Spotlight Check"
 keywords: "Vid Star Highlights,Short Video Spotlight,Star Celebrity Vid,Quick Film Focus,Top Video Star Review,Notable Vid Showcase,Prominent Film Starpeek"
-thumbnail: https://www.lifewire.com/thmb/lIGwtP-2kwYsesVXxH2xgRujv8A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-590171899-57ebf1035f9b586c355d2b27.jpg
+thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebfd4d415c6dfeb99e2e1d4fd0.jpg
 ---
 
 ## Short Vid Star Spotlight Check

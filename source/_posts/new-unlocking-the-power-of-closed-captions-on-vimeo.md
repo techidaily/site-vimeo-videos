@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking the Power of Closed Captions on Vimeo"
-date: 2024-05-22T05:09:04.395Z
-updated: 2024-05-23T05:09:04.395Z
+date: 2024-06-08T13:45:38.944Z
+updated: 2024-06-09T13:45:38.944Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Unlocking the Power of Closed Captions on Vimeo"
 excerpt: "This Article Describes [New] Unlocking the Power of Closed Captions on Vimeo"
 keywords: "Captioned Videos,Vimeo Accessibility,Enhanced Video Views,Closed Caption Benefits,Subtitles Engagement,Inclusive Video Content,Transcript Integration"
-thumbnail: https://www.lifewire.com/thmb/2m05dVVztrBUitNNvZLnp-qDPy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/artificialintelligenceledeimage-134b9fe3292242f199bc572445a0c5e2.jpg
+thumbnail: https://thmb.techidaily.com/27b127c31cd1d4c4e3c7e2e3da33ec44af88b4b625ba034a78a3512eb4d83268.jpg
 ---
 
 ## Unlocking the Power of Closed Captions on Vimeo

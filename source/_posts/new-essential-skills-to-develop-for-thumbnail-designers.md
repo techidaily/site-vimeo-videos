@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Skills to Develop for Thumbnail Designers"
-date: 2024-05-22T04:50:55.922Z
-updated: 2024-05-23T04:50:55.922Z
+date: 2024-06-08T13:45:37.282Z
+updated: 2024-06-09T13:45:37.282Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Essential Skills to Develop for Thumbnail Designers"
 excerpt: "This Article Describes [New] Essential Skills to Develop for Thumbnail Designers"
 keywords: "Thumbnail Artistry,Image Conceptualization,Visual Impact Crafting,Design Thumbnails Well,Imagery Skillset Essential,Effective Thumb Creation,Thumbnail Design Mastery"
-thumbnail: https://www.lifewire.com/thmb/4XBKBeuRAARBy1u3vDVh6ycEpCU=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/PolkAudioRC80i-594adc4a3df78cae81a59280.jpg
+thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf69849bc4b8a8c3c123bbebb43d1.jpg
 ---
 
 ## Essential Skills to Develop for Thumbnail Designers
