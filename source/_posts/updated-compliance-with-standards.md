@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Compliance with Standards"
-date: 2024-05-22T05:39:26.970Z
-updated: 2024-05-23T05:39:26.970Z
+date: 2024-07-01T21:36:26.758Z
+updated: 2024-07-02T21:36:26.758Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Compliance with Standards"
 excerpt: "This Article Describes [Updated] Compliance with Standards"
 keywords: "Standard Compliance,Regulatory Adherence,Quality Assurance,Policy Alignment,Benchmark Meeting,Standards Fulfillment,Guideline Conformance"
-thumbnail: https://www.lifewire.com/thmb/ykb-X1fleqsocOPzjbEHKe67iWs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1-fda3dfcb691444eebe2921baebecd372.jpg
+thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c3aca95005c1c84fe62729c2.jpg
 ---
 
 ## Compliance with Standards

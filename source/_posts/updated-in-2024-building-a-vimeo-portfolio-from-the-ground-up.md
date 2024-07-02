@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Building a Vimeo Portfolio From the Ground Up"
-date: 2024-05-22T06:15:15.857Z
-updated: 2024-05-23T06:15:15.857Z
+date: 2024-07-01T21:36:30.938Z
+updated: 2024-07-02T21:36:30.938Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Building a Vimeo Portfolio From the Ground Up"
 excerpt: "This Article Describes [Updated] In 2024, Building a Vimeo Portfolio From the Ground Up"
 keywords: "\"Portfolio Creation,Vimeo Showcase,Video Projects,Professional Videos,Media Portfolio Start,Ground-Up Videography,Creative Content Curation\""
-thumbnail: https://www.lifewire.com/thmb/Ku_-_mUSA_-pqx1qUkcNNrkX0ic=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Gmail-Logo-57e3e0b75f9b586c35507780.png
+thumbnail: https://thmb.techidaily.com/184d7cf1dfbfc8948b40afe261697d83b7fb70b650978462e7e0c6bc450abb26.png
 ---
 
 ## Building a Vimeo Portfolio From the Ground Up

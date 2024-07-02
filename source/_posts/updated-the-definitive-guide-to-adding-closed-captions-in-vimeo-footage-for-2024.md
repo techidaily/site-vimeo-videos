@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Definitive Guide to Adding Closed Captions in Vimeo Footage for 2024"
-date: 2024-05-22T05:37:29.648Z
-updated: 2024-05-23T05:37:29.648Z
+date: 2024-07-01T21:36:27.585Z
+updated: 2024-07-02T21:36:27.585Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] The Definitive Guide to Adding Closed Captions in Vimeo Footage for 2024"
 excerpt: "This Article Describes [Updated] The Definitive Guide to Adding Closed Captions in Vimeo Footage for 2024"
 keywords: "Video Captioning Guide,Captions for Vimeo Videos,Add Vimeo Closed Captions,Enhancing Vimeo Subtitles,Improve Video Accessibility,Subtitle Integration Vimeo,Closed Captioning Tutorial Vimeo"
-thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram_Login-5c004ff2c9e77c000104174d.png
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
 ---
 
 ## The Definitive Guide to Adding Closed Captions in Vimeo Footage
@@ -33,7 +33,7 @@ thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/fi
 
  When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
 
- You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play]( http://www.3playmedia.com/services-features/overview/ ) , [Rev]( https://www.rev.com/services ) or [Amara]( https://amara.org/en/  ).
+ You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
 
  There are numerous file formats to choose from including srt, scc and ttml.
 
@@ -43,23 +43,23 @@ thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/fi
 
 1. You need to start by logging into your Vimeo account and uploading your chosen video.
 
-![ vimeo-upload-video.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg  )
+![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
 
 2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
 
-![ vimeo-edit-setting.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg  )
+![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
 
 3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
 
-![  vimeo-upload-captions.jpg]( https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg  )
+![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
 
 4. It’s now time to select your caption file and choose which type and language you require.
 
-![ vimeo-caption.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg  )
+![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
 
 5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
 
-![ vimeo-caption-setting.jpg ](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg   )
+![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
 
  Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
 
@@ -103,7 +103,7 @@ Follow @Ollie Mattison
 
  When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
 
- You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play]( http://www.3playmedia.com/services-features/overview/ ) , [Rev]( https://www.rev.com/services ) or [Amara]( https://amara.org/en/  ).
+ You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
 
  There are numerous file formats to choose from including srt, scc and ttml.
 
@@ -113,23 +113,23 @@ Follow @Ollie Mattison
 
 1. You need to start by logging into your Vimeo account and uploading your chosen video.
 
-![ vimeo-upload-video.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg  )
+![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
 
 2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
 
-![ vimeo-edit-setting.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg  )
+![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
 
 3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
 
-![  vimeo-upload-captions.jpg]( https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg  )
+![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
 
 4. It’s now time to select your caption file and choose which type and language you require.
 
-![ vimeo-caption.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg  )
+![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
 
 5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
 
-![ vimeo-caption-setting.jpg ](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg   )
+![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
 
  Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
 
@@ -173,7 +173,7 @@ Follow @Ollie Mattison
 
  When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
 
- You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play]( http://www.3playmedia.com/services-features/overview/ ) , [Rev]( https://www.rev.com/services ) or [Amara]( https://amara.org/en/  ).
+ You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
 
  There are numerous file formats to choose from including srt, scc and ttml.
 
@@ -183,23 +183,23 @@ Follow @Ollie Mattison
 
 1. You need to start by logging into your Vimeo account and uploading your chosen video.
 
-![ vimeo-upload-video.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg  )
+![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
 
 2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
 
-![ vimeo-edit-setting.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg  )
+![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
 
 3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
 
-![  vimeo-upload-captions.jpg]( https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg  )
+![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
 
 4. It’s now time to select your caption file and choose which type and language you require.
 
-![ vimeo-caption.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg  )
+![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
 
 5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
 
-![ vimeo-caption-setting.jpg ](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg   )
+![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
 
  Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
 
@@ -243,7 +243,7 @@ Follow @Ollie Mattison
 
  When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
 
- You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play]( http://www.3playmedia.com/services-features/overview/ ) , [Rev]( https://www.rev.com/services ) or [Amara]( https://amara.org/en/  ).
+ You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
 
  There are numerous file formats to choose from including srt, scc and ttml.
 
@@ -253,23 +253,23 @@ Follow @Ollie Mattison
 
 1. You need to start by logging into your Vimeo account and uploading your chosen video.
 
-![ vimeo-upload-video.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg  )
+![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
 
 2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
 
-![ vimeo-edit-setting.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg  )
+![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
 
 3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
 
-![  vimeo-upload-captions.jpg]( https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg  )
+![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
 
 4. It’s now time to select your caption file and choose which type and language you require.
 
-![ vimeo-caption.jpg ]( https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg  )
+![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
 
 5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
 
-![ vimeo-caption-setting.jpg ](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg   )
+![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
 
  Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
 

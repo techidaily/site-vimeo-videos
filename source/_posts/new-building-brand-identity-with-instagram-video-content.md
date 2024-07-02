@@ -1,7 +1,7 @@
 ---
 title: "[New] Building Brand Identity with Instagram Video Content"
-date: 2024-05-22T05:31:11.105Z
-updated: 2024-05-23T05:31:11.105Z
+date: 2024-07-01T21:36:24.355Z
+updated: 2024-07-02T21:36:24.355Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Building Brand Identity with Instagram Video Content"
 excerpt: "This Article Describes [New] Building Brand Identity with Instagram Video Content"
 keywords: "Brand Identity on IGTV,IG Video Marketing,IG Profile Creation,Visual Brand Storytelling,Engaging IG Posts,IG Content Strategy,Social Media Branding"
-thumbnail: https://www.lifewire.com/thmb/vb8EXUrtW_UZX4cSF-dcsLm6zRU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-988417820-5b4bcb16c9e77c0037fc2245.jpg
+thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6156836ba9860fa44be8739e.jpg
 ---
 
 ## Building Brand Identity with Instagram Video Content

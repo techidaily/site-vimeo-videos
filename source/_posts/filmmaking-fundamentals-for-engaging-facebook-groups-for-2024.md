@@ -1,7 +1,7 @@
 ---
 title: "Filmmaking Fundamentals for Engaging Facebook Groups for 2024"
-date: 2024-05-22T05:31:57.004Z
-updated: 2024-05-23T05:31:57.004Z
+date: 2024-07-01T21:36:29.483Z
+updated: 2024-07-02T21:36:29.483Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Filmmaking Fundamentals for Engaging Facebook Groups for 2024"
 excerpt: "This Article Describes Filmmaking Fundamentals for Engaging Facebook Groups for 2024"
 keywords: "Film Making Basics,Group Engagement FB,Social Media Filmmaking,Directing Online Communities,Video Content Creation,Producing Social Films,Interactive Facebook Filming"
-thumbnail: https://www.lifewire.com/thmb/ZcmxiC1dSbYycdBHzKQOeTES2Oc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001-be0b90f382934bec96a98506a6a0953e.jpg
+thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa73283e591a5a7261febdc4cbc2c.jpg
 ---
 
 ## Filmmaking Fundamentals for Engaging Facebook Groups

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Engaging Audiences  Making Popular YouTube Shorts for 2024\""
-date: 2024-05-22T05:43:22.375Z
-updated: 2024-05-23T05:43:22.375Z
+date: 2024-07-01T21:36:33.014Z
+updated: 2024-07-02T21:36:33.014Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Engaging Audiences: Making Popular YouTube Shorts for 2024\""
 excerpt: "\"This Article Describes [Updated] Engaging Audiences: Making Popular YouTube Shorts for 2024\""
 keywords: "YouTube Short Tactics,Engage Video Viewers,Effective Content Shots,Popular Short Videos,Viral Media Strategies,Audience Video Appeal,Short Form Content Craft"
-thumbnail: https://www.lifewire.com/thmb/sPXzCSZ7OsfyIg4VwzEwTRNYrhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-558946397-594822905f9b58d58ac71444.jpg
+thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37963b2732e636693601b56f7.jpg
 ---
 
 ## Engaging Audiences: Making Popular YouTube Shorts
