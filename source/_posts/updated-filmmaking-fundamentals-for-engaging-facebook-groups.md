@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Filmmaking Fundamentals for Engaging Facebook Groups"
-date: 2024-05-22T05:32:02.388Z
-updated: 2024-05-23T05:32:02.388Z
+date: 2024-07-09T13:15:10.848Z
+updated: 2024-07-10T13:15:10.848Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Filmmaking Fundamentals for Engaging Facebook Groups"
 excerpt: "This Article Describes [Updated] Filmmaking Fundamentals for Engaging Facebook Groups"
 keywords: "Film Making Basics,Group Engagement FB,Social Media Filmmaking,Directing Online Communities,Video Content Creation,Producing Social Films,Interactive Facebook Filming"
-thumbnail: https://www.lifewire.com/thmb/AW1jhGryXGG4EP2FvtFvhUOapCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ChatGPT-vs-Gemini-5b3a3afa5db547caac70eb4e607bc48c.jpg
+thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc610ca573f8ea2783fc3752f47.jpg
 ---
 
 ## Filmmaking Fundamentals for Engaging Facebook Groups
