@@ -1,7 +1,7 @@
 ---
 title: "\"Leveraging Likes  A Guide to Profitable Vimeo Marketing for 2024\""
-date: 2024-06-24T04:57:04.128Z
-updated: 2024-06-25T04:57:04.128Z
+date: 2024-07-15T16:20:23.870Z
+updated: 2024-07-16T16:20:23.870Z
 tags:
   - ai video
   - ai vimeo
@@ -21,10 +21,13 @@ Interested in turning your passion into profit as a filmmaker or content creator
 
 Additionally, Wondershare Filmora enhances your videos for Vimeo monetization. You'll learn about monetizing Vimeo videos in this article. Including tips on maximizing exposure and revenue for your content.
 
-**Vimeo Video Editor** A cross-platform for enhancing your videos for Vimeo monetization![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
+**Vimeo Video Editor** A cross-platform for enhancing your videos for Vimeo monetization ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Introduce Vimeo Monetization Options and Explain What It Is
 
 ### Vimeo - what is it?
@@ -95,6 +98,9 @@ The four membership packages on Vimeo are Plus, PRO, Business, and Premium. $7 p
 
 ![vimeo- pricing plans](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Monetization of Vimeo vs. YouTube: Which is Most Effective?
 
 Videos can be uploaded and watched on the YouTube platform. Since its founding in 2005, YouTube has amassed 2 billion users and 51 million channels. In contrast, Vimeo allows businesses to share video content, and hosts and streams video content. In addition to having over 200 million active users, Vimeo hosts 1.5 million videos for a fee.
@@ -115,6 +121,9 @@ Users of Vimeo can choose from a variety of business models. YouTube does not ch
 
 You'll need a PayPal account to withdraw money from Vimeo. Creators' earnings are determined by tax rates and currencies in their countries. Gross earnings are usually taxed at 10%.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vimeo vs youtube](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-6.jpg)
 
 ### Model for Revenue Sharing
@@ -189,14 +198,23 @@ You should explore Vimeo and Filmora if you are a content creator. Share your cr
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Introduce Vimeo Monetization Options and Explain What It Is
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Vimeo - what is it?
 
 In 2004, Jake Lodwick and Zach Klein created Vimeo, an American video platform. At first, it was a website that collected funny videos as a spinoff of CollegeHumor. As Vimeo became part of IAC in 2006, it began focusing on high-definition video. The company makes money by providing subscription plans to businesses and content producers. Members have access to everything they need to create, edit, and broadcast videos. Software solutions are also available for corporate clients. Professionals in the video industry use Vimeo to find clients and projects.
 
 In 2021, Vimeo had more than 230 million users, including 1.6 million paying subscribers. There are about 60 million content creators among its users. Guess what, in May 2021, when Vimeo, a cool video company, started selling its shares, each share was worth $52.08\. This meant that they made $96 million that year. The increase is 42% over last year!
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vimeo- what is it](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-1.JPG)
 
 ### The monetization options available on Vimeo
@@ -221,6 +239,9 @@ Vimeo Live lets you live stream your performances and events. Your live events c
 
 Tip Jars on Vimeo allow your audience to tip you directly for your content. With Vimeo Tip Jar, your audience can leave tips directly on Vimeo. By using this feature, you won't have to sell directly to your viewers. A Plus or Pro account is required to use Vimeo Tip Jar. Start receiving tips from your audience once you've upgraded your account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![vimeo- monetization options available](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-2.jpg)
 
 #### 6\. Stock Video Sales
@@ -241,6 +262,9 @@ After selecting the monetization option, you need to configure the method. You n
 
 Now upload your videos so everyone can watch them. You should upload engaging, informative videos of high quality. It's important to create quality content for your videos, since they are your product.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vimeo- upload video](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-3.JPG)
 
 ##### Step 4Boost your video's visibility
@@ -253,16 +277,28 @@ Take a closer look at how your Vimeo video is performing. Analyze the views, lik
 
 ![vimeo- analyze your performance](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-4.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Data storage limits and pricing
 
 The four membership packages on Vimeo are Plus, PRO, Business, and Premium. $7 per month is the minimum fee and $75 per month is the maximum. The maximum storage limit for a free basic package is 500MB per week.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vimeo- pricing plans](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 3\. Monetization of Vimeo vs. YouTube: Which is Most Effective?
 
 Videos can be uploaded and watched on the YouTube platform. Since its founding in 2005, YouTube has amassed 2 billion users and 51 million channels. In contrast, Vimeo allows businesses to share video content, and hosts and streams video content. In addition to having over 200 million active users, Vimeo hosts 1.5 million videos for a fee.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Options for monetization
 
 #### ● YouTube Monetization
@@ -287,12 +323,18 @@ Both websites are very different in terms of revenue generation. Vimeo offers it
 
 Ads dominate YouTube, however. You will likely see ads on YouTube before, during, and after watching a video. YouTube generates revenue while advertisers can target virtually any audience. Advertisements shown with video content allow creators to monetize their content. Views need to be in the hundreds of thousands in order to generate anything substantial in ad revenue (55%).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Audience Reach and Requirements
 
 You need at least 1,000 subscribers and 4,000 watch hours on your channel to become a YouTube Partner. Channel memberships and ad revenue are then available. It can be challenging to stand out on YouTube due to its vast audience reach.
 
 It's easier to be flexible with Vimeo. A percentage of your revenue is deducted from their fee. YouTube's audience is also smaller, but Vimeo's is typically more engaged. Quality over quantity makes it a good choice for creators. It's about balancing audience size with potential earnings.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Benefits and Drawbacks of YouTube and Vimeo
 
 #### Benefits of YouTube
@@ -372,3 +414,54 @@ You should explore Vimeo and Filmora if you are a content creator. Share your cr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-fresh-feasts-international-recipes-going-viral/"><u>In 2024, Fresh Feasts  International Recipes Going Viral</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-new-skies-with-syma-x5c-an-experts-take-for-novices/"><u>[Updated] Navigating New Skies with Syma X5C – An Expert’s Take for Novices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/becoming-the-next-star-how-to-utilize-voice-changer-plus-app-for-iphones-effectively/"><u>Becoming the Next Star How to Utilize Voice Changer Plus App for iPhones Effectively</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/video-editing-mystery-imovies-automatic-cropping-puzzle-for-2024/"><u>Video Editing Mystery  IMovie's Automatic Cropping Puzzle for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeos-complimentary-guide-essential-video-editing-skills/"><u>In 2024, Vimeo’s Complimentary Guide  Essential Video Editing Skills</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-budget-friendly-tools-for-seamless-edits-for-2024/"><u>Vimeo's Budget-Friendly Tools for Seamless Edits for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-recorder-tips-effective-screen-and-camera-capturing-techniques/"><u>[Updated] Vimeo Recorder Tips  Effective Screen & Camera Capturing Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-revenue-revolution-strategies-for-sustainable-earnings-for-2024/"><u>Vimeo's Revenue Revolution  Strategies for Sustainable Earnings for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-all-inclusive-list-best-downloader-software-for-vimeo/"><u>[New] 2024 Approved  All-Inclusive List  Best Downloader Software for Vimeo</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevating-your-contents-impact-an-in-depth-look-at-youtube-thumbnail-size/"><u>[New] 2024 Approved  Elevating Your Content's Impact  An In-Depth Look at YouTube Thumbnail Size</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-5-leading-chrome-modifiers-seamless-vimeo-downloads/"><u>[Updated] In 2024, 5 Leading Chrome Modifiers  Seamless Vimeo Downloads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/your-video-their-feast-how-to-craft-gifs-from-vimeo-videos-for-2024/"><u>Your Video, Their Feast  How to Craft GIFs From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-comprehensive-guide-to-thumbnail-production-for-2024/"><u>[New] A Comprehensive Guide to Thumbnail Production for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/which-ios-video-editor-excels-more-cameo-or-filmorago-in-2024/"><u>Which iOS Video Editor Excels More  Cameo or FilmoraGo, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>[Updated] Your Video, Their Feast  How to Craft GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/which-vimeo-e-sy-option-suits-your-needs-in-2024/"><u>Which Vimeo E-Sy Option Suits Your Needs, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>[New] In 2024, A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-gain-more-views-beginners-guide-to-youtube-seo/"><u>[New] Gain More Views  Beginner’s Guide to YouTube SEO</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-accelerate-your-vimeo-experience/"><u>[Updated] 2024 Approved  Accelerate Your Vimeo Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-5-best-browser-extensions-streamlined-vimeo-download/"><u>[Updated] In 2024, 5 Best Browser Extensions  Streamlined Vimeo Download</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-mastery-in-motion-building-high-impact-gifs/"><u>[New] Vimeo Mastery in Motion  Building High-Impact GIFs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-streaming-to-mp3-a-compreenas-guide/"><u>[Updated] Vimeo Streaming to MP3 - A Compreenas Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-accelerated-download-solutions-for-vimeo-files/"><u>[New] 2024 Approved  Accelerated Download Solutions for Vimeo Files</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-swiftly-survey-your-windows-documentation-for-2024/"><u>[New] Swiftly Survey Your Windows Documentation for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-zero-dollar-video-editing-pathway/"><u>[New] Vimeo's Zero-Dollar Video Editing Pathway</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-detailed-walkthrough-embedding-online-video-into-ms-presentations-for-2024/"><u>[New] A Detailed Walkthrough  Embedding Online Video Into MS Presentations for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-accelerating-vimeo-content-streams-for-2024/"><u>[Updated] Accelerating Vimeo Content Streams for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-whats-ideal-for-you-understanding-vimeo-membership-tiers/"><u>2024 Approved  What's Ideal for You? Understanding Vimeo Membership Tiers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/what-is-vimeo-a-peek-at-innovative-content-sharing-for-2024/"><u>What Is Vimeo? A Peek at Innovative Content Sharing for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-best-practices-for-imovie-videos-entering-the-vimeo-realm/"><u>[New] 2024 Approved  Best Practices for iMovie Videos Entering the Vimeo Realm</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/which-ios-app-crushes-in-video-editing-for-2024-cameo-or-filmorago/"><u>Which iOS App Crushes in Video Editing for 2024 Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-to-gif-how-to-make-a-gif-from-vimeo-video/"><u>In 2024, Vimeo to GIF  How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-adding-closed-captions-to-vimeo-footage/"><u>[New] In 2024, Adding Closed Captions to Vimeo Footage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-unpacked-dedicated-to-video-showcase-and-sharing/"><u>2024 Approved  Vimeo Unpacked  Dedicated to Video Showcase and Sharing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>2024 Approved  Your Video, Their Feast  How to Craft GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-flash-of-stardom-video-examination/"><u>[New] 2024 Approved  A Flash of Stardom - Video Examination</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-adding-background-melodies-to-vimeo-filmography-for-2024/"><u>[New] Adding Background Melodies to Vimeo Filmography for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-revenue-rise-how-to-harness-the-power-of-ads/"><u>In 2024, Vimeo Revenue Rise  How to Harness the Power of Ads</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeos-easy-to-use-editing-tools-no-cost/"><u>In 2024, Vimeo's Easy-to-Use Editing Tools, No Cost</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-accelerate-vimeo-video-experience/"><u>[Updated] 2024 Approved  Accelerate Vimeo Video Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-step-by-step-to-adding-music-to-vimeo-videos/"><u>[New] 2024 Approved  A Step-by-Step to Adding Music to Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-video-segmentation-adding-chapters-for-clarity/"><u>2024 Approved  Vimeo Video Segmentation  Adding Chapters for Clarity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-winning-with-windows-videos-tips-for-enhancing-vimeo-feeds/"><u>In 2024, Winning with Windows Videos  Tips for Enhancing Vimeo Feeds</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-guide-implementing-vimeo-end-cuts-for-2024/"><u>[New] A Step-by-Step Guide  Implementing Vimeo End Cuts for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vimeo Explained  A Streaming Media Service for 2024\""
-date: 2024-05-22T05:54:24.849Z
-updated: 2024-05-23T05:54:24.849Z
+date: 2024-07-15T15:55:13.178Z
+updated: 2024-07-16T15:55:13.178Z
 tags:
   - ai video
   - ai vimeo
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Vimeo Explained: A Streaming Media Service for 2024\""
 excerpt: "\"This Article Describes [Updated] Vimeo Explained: A Streaming Media Service for 2024\""
 keywords: "Vimeo Video Streaming,Vimeo Media Host,Vimeo Content Distribution,Vimeo Online Platform,Vimeo Video Services,Vimeo Video Solutions,Vimeo Streaming Technology"
-thumbnail: https://www.lifewire.com/thmb/euGB2OxWSMCs0I-pIsw21DKONQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/singled-out-687864396-593c83153df78c537b5d9e50.jpg
+thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9fa867d443daa8eb75630573f.jpg
 ---
 
 ## Vimeo Explained: A Streaming Media Service
@@ -51,6 +51,9 @@ thumbnail: https://www.lifewire.com/thmb/euGB2OxWSMCs0I-pIsw21DKONQM=/400x300/fi
 
  Take a look at Vimeo Membership Comparison here: [Vimeo Basic, Vimeo Plus or Vimeo Pro: Which is Right for You?](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Making Videos on Vimeo
 
  There are a lot of excellent features that Vimeo users are able to access including the following:
@@ -75,6 +78,9 @@ thumbnail: https://www.lifewire.com/thmb/euGB2OxWSMCs0I-pIsw21DKONQM=/400x300/fi
 
  Although you won’t earn money through advertisements there is still a way to earn money on Vimeo. That is through the ‘tip jar’ which lets your viewers make small donations to you to show their appreciation if they wish.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Watching Videos on Vimeo
 
 #### 1  Staff Picks
@@ -217,6 +223,9 @@ Follow @Ollie Mattison
 
  There’s nothing worse than finding a great video and having to squint to be able to watch it on the small screen. Couch mode allows you to fill the screen with the videos which allows you to enjoy them in the same way you would a DVD at home rather than distractions from the rest of the site.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Downloading Videos from Vimeo
 
  If you want to download a video then follow the instructions below:
@@ -241,6 +250,9 @@ Follow @Ollie Mattison
 
  You may also like: [How To Download Vimeo Video to MP4](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
  Vimeo is an excellent platform if you are serious about creating films on a more professional level. There are different levels of membership to suit your usage and the people that comment on videos are moderated so there is less chance of negative rude feedback. You can also select your target audience and being ad free the focus is on the videos rather than the pre advertisements.
@@ -261,8 +273,14 @@ Follow @Ollie Mattison
 
  To find out more about how Vimeo can benefit you watch this Video:
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Membership
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![vimeo-accounts-comparison](https://images.wondershare.com/filmora/article-images/vimeo-accounts-comparison.jpg)
 
  Vimeo offers several different options for members who want specific storage and feature needs.
@@ -283,6 +301,9 @@ Follow @Ollie Mattison
 
  Take a look at Vimeo Membership Comparison here: [Vimeo Basic, Vimeo Plus or Vimeo Pro: Which is Right for You?](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Making Videos on Vimeo
 
  There are a lot of excellent features that Vimeo users are able to access including the following:
@@ -353,6 +374,9 @@ Follow @Ollie Mattison
 
 * Click link while pressing control and select save
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download-vimeo-mac](https://images.wondershare.com/filmora/article-images/download-vimeo-mac.jpg)
 
  You may also like: [How To Download Vimeo Video to MP4](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -361,6 +385,9 @@ Follow @Ollie Mattison
 
  Vimeo is an excellent platform if you are serious about creating films on a more professional level. There are different levels of membership to suit your usage and the people that comment on videos are moderated so there is less chance of negative rude feedback. You can also select your target audience and being ad free the focus is on the videos rather than the pre advertisements.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -377,8 +404,14 @@ Follow @Ollie Mattison
 
  To find out more about how Vimeo can benefit you watch this Video:
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 1\. Membership
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vimeo-accounts-comparison](https://images.wondershare.com/filmora/article-images/vimeo-accounts-comparison.jpg)
 
  Vimeo offers several different options for members who want specific storage and feature needs.
@@ -449,6 +482,9 @@ Follow @Ollie Mattison
 
  There’s nothing worse than finding a great video and having to squint to be able to watch it on the small screen. Couch mode allows you to fill the screen with the videos which allows you to enjoy them in the same way you would a DVD at home rather than distractions from the rest of the site.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Downloading Videos from Vimeo
 
  If you want to download a video then follow the instructions below:
@@ -473,6 +509,9 @@ Follow @Ollie Mattison
 
  You may also like: [How To Download Vimeo Video to MP4](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Summary
 
  Vimeo is an excellent platform if you are serious about creating films on a more professional level. There are different levels of membership to suit your usage and the people that comment on videos are moderated so there is less chance of negative rude feedback. You can also select your target audience and being ad free the focus is on the videos rather than the pre advertisements.
@@ -508,3 +547,63 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook.techidaily.com/embracing-the-digital-evolution-understanding-metaverse-in-fb/"><u>Embracing the Digital Evolution: Understanding Metaverse in FB</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-greatest-competitors-to-vimeos-cameo-editor-platform/"><u>[New] Greatest Competitors to Vimeo's Cameo Editor Platform</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rejuvenated-interview-framework-for-auditory-appeal/"><u>2024 Approved  Rejuvenated Interview Framework for Auditory Appeal</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-blend-inserting-music-into-fb-video-posts/"><u>[New] Seamless Blend  Inserting Music Into FB Video Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>In 2024, How to Make Money on Vimeo  Your Ultimate Guide to Vimeo Monetization</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-gionee-f3-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Gionee F3 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-techniques-for-saving-vimeo-videos-as-high-quality-mp4s/"><u>[Updated] Expert Techniques for Saving Vimeo Videos as High-Quality MP4s</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-speed-up-vimeo-videos/"><u>[New] How to Speed Up Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-content-choosing-right-youtube-duosgroups/"><u>[New] 2024 Approved  Elevating Your Content  Choosing Right YouTube Duos/Groups</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-full-size-photos-to-miniature-expert-thumbnail-crafting/"><u>[Updated] From Full-Size Photos to Miniature  Expert Thumbnail Crafting</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/joining-flv-files-a-step-by-step-guide/"><u>Joining FLV Files  A Step-by-Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-gain-popularity-power-secrets-to-staff-picked-videos-on-vimeo/"><u>In 2024, Gain Popularity Power  Secrets to Staff-Picked Videos on Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-deep-dive-into-freeweb-recorder-v2-interface/"><u>[New] Deep Dive Into FreeWeb Recorder V2 Interface</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-gaming-platforms-top-sites-to-download-games-for-2024/"><u>Updated Best Gaming Platforms Top Sites to Download Games for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos/"><u>[Updated] Master the Art of Video Crafting  Integrating StoryRemix with Windows 11 Photos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/assessing-mr-beasts-monetary-trajectory/"><u>Assessing Mr. Beast’s Monetary Trajectory</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-immediate-strategies-for-enhancing-your-thumbnail-designs/"><u>2024 Approved  Immediate Strategies for Enhancing Your Thumbnail Designs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-insert-a-vimeo-video-into-powerpoint/"><u>2024 Approved  How to Insert a Vimeo Video Into PowerPoint</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-make-vimeo-videos/"><u>2024 Approved  How to Make Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-learn-video-editing-on-vimeo-a-budget-friendly-approach/"><u>In 2024, Learn Video Editing on Vimeo  A Budget-Friendly Approach</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/greatest-competitors-to-vimeos-cameo-editor-platform-for-2024/"><u>Greatest Competitors to Vimeo's Cameo Editor Platform for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-guide-to-successfully-post-movies-made-with-wmm-onto-vimeo/"><u>2024 Approved  Guide to Successfully Post Movies Made with WMM Onto Vimeo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionary-subtitle-software-choose-the-leading-10-web-apps/"><u>[New] Revolutionary Subtitle Software - Choose the Leading 10 Web Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-go-global-with-gifs-converting-vimeo-video-to-animation/"><u>[Updated] Go Global with GIFs  Converting Vimeo Video to Animation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audience-allure-powerful-hashtags-that-transform-youtube-shorts-for-2024/"><u>[New] Audience Allure  Powerful Hashtags That Transform YouTube Shorts for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-free-to-use-vimeo-tips-to-master-your-videos/"><u>[Updated] Free-to-Use Vimeo Tips to Master Your Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-hastening-vimeo-media-transmission/"><u>2024 Approved  Hastening Vimeo Media Transmission</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-make-vimeo-videos/"><u>In 2024, How to Make Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-from-large-files-to-tiny-previews-crafting-stunning-thumbnails/"><u>[New] From Large Files to Tiny Previews  Crafting Stunning Thumbnails</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-leading-chrome-extensions-simplified-vimeo-retrievals/"><u>2024 Approved  Leading Chrome Extensions  Simplified Vimeo Retrievals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-free-to-use-vimeo-tips-to-master-your-videos/"><u>[New] Free-to-Use Vimeo Tips to Master Your Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-harnessing-the-power-of-software-for-seamless-vimeo-video-downloads/"><u>2024 Approved  Harnessing the Power of Software for Seamless Vimeo Video Downloads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-guide-to-post-movie-wmm-content-on-vimeo-platform/"><u>In 2024, Guide to Post Movie WMM Content on Vimeo Platform</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-tips-to-get-your-video-staff-picked-on-vimeo/"><u>In 2024, Tips to Get Your Video “Staff Picked” On Vimeo</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tep-up-your-game-free-software-for-professional-thumbnails/"><u>[New] Step Up Your Game  Free Software for Professional Thumbnails</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-identifying-the-most-fitting-vimeo-membership-level/"><u>In 2024, Identifying the Most Fitting Vimeo Membership Level</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ideal-tools-for-secure-vimeo-downloads/"><u>[New] Ideal Tools for Secure Vimeo Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fluidity-in-filming-a-deep-dive-into-inshots-transition-features/"><u>In 2024, Fluidity in Filming  A Deep Dive Into Inshot's Transition Features</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ideal-chrome-extensions-swift-and-efficient-vimeo-downloading/"><u>2024 Approved  Ideal Chrome Extensions  Swift and Efficient Vimeo Downloading</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-greatest-competitors-to-vimeos-cameo-editor-platform/"><u>[Updated] Greatest Competitors to Vimeo's Cameo Editor Platform</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-add-music-to-vimeo-videos/"><u>2024 Approved  How to Add Music to Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>2024 Approved  How to Amass Wealth  The Art of Vimeo Video Monetization</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-convert-any-vimeo-video-to-a-secure-mp4-file/"><u>[New] How To Convert Any Vimeo Video to a Secure MP4 File</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/"><u>In 2024, High-End Downloads  Best 10 Apps for Extracting Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-make-a-gif-from-vimeo-video/"><u>[Updated] How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-use-vimeo-record-tool-for-2024/"><u>How to Use Vimeo Record Tool for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-leading-apps-top-10-choices-for-seamless-vimeo-file-extraction/"><u>2024 Approved  Leading Apps  Top 10 Choices for Seamless Vimeo File Extraction</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-guide-to-successfully-post-movies-made-with-wmm-onto-vimeo/"><u>[Updated] Guide to Successfully Post Movies Made with WMM Onto Vimeo</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/innovative-techniques-for-final-frame-enhancements-on-vimeo-for-2024/"><u>Innovative Techniques for Final Frame Enhancements on Vimeo for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-maximize-your-content-impact-with-imovie-on-vimeo/"><u>[New] How to Maximize Your Content Impact with iMovie on Vimeo</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-converting-youtube-videos-to-mp3-tips-tricks-and-reviews/"><u>Updated 2024 Approved The Ultimate Guide to Converting YouTube Videos to MP3 Tips, Tricks, and Reviews</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-leveraging-likes-a-guide-to-profitable-vimeo-marketing/"><u>2024 Approved  Leveraging Likes  A Guide to Profitable Vimeo Marketing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-master-class-extracting-and-saving-vimeo-videos/"><u>2024 Approved  Master Class  Extracting and Saving Vimeo Videos</u></a></li>
+</ul></div>
