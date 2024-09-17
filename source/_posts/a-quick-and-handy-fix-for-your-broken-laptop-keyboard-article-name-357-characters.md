@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2024-09-12T08:10:31.281Z
-updated: 2024-09-13T08:10:31.281Z
+date: 2024-09-15T19:01:23.079Z
+updated: 2024-09-17T16:46:10.722Z
 tags:
   - win11
   - win10
@@ -37,42 +37,9 @@ When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
 
@@ -88,36 +55,9 @@ If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
 
@@ -125,14 +65,14 @@ If you have tried the above methods but they are not helpful, you may need to pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -156,16 +96,18 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-non-gta-worlds-a-list-of-comparable-mega-hits/"><u>[New] 2024 Approved Non-GTA Worlds A List of Comparable Mega-Hits</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-slice-and-tag-the-art-of-chaptering-in-vimeo/"><u>[New] In 2024, Slice and Tag The Art of Chaptering in Vimeo</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastery-in-motion-choosing-your-path-for-vimeo-download-tools/"><u>[Updated] In 2024, Mastery in Motion Choosing Your Path for Vimeo Download Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quick-guide-extract-vimeo-videos-as-mp4s/"><u>[Updated] In 2024, Quick Guide Extract Vimeo Videos as MP4s</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-discovering-the-best-10-online-tools-for-vimeo-videos/"><u>2024 Approved Discovering the Best 10 Online Tools for Vimeo Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-srt-to-xml-ssa-and-ttml-transformations/"><u>2024 Approved Expert Tips for SRT-to-XML, SSA, and TTML Transformations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/affordable-pc-screen-grabber-selection-list-for-2024/"><u>Affordable PC Screen Grabber Selection List for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users/"><u>In 2024, Edit Large Videos in No Time A Step-by-Step Guide for Mac Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-learn-how-to-blur-facesbackgroundimages-in-photoshop/"><u>In 2024, Learn How to Blur Faces/Background/Images in Photoshop</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-melodic-memory-bank-save-and-analyze-music-files/"><u>In 2024, Melodic Memory Bank Save & Analyze Music Files</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-audio-drivers-woes-in-win11/"><u>Overcoming Audio Drivers Woes in Win11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-hot-picks-best-free-screen-recorders-for-windows-users/"><u>[New] 2024 Approved Hot Picks Best Free Screen Recorders For Windows Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-profit-strategies-for-vimeo-content-creators/"><u>[New] 2024 Approved Mastering Profit Strategies for Vimeo Content Creators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-turn-your-videos-into-money-with-vimeo-expertise/"><u>[New] How to Turn Your Videos Into Money with Vimeo Expertise</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficiency-and-speed/"><u>[Updated] Efficiency and Speed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-dive-into-vimeos-free-premium-and-pro-plans-and-their-benefits/"><u>[Updated] In 2024, Dive Into Vimeo's Free, Premium & Pro Plans and Their Benefits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-steady-shots-expert-tips-on-tripods-in-vlog-production/"><u>[Updated] Steady Shots Expert Tips on Tripods in Vlog Production</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>[Updated] The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-brainstorming-to-publishing-leveraging-chatgpt-in-content-production/"><u>From Brainstorming to Publishing: Leveraging ChatGPT in Content Production</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/garmins-best-yet-a-critical-look-at-the-745-multisport-fitness-tracker-reviewed/"><u>Garmin's Best Yet? A Critical Look at the 745 Multisport Fitness Tracker Reviewed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-permanently-store-preview-pictures-in-your-word-files/"><u>How to Permanently Store Preview Pictures in Your Word Files</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-audiovisual-synergy-infusing-music-into-vimeo-creations/"><u>In 2024, Audiovisual Synergy Infusing Music Into Vimeo Creations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-links-budget-marvel-a-comprehensive-review-of-the-archer-c50-model/"><u>TP-Link's Budget Marvel: A Comprehensive Review of the Archer C50 Model</u></a></li>
 </ul></div>
 

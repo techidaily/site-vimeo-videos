@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of LG K51: Stunning Design Compromised by Sluggish Performance"
-date: 2024-09-12T08:10:17.776Z
-updated: 2024-09-13T08:10:17.776Z
+date: 2024-09-11T19:24:21.833Z
+updated: 2024-09-17T17:07:01.888Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of LG K51: Stunning Design Compromised by Sluggish Performance"
@@ -13,29 +13,9 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Watch Active2
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/Ttod1pj32tMmx9tm6GR5CMHEa1w=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_HeroSquare-8ec2b040552f4e82b569c140246d3e1f.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -63,13 +43,6 @@ Lifewire / Yoona Wagener
 ## Samsung Galaxy Watch Active2
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/pQyytjsyngWSMZ0b1hCE3_tAtsA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_HeroSquare-8ec2b040552f4e82b569c140246d3e1f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -102,19 +75,6 @@ Lifewire / Yoona Wagener
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/N4yT__TbwVbN6a39Bt2U0VY1NIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_02-4211271093364edba39310d3d9b09691.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
 
  This display comes with intuitive inputs in every direction and two helpful buttons that serve as the back and home buttons. The home button also takes you to the main app directory and serves as the power button. You have the option of toggling through by tapping each item or using the digital bezel feature that’s just as effective as a physical mechanism.
@@ -131,19 +91,6 @@ Lifewire / Yoona Wagener
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/gunjRIGy7Cir3f3FzUIqbpUlAys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_04-46b9b421390a44f0b0dd7ad8a48a428a.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
 
  The Active2 also offers more effortless connectivity by remembering text history and offering the ease of quick replies, including[Bitmoji](https://www.lifewire.com/bitmoji-explained-4137793) and canned responses right from the watch. It also doubles down on fitness and wellness tech by improving running analysis and offering ECG monitoring and fall detection. These features put it in direct company with the[Apple Watch](https://www.lifewire.com/apple-watch-basics-4121197) and Fitbit and Garmin smartwatches that dial up the fitness and wellness focus.
@@ -156,22 +103,16 @@ Lifewire / Yoona Wagener
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/IL7xAj-uHT_sJJ1J34PbgpVSibk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_05-08f63a3d72d745ee95763d2bfbdccfbc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  Though it has a sporty edge, the band is replaceable for a more formal style, and the color options add personality that rivals models from brands such as Apple, Fitbit, and Garmin. Take color coordination further by adding your favorite shades using the My style watch face. Even if you stick with basic black, the Active2 provides a strong case for 24/7 wear as a smartwatch that blends in nicely for daily wear.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: A much-improved fitness tracker
 
@@ -189,6 +130,19 @@ Lifewire / Yoona Wagener
 
  The Active2 performed with flying colors outside of running, automatically detecting walking and cycling workouts, tracking sleep cycles, and encouraging movement throughout the day. I got a kick out of the friendly animated figures that popped up if I hadn’t moved within the hour, suggesting I take a walk or stretch—and offering a pat on the back when I started and stayed moving.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery: Not an overachiever but consistent
 
  Samsung suggests that the Active2 should last 43 hours in the aluminum version and 60 hours in the stainless steel model. The claim that this is a multi-day device is right on target. I saw a consistent run time of 2.5 to three days, depending on how I used it. Streaming Spotify music or enabling the always-on display during runs predictably depleted the battery faster.
@@ -196,13 +150,6 @@ Lifewire / Yoona Wagener
  If you’re hoping to extend the battery further, the power-saving mode is worth applying. The wireless charging attachment conveniently displays the anticipated charge time depending on how depleted the battery is. From completely drained to 100 percent, I logged a solid 1 hour and 40 minute charge time.
 
  I saw a consistent run time of 2.5 to three days, depending on how I used it. Streaming Spotify music or enabling the always-on display during runs predictably depleted the battery faster.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Software: Tizen OS delivers a well-rounded smartwatch experience
 
@@ -213,13 +160,6 @@ Lifewire / Yoona Wagener
  Android users enjoy the ease of responding to emails, calls, and messages directly from the Active2 (when it’s nearby and connected) with canned responses, emojis, and even voice input and hand-drawn responses. There’s also a new SOS feature for alerting a contact if you’ve experienced a fall. All of these features are made more accessible in standalone mode with the LTE model. Samsung Galaxy smartphone users enjoy even more symbiosis with their phones with features such as Wireless PowerShare and ECG monitoring from the Samsung Health app.
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/FGyDnFtFBooJPFED4m8KKx1gHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_03-03f2d0ff893f44228dbd65b6ce357f43.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -232,10 +172,10 @@ Lifewire / Yoona Wagener
  The Samsung Galaxy Watch Active2 starts at $250 for the Bluetooth model or $270 for the LTE version. These price points still slot this watch below the top-tier models that ask a premium of well over $400\. Even with the standard Bluetooth and Wi-Fi connected Active2, you’ll find a lineup of apps and tools that cover most smartwatch needs. From automatic fitness tracking and some advanced health metrics to call and text response and music storage, this small and capable wearable is multi-talented and priced reasonably for its abilities.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch Active 2 vs. Fitbit Sense
@@ -259,6 +199,19 @@ Lifewire / Yoona Wagener
 * [Apple Watch SE](https://www.lifewire.com/apple-watch-se-review-5088223)
 * [Garmin Vivomove HR](https://www.lifewire.com/garmin-vivomove-hr-review-4843913)
 * [Mobvoi TicWatch Pro 4G LTE](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -292,15 +245,17 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-7-high-impact-workout-videos-that-engage-and-energize-audiences/"><u>[New] In 2024, 7 High-Impact Workout Videos That Engage and Energize Audiences</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-transform-your-videos-into-revenue-streams-with-smart-vimeo-tactics/"><u>[Updated] 2024 Approved Transform Your Videos Into Revenue Streams with Smart Vimeo Tactics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-feathery-symphony-bebop-parrot-2-dissected/"><u>A Feathery Symphony – Bebop Parrot 2 Dissected</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beginners-guide-exploring-the-world-of-9-ai-tool-communities/"><u>Beginner's Guide: Exploring the World of 9 AI Tool Communities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-llm-unraveling-the-pros-and-cons-quickly/"><u>Choosing the Right LLM: Unraveling the Pros & Cons Quickly</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/designing-professional-youtube-editors-workflow-for-2024/"><u>Designing Professional YouTube Editors' Workflow for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-restore-your-steelseries-arctis-7-microphone-functionality/"><u>DIY Solutions to Restore Your SteelSeries Arctis 7 Microphone Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-do-large-scale-language-models-function-an-overview/"><u>How Do Large-Scale Language Models Function? An Overview</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-ensuring-your-video-shines-in-the-staff-pick-spotlight/"><u>In 2024, Ensuring Your Video Shines in the Staff Pick Spotlight</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-rising-above-vimeo-10-next-level-editing-applications-for-2024/"><u>[New] Rising Above Vimeo 10 Next-Level Editing Applications for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-definitive-guide-to-adding-closed-captions-in-vimeo-footage/"><u>[Updated] The Definitive Guide to Adding Closed Captions in Vimeo Footage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-monetize-smart-a-creative-approach-to-earning-with-vimeo/"><u>2024 Approved Monetize Smart A Creative Approach to Earning with Vimeo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypassing-dvd-regional-lockout-enjoy-american-films-down-under-with-no-geographic-boundaries/"><u>Bypassing DVD Regional Lockout: Enjoy American Films Down Under with No Geographic Boundaries</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-new-version-of-magicard-rio-pro-driver-for-enhanced-windows-performance-11-81-7/"><u>Download the New Version of Magicard Rio Pro Driver for Enhanced Windows Performance (11, 8.1, 7)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-preventing-and-solving-assassins-creed-odyssey-pc-freezing-issues/"><u>Guide to Preventing and Solving Assassin's Creed Odyssey PC Freezing Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-guide-to-avoidable-exposure-hiding-objects-and-faces-online/"><u>In 2024, Guide to Avoidable Exposure Hiding Objects and Faces Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-12-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme 12 Pro 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-editing-choosing-the-best-for-youtube-for-2024/"><u>Prime Editing Choosing the Best For YouTube for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/reimagining-user-engagement-top-10-video-editors-outside-vimeo-for-2024/"><u>Reimagining User Engagement Top 10 Video Editors Outside Vimeo for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/rev-up-your-earnings-a-deep-dive-into-vimeo-profits-for-2024/"><u>Rev Up Your Earnings A Deep Dive Into Vimeo Profits for 2024</u></a></li>
 </ul></div>
 

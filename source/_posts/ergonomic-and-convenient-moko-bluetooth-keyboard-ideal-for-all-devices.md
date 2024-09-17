@@ -1,7 +1,7 @@
 ---
 title: Ergonomic & Convenient MoKo Bluetooth Keyboard – Ideal for All Devices!
-date: 2024-09-12T08:10:12.583Z
-updated: 2024-09-13T08:10:12.583Z
+date: 2024-09-14T16:23:18.238Z
+updated: 2024-09-17T16:04:56.855Z
 categories:
   - BestProducts
 description: This Article Describes Ergonomic & Convenient MoKo Bluetooth Keyboard – Ideal for All Devices!
@@ -45,13 +45,6 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Emily Isaacs
 
 [View On Walmart $138](https://www.walmart.com/ip/Microsoft-Sculpt-Ergonomic-Desktop-Black-Wireless-USB-Keyboard-Keypad-and-Mouse/31390902?slfpid=3) [View On Best Buy $66](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F1818024.p) [View On Newegg.com $169](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fmicrosoft-sculpt-ergonomic-desktop-l5v-00001-usb-rf-wireless%2Fp%2FN82E16823109349%3Fitem%3D9SIA24G28N0197%26slfpid%3D3)
@@ -86,36 +79,15 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
@@ -125,20 +97,27 @@ Lifewire / Emily Isaacs
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
- Lifewire / Emily Isaacs
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Isaacs
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -153,16 +132,10 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -176,13 +149,6 @@ Lifewire / Emily Isaacs
  **A secure, mid-priced wireless keyboard with lots of customization options.**
 
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -214,17 +180,21 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[New] 2024 Approved Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-employee-training/"><u>[New] 2024 Approved Employee Training</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-infusing-identity-tips-for-iconic-podcast-graphics-for-2024/"><u>[New] Infusing Identity Tips for Iconic Podcast Graphics for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-microphones-for-idevices-and-their-benefits-explained/"><u>[Updated] Top Microphones for iDevices & Their Benefits Explained</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-captivating-unboxing-reels-top-tips-for-success-on-instagram/"><u>2024 Approved Crafting Captivating Unboxing Reels Top Tips for Success on Instagram</u></a></li>
-<li><a href="https://fox-links.techidaily.com/capture-words-from-your-speech-in-microsoft-word-easily-for-2024/"><u>Capture Words From Your Speech in Microsoft Word Easily for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/enhancing-accessibility-with-vimeo-subtitles/"><u>Enhancing Accessibility with Vimeo Subtitles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-shopping-spree-to-stunning-video-haul-editing-explained/"><u>In 2024, From Shopping Spree to Stunning Video Haul Editing Explained</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-pioneering-profit-navigating-the-path-to-money-making-on-vimeo/"><u>In 2024, Pioneering Profit Navigating the Path to Money-Making on Vimeo</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-post-editing-the-art-of-vimeos-final-screens/"><u>Streamlining Post-Editing The Art of Vimeo's Final Screens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-nba-experience-top-15-ways-to-watch-games-online-for-2024/"><u>The Ultimate NBA Experience - Top 15 Ways to Watch Games Online for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-masterminds-discover-the-founders-of-chatgpt/"><u>Unveiling the Masterminds: Discover the Founders of ChatGPT</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-comparative-analysis-of-fb-video-formats/"><u>[New] 2024 Approved Comparative Analysis of FB Video Formats</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-building-a-vimeo-portfolio-from-the-ground-up/"><u>[New] In 2024, Building a Vimeo Portfolio From the Ground Up</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-crafting-quality-content-for-youtube-success/"><u>[New] In 2024, Crafting Quality Content for YouTube Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-deciphering-the-covert-codes-of-snapchats-emojis/"><u>[New] In 2024, Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-grasp-free-to-use-vimeo-editing-techniques/"><u>[New] In 2024, Grasp Free-to-Use Vimeo Editing Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-secure-vimeo-to-local-downloaders/"><u>[New] In 2024, Secure Vimeo to Local Downloaders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-cash-flow-maximizing-income-through-content-marketing/"><u>[New] In 2024, Vimeo Cash Flow Maximizing Income Through Content Marketing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-vimeo-mastery-of-tools-software-and-skillful-techniques-for-2024/"><u>[New] Unlocking Vimeo Mastery of Tools, Software & Skillful Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-4-pcmac-full-screen-recorders-ultimate-guide/"><u>[Updated] 2024 Approved Top 4 PC/Mac Full-Screen Recorders Ultimate Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-conversion-save-vimeo-videos-as-mp4/"><u>[Updated] In 2024, Mastering Video Conversion Save Vimeo Videos as MP4</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-maximizing-viewership-igtv-video-scaling-hacks/"><u>[Updated] In 2024, Maximizing Viewership IGTV Video Scaling Hacks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>[Updated] Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-sparks-limits-explored-by-djis-new-contender-mavic-air/"><u>2024 Approved Spark's Limits Explored by DJI's New Contender, Mavic Air</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-audacity-for-professional-sound-capture-for-2024/"><u>Mastering Audacity for Professional Sound Capture for 2024</u></a></li>
 </ul></div>
 
