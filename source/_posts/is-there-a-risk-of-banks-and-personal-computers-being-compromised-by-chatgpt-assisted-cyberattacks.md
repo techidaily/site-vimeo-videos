@@ -1,7 +1,7 @@
 ---
 title: Is There a Risk of Banks and Personal Computers Being Compromised by ChatGPT-Assisted Cyberattacks?
-date: 2024-09-10T17:22:56.109Z
-updated: 2024-09-17T16:30:07.398Z
+date: 2024-09-17T16:39:49.044Z
+updated: 2024-09-22T17:27:23.813Z
 tags:
   - chatgpt
   - open-ai
@@ -48,22 +48,15 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -72,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -96,18 +96,16 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-iphones-secret-to-time-extended-videography/"><u>[New] IPhone's Secret to Time-Extended Videography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-proven-pathways-to-peeling-away-pesky-backdrops-with-affinity-photo-tools/"><u>[New] Proven Pathways to Peeling Away Pesky Backdrops with Affinity Photo Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-quickening-vimeo-content-streams/"><u>[New] Quickening Vimeo Content Streams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-expertly-merge-vimeo-footage-with-ppts-using-modern-tools-for-2024/"><u>[Updated] Expertly Merge Vimeo Footage with PPTs Using Modern Tools for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-deciding-on-ideal-vimeo-subscription-plan/"><u>[Updated] In 2024, Deciding on Ideal Vimeo Subscription Plan</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-rhythmic-revelations-adding-audio-to-your-vimeo-videos-for-2024/"><u>[Updated] Rhythmic Revelations Adding Audio to Your Vimeo Videos for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-a-compreenasional-approach-to-earning-through-vimeos-revenue-systems/"><u>2024 Approved A Compreenasional Approach to Earning Through Vimeo's Revenue Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-removing-subtitle-features-on-amazon-prime/"><u>Easy Methods for Removing Subtitle Features on Amazon Prime</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/getting-prepared-for-macos-11-big-sur-upgrade/"><u>Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-11-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 If Youve Tried Everything</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos/"><u>In 2024, Nifty Editing Edits Discover the Top 5 Online Strategies for Cutting & Condensing Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-the-most-recent-drivers-for-your-intel-ax210-network-card/"><u>Installing the Most Recent Drivers for Your Intel AX210 Network Card</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-on-acquiring-asus-wireless-adapter-drivers/"><u>The Ultimate Tutorial on Acquiring ASUS Wireless Adapter Drivers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-syncing-soundtracks-with-vimeo-video-content/"><u>[New] 2024 Approved Syncing Soundtracks with Vimeo Video Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-bypassing-vimeo-top-10-editing-software-choices/"><u>[New] Bypassing Vimeo Top 10 Editing Software Choices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expertly-merge-vimeo-footage-with-ppts-using-modern-tools/"><u>[New] Expertly Merge Vimeo Footage with PPTs Using Modern Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-exclusive-collection-vimeo-video-clippers/"><u>[New] In 2024, Exclusive Collection Vimeo Video Clippers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tips-to-get-your-video-staff-picked-on-vimeo/"><u>[New] Tips to Get Your Video “Staff Picked” On Vimeo</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-20-best-copyright-free-pubg-montage-thumbnail/"><u>[Updated] 20 Best Copyright-Free PUBG Montage Thumbnail</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-platform-pair-comparison-twitch-and-youtube-for-2024/"><u>[Updated] The Ultimate Platform Pair Comparison Twitch and YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>2024 Approved Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/improve-gameplay-fluidity-with-ai-temporal-synthesis-elevate-fps-and-ensure-smooth-frame-transitions/"><u>Improve Gameplay Fluidity with AI Temporal Synthesis: Elevate FPS & Ensure Smooth Frame Transitions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-agni-2-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Agni 2 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/motorola-one-5g-ace-revealed-breakneck-speed-on-5g-networks-and-robust-battery-capacity-reviewed-inside-out/"><u>Motorola One 5G Ace Revealed: Breakneck Speed on 5G Networks & Robust Battery Capacity Reviewed Inside Out</u></a></li>
 </ul></div>
 

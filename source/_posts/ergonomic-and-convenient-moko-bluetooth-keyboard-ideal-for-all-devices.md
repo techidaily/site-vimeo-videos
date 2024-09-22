@@ -1,7 +1,7 @@
 ---
 title: Ergonomic & Convenient MoKo Bluetooth Keyboard – Ideal for All Devices!
-date: 2024-09-14T16:23:18.238Z
-updated: 2024-09-17T16:04:56.855Z
+date: 2024-09-19T16:48:42.487Z
+updated: 2024-09-22T17:40:00.839Z
 categories:
   - BestProducts
 description: This Article Describes Ergonomic & Convenient MoKo Bluetooth Keyboard – Ideal for All Devices!
@@ -79,6 +79,13 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
@@ -89,6 +96,13 @@ Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
  Backlighting—we love it, but the Sculpt doesn’t have it. This is, in large part, thanks to its battery-powered design. It wouldn’t make a great deal of sense for the Sculpt to have backlighting since the two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) would drain significantly faster, but we sure did miss it. It’s important to note that our love of backlighting is also a matter of personal preference. If it’s important to you, you might want to consider a different model. If you can live without it, the Sculpt still has a lot to offer.
@@ -97,27 +111,20 @@ Lifewire / Emily Isaacs
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -130,13 +137,6 @@ Lifewire / Emily Isaacs
 [Microsoft Surface Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-surface-ergonomic-keyboard-review-4780282)
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -180,21 +180,20 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-comparative-analysis-of-fb-video-formats/"><u>[New] 2024 Approved Comparative Analysis of FB Video Formats</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-building-a-vimeo-portfolio-from-the-ground-up/"><u>[New] In 2024, Building a Vimeo Portfolio From the Ground Up</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-crafting-quality-content-for-youtube-success/"><u>[New] In 2024, Crafting Quality Content for YouTube Success</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-deciphering-the-covert-codes-of-snapchats-emojis/"><u>[New] In 2024, Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-grasp-free-to-use-vimeo-editing-techniques/"><u>[New] In 2024, Grasp Free-to-Use Vimeo Editing Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-secure-vimeo-to-local-downloaders/"><u>[New] In 2024, Secure Vimeo to Local Downloaders</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-cash-flow-maximizing-income-through-content-marketing/"><u>[New] In 2024, Vimeo Cash Flow Maximizing Income Through Content Marketing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-vimeo-mastery-of-tools-software-and-skillful-techniques-for-2024/"><u>[New] Unlocking Vimeo Mastery of Tools, Software & Skillful Techniques for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-4-pcmac-full-screen-recorders-ultimate-guide/"><u>[Updated] 2024 Approved Top 4 PC/Mac Full-Screen Recorders Ultimate Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-conversion-save-vimeo-videos-as-mp4/"><u>[Updated] In 2024, Mastering Video Conversion Save Vimeo Videos as MP4</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-maximizing-viewership-igtv-video-scaling-hacks/"><u>[Updated] In 2024, Maximizing Viewership IGTV Video Scaling Hacks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>[Updated] Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-sparks-limits-explored-by-djis-new-contender-mavic-air/"><u>2024 Approved Spark's Limits Explored by DJI's New Contender, Mavic Air</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-audacity-for-professional-sound-capture-for-2024/"><u>Mastering Audacity for Professional Sound Capture for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-filmmaking-fundamentals-for-engaging-facebook-groups/"><u>[New] 2024 Approved Filmmaking Fundamentals for Engaging Facebook Groups</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-iphones-video-editors-face-off-cameo-vs-filmorago/"><u>[New] In 2024, Top iPhones' Video Editors Face-Off Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-behind-the-screencast-scenes-industry-secrets-revealed/"><u>[Updated] Behind the Screencast Scenes Industry Secrets Revealed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-broadcasting-vimeo-content-efficiently/"><u>[Updated] Broadcasting Vimeo Content Efficiently</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhancing-content-quality-with-advanced-video-editing/"><u>[Updated] Enhancing Content Quality with Advanced Video Editing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-step-by-step-adding-movie-maker-videos-to-vimeo-stream/"><u>[Updated] In 2024, Step-by-Step Adding Movie Maker Videos to Vimeo Stream</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-making-money-with-vimeo-monetization-for-2024/"><u>[Updated] The Ultimate Guide to Making Money with Vimeo Monetization for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-understanding-your-needs-for-a-precise-vimeo-subscription-level/"><u>[Updated] Understanding Your Needs for a Precise Vimeo Subscription Level</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-screenshots-tools-series-for-2024/"><u>Best Screenshots Tools Series for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-11-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 11 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-nokia-c12-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Nokia C12?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-backtrack-your-youtube-queue-swiftly-and-sweetly/"><u>In 2024, Backtrack Your YouTube Queue, Swiftly & Sweetly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-the-moment-no-cost-cross-platform-screen-recorders-for-pcmac/"><u>In 2024, Capture the Moment - No-Cost, Cross-Platform Screen Recorders for PC/Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-guide-to-tailoring-netflix-original-films/"><u>In 2024, The Ultimate Guide to Tailoring Netflix Original Films</u></a></li>
+<li><a href="https://extra-support.techidaily.com/k850-ultrahd-samsung-2023-tech-review-for-2024/"><u>K850 UltraHD Samsung 2023 Tech Review for 2024</u></a></li>
 </ul></div>
 
