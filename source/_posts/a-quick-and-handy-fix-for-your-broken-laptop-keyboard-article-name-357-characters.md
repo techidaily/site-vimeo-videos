@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2024-09-15T17:17:40.228Z
-updated: 2024-09-22T17:20:08.596Z
+date: 2024-09-26T06:19:35.353Z
+updated: 2024-09-28T04:27:06.943Z
 tags:
   - win11
   - win10
@@ -47,13 +47,34 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then make sure the Keyboards is selected as**US**.
 
@@ -65,14 +86,14 @@ If you have tried the above methods but they are not helpful, you may need to pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
-2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -94,5 +115,21 @@ A hard reset will not remove any of your data in your computer, it is a move tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-social-savvy-essential-hashtags-that-work-today/"><u>[New] Social Savvy Essential Hashtags That Work Today</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-structure-your-storytelling-with-chapter-tags-in-vimeo-videos-for-2024/"><u>[New] Structure Your Storytelling with Chapter Tags in Vimeo Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-expedite-your-social-media-presence-streamlined-video-upload-methods-for-instagram-desktop/"><u>[Updated] 2024 Approved Expedite Your Social Media Presence Streamlined Video Upload Methods for Instagram Desktop</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-soundscapes-for-vimeo-a-compreayers-manual/"><u>[Updated] Soundscapes for Vimeo A Compreayer's Manual</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-propagate-your-content-with-vimeo-links/"><u>2024 Approved Propagate Your Content with Vimeo Links</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoidance-tactics-no-more-recommended-podcasts-on-spotify/"><u>Avoidance Tactics No More Recommended Podcasts on Spotify</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boost-your-network-with-tp-link-re505x-a-detailed-wi-fi-range-extender-evaluation/"><u>Boost Your Network with TP-Link RE505X: A Detailed Wi-Fi Range Extender Evaluation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-updated-corsair-h80i-series-v2-drivers-here/"><u>Get Your Updated Corsair H80i Series v2 Drivers Here!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-loreal-clinched-two-prestigious-honors-for-pioneering-accessible-beauty-tech-during-ces-2er-2023-a-deep-dive-by-zdnet/"><u>How L'Oréal Clinched Two Prestigious Honors for Pioneering Accessible Beauty Tech During CES 2Er 2023: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-11x-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 11X 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-best-picks-the-most-acclaimed-10-online-vimeo-video-harvesters/"><u>In 2024, Best Picks The Most Acclaimed 10 Online Vimeo Video Harvesters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-navigating-video-sharing-from-imovie-to-the-vimeo-network/"><u>In 2024, Navigating Video Sharing From iMovie to the Vimeo Network</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photographys-new-frontier-illustration-and-motion-blurring-techniques/"><u>In 2024, Photography's New Frontier Illustration and Motion Blurring Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-ultimate-picks-the-best-online-tools-for-downloading-vimeo-videos/"><u>In 2024, Ultimate Picks The Best Online Tools for Downloading Vimeo Videos</u></a></li>
+</ul></div>
 
