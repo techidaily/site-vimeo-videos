@@ -1,7 +1,7 @@
 ---
 title: Is There a Risk of Banks and Personal Computers Being Compromised by ChatGPT-Assisted Cyberattacks?
-date: 2024-10-01T17:11:41.757Z
-updated: 2024-10-03T18:18:14.729Z
+date: 2024-10-03T22:40:39.787Z
+updated: 2024-10-08T23:43:55.506Z
 tags:
   - chatgpt
   - open-ai
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -39,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -60,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
@@ -71,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -81,10 +74,17 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -110,16 +110,22 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-broadcasting-strategies-for-vimeo-films/"><u>[Updated] Broadcasting Strategies for Vimeo Films</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-rising-above-vimeo-10-next-level-editing-applications/"><u>[Updated] In 2024, Rising Above Vimeo 10 Next-Level Editing Applications</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016459618-a-comprehensive-solution-for-when-your-laptop-is-mute-get-it-working-again/"><u>A Comprehensive Solution for When Your Laptop Is Mute – Get It Working Again!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/acclaimed-selections-discover-the-best-10-vimeo-file-harvesters/"><u>Acclaimed Selections Discover the Best 10 Vimeo File Harvesters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-predictive-ai-its-operational-wizardry/"><u>Decoding Predictive AI: Its Operational Wizardry</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-for-old-ribbon-revival-in-new-windows/"><u>Guide for Old Ribbon Revival in New Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-improve-video-quality-in-zoom-meetings-in-2024/"><u>How to Improve Video Quality in Zoom Meetings, In 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-11-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 11 Pro Max without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-earnings-unlocked-strategies-for-content-creators/"><u>In 2024, Vimeo Earnings Unlocked Strategies for Content Creators</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-new-dimensions-exploring-xbox-ones-zooming-feature/"><u>Unlock New Dimensions Exploring Xbox One's Zooming Feature</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unlocked-mac-capture-tool-no-cost-for-2024/"><u>Unlocked Mac Capture Tool - No Cost for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-comprehensive-guide-to-injecting-vimeo-videos-into-decks/"><u>[New] 2024 Approved Comprehensive Guide to Injecting Vimeo Videos Into Decks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unraveling-the-purpose-behind-a-common-symbol-on-fb-chat/"><u>[New] 2024 Approved Unraveling the Purpose Behind a Common Symbol on FB Chat</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-cutting-edge-techniques-for-free-from-photo-backgrounds/"><u>[New] Cutting Edge Techniques for Free-From Photo Backgrounds</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-celebrity-quick-shot-analysis/"><u>[New] In 2024, Celebrity Quick Shot Analysis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-guide-downloading-and-converting-vimeo-video-mp4/"><u>[New] In 2024, Expert Guide Downloading and Converting Vimeo Video (MP4)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-thumbnail-creation-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Thumbnail Creation A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-process-of-video-recording-and-editing-on-adobe-connect-for-2024/"><u>[Updated] The Complete Process of Video Recording & Editing on Adobe Connect for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-business-visual-aids-to-enhance-your-meetings-for-2024/"><u>Free Business Visual Aids to Enhance Your Meetings for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-ds-530-software-for-windows-11-64-bit-systems/"><u>Get the Latest Epson DS-530 Software for Windows 11 64-Bit Systems</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/how-abbyy-achieved-a-remarkable-25-increase-in-revenue-for-the-year-2n-2017/"><u>How ABBYY Achieved a Remarkable 25% Increase in Revenue for the Year 2N 2017</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-add-end-screen-to-video-on-vimeo-for-2024/"><u>How to Add End Screen to Video on Vimeo for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-elevate-your-income-with-proven-vimeo-advertising-strategies/"><u>In 2024, Elevate Your Income with Proven Vimeo Advertising Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamline-the-conversion-vimeo-videos-to-mp3-files/"><u>In 2024, Streamline the Conversion Vimeo Videos to MP3 Files</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/seamless-steps-for-free-transforming-your-favorite-youtube-content-into-a-playable-dvd/"><u>Seamless Steps for FREE: Transforming Your Favorite YouTube Content Into a Playable DVD</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-most-critical-blunders-to-elude-as-a-rookie-youtuber-for-2024/"><u>The 8 Most Critical Blunders to Elude as a Rookie YouTuber for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-art-of-producing-high-impact-slack-channels/"><u>The Art of Producing High-Impact Slack Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-drone-editors-toolkit-techniques-for-visual-excellence-for-2024/"><u>The Drone Editor's Toolkit Techniques for Visual Excellence for 2024</u></a></li>
 </ul></div>
 

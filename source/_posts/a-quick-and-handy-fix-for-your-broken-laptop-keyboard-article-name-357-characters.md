@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2024-09-27T18:40:20.010Z
-updated: 2024-10-03T16:13:19.572Z
+date: 2024-10-02T19:56:58.847Z
+updated: 2024-10-08T22:06:52.942Z
 tags:
   - win11
   - win10
@@ -52,16 +52,10 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
@@ -73,17 +67,10 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -93,19 +80,20 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -129,18 +117,19 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-framemorph-editor/"><u>[New] 2024 Approved FrameMorph Editor</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-art-of-publicizing-vimeo-videos/"><u>[New] In 2024, The Art of Publicizing Vimeo Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-basic-vimeo-plus-or-vimeo-pro-which-is-right-for-you/"><u>[New] In 2024, Vimeo Basic, Vimeo Plus or Vimeo Pro Which Is Right for You?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-memorable-narratives-in-book-videos/"><u>[New] Memorable Narratives in Book Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-collect-priceless-imagery-from-trusted-4-youtube-directories/"><u>[Updated] 2024 Approved Collect Priceless Imagery From Trusted 4 YouTube Directories</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-a-deep-dive-into-kinesthetic-interaction-methods/"><u>[Updated] In 2024, A Deep Dive Into Kinesthetic Interaction Methods</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/boosting-vimeo-video-playback-tips-and-tricks-for-2024/"><u>Boosting Vimeo Video Playback Tips and Tricks for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook-for-2024/"><u>Fast & Fun The Quick Guide to Taking Screenshots on Chromebook for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/havent-heard-about-the-chatgpt-desktop-app-yet-here-are-remarkable-free-alternatives/"><u>Haven't Heard About the ChatGPT Desktop App Yet? Here Are Remarkable Free Alternatives</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-6-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic 6 Lite phone? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-essential-techniques-for-vimeo-video-submission-from-mmc/"><u>In 2024, Essential Techniques for Vimeo Video Submission From MMC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigate-hdri-windows-powered-editing-wonders/"><u>Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-pros-and-cons-delving-into-the-world-of-video-downloading-methods/"><u>[New] 2024 Approved Pros and Cons Delving Into the World of Video Downloading Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-conversational-flow-in-cinematic-storytelling/"><u>[Updated] 2024 Approved Conversational Flow in Cinematic Storytelling</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-downloading-from-vimeo-made-simple-software-free-or-not-for-2024/"><u>[Updated] Downloading From Vimeo Made Simple Software-Free or Not for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-sprint-to-quicker-vimeo-streams/"><u>[Updated] In 2024, Sprint to Quicker Vimeo Streams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-quick-guide-extract-vimeo-videos-as-mp4s/"><u>2024 Approved Quick Guide Extract Vimeo Videos as MP4s</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/an-iconic-series-reborn-the-new-era-of-ratchet-and-clank/"><u>An Iconic Series Reborn – The New Era of Ratchet & Clank</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-on-latest-powerpoint-update-procedures/"><u>Comprehensive Guide on Latest PowerPoint Update Procedures</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-halt-default-search-menu-opens-in-win11/"><u>Guide to Halt Default Search Menu Opens in Win11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/harness-free-methods-to-download-vimeo-videos-with-ease-for-2024/"><u>Harness Free Methods to Download Vimeo Videos with Ease for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-bloodhunt-from-stuttering-or-crashing-during-gameplay-pc/"><u>How to Prevent Bloodhunt From Stuttering or Crashing During Gameplay (PC)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-tecno-camon-20-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Tecno Camon 20 FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-get-origin-game-launcher-running-again-on-windows-10-and-11-systems/"><u>Resolved: How to Get Origin Game Launcher Running Again on Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ultimate-guide-vimeo-video-grabs/"><u>Ultimate Guide Vimeo Video Grabs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-moto-g-stylus-2023-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Moto G Stylus (2023)? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
