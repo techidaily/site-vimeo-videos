@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2024-10-25T16:17:09.259Z
-updated: 2024-10-26T17:34:37.466Z
+date: 2024-10-26T08:29:16.736Z
+updated: 2024-11-01T02:38:59.060Z
 tags:
   - win11
   - win10
@@ -47,9 +47,29 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If not, click the**Options**button as shown in the screen shot.
 
@@ -60,17 +80,10 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -80,20 +93,13 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -117,15 +123,16 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-pros-recommendation-top-10-apps-for-high-quality-vimeo-downloads/"><u>[Updated] 2024 Approved Pro's Recommendation Top 10 Apps for High-Quality Vimeo Downloads</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-demystifying-vimeo-top-choice-for-filmmakers-for-2024/"><u>[Updated] Demystifying Vimeo Top Choice for Filmmakers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-trippy-techniques-secrets-to-excellent-tripod-use-in-vlogging/"><u>[Updated] In 2024, Trippy Techniques Secrets to Excellent Tripod Use in Vlogging</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-streamline-the-conversion-vimeo-videos-to-mp3-files-for-2024/"><u>[Updated] Streamline the Conversion Vimeo Videos to MP3 Files for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>[Updated] Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-make-vimeo-videos-for-2024/"><u>How to Make Vimeo Videos for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/next-level-vr-tools-top-8-selection-for-2024/"><u>Next-Level VR Tools Top 8 Selection for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pixelprofilers-picks-top-tools-for-your-screen-snapping-needs-for-2024/"><u>PixelProfiler's Picks Top Tools for Your Screen Snapping Needs for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/zelfs-belangrijke-dokumenten-omzetten-de-gouden-procedure-van-movavi-ongeknopt-en-kostenloos/"><u>Zelfs Belangrijke Dokumenten Omzetten: De Gouden Procedure Van Movavi, Ongeknopt en Kostenloos!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-boosting-your-videos-chance-on-vimeo-staff-list-for-2024/"><u>[New] Boosting Your Video's Chance on Vimeo Staff List for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tep-up-your-mobile-filmmaking-with-these-9-must-have-tools-for-2024/"><u>[New] Step Up Your Mobile Filmmaking with These 9 Must-Have Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-top-2-ios-video-editors-compared-cameo-versus-filmorago/"><u>[Updated] 2024 Approved Top 2 iOS Video Editors Compared Cameo Versus FilmoraGo</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-direct-downloading-of-audio-content-from-vimeo-videos/"><u>[Updated] In 2024, Direct Downloading of Audio Content From Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-speed-for-vimeo-playback/"><u>[Updated] In 2024, Enhancing Speed for Vimeo Playback</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-harmonic-phone-chimes-the-step-by-step-to-cut-tamil-alerts/"><u>2024 Approved Harmonic Phone Chimes The Step-by-Step to Cut Tamil Alerts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-perceptions-with-the-advanced-dell-p2715q-display-review/"><u>2024 Approved Pushing Perceptions with the Advanced Dell P2715Q Display Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-transforming-your-rzmmj-files-from-youtube-video-editor-into-high-quality-mp4/"><u>Guide: Transforming Your RZMMJ Files From YouTube Video Editor Into High-Quality MP4</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-securing-an-annotate-free-video-experience-tips-for-new-avi-users-for-2024/"><u>Updated Securing an Annotate-Free Video Experience Tips for New AVI Users for 2024</u></a></li>
 </ul></div>
 

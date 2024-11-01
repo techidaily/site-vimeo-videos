@@ -1,7 +1,7 @@
 ---
 title: "Affordable Elegance: A Detailed Review of Motorola One - An Alternative to the iPhone"
-date: 2024-10-22T16:26:41.818Z
-updated: 2024-10-26T16:25:58.946Z
+date: 2024-10-28T00:05:26.546Z
+updated: 2024-10-31T17:10:59.857Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Elegance: A Detailed Review of Motorola One - An Alternative to the iPhone"
@@ -39,23 +39,9 @@ Lifewire / Jonno Hill
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## LG Gram 17
 
 ![LG Gram 17](https://www.lifewire.com/thmb/Brkak7eYiULoHYDHouNlQuk3toQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_LG-Gram-17-Inch-Thin-Laptop-1-26891b187a0c4260bbbe391a08f0e413.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -90,6 +76,13 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design** :**A thoughtful approach to larger laptops**
 
  Without question, the first thing you will notice when you take the LG Gram 17 out of its box is how light it is. Weighing less than 3 pounds, it’s trivial to lift, hold, and carry with one hand. For reference, a current-generation 15-inch MacBook Pro weighs in at just over 4 pounds, so it’s a funny feeling to hold a larger laptop that weighs less. There haven’t been any great miracles worked here—the reduced weight comes at the cost of a flimsier feeling construction that lacks the sturdiness of heavier laptops.
@@ -103,13 +96,6 @@ Lifewire / Jonno Hill
  Finally, the fingerprint sensor, located directly on the power button on the top right corner of the keyboard, performed fairly well in our tests. This placement, although precarious in theory, didn’t cause any mishaps during our testing. This placement is actually somewhat advantageous—if you turn on the laptop using a finger registered to the fingerprint sensor, it wakes straight into Windows seamlessly without even hitting the login prompt.
 
 ![LG Gram 17](https://www.lifewire.com/thmb/NZFtzU5S2IX_YcC_7X7i2oB0j1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-2-d528eacd17e849099026bd1df6142200.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -143,24 +129,24 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/4DSmBdI2ZVvCXO9PXT1iEnSCRxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-6-5381cd4656aa4307ba017acf8ce77c4b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Productivity** :**The Gram’s sweet spot**
 
  Having 16GB of Memory and a 512GB SSD makes the Gram a great choice for productivity purposes. We had no problem working with many browser windows open at the same time and switching back and forth between different applications. Shoppers looking to find a laptop with ample screen real estate and the specs necessary to deliver good performance now and into the future will be pleased with what the LG Gram 17 offers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Audio** :**Sorry, what was that?**
@@ -169,16 +155,16 @@ Lifewire / Jonno Hill
 
  Keep in mind though that while watching most standard 16:9 content, you aren’t taking advantage of all 17 inches of the display, and will see black bars on the top and bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network** :**Everything you’d expect**
 
  Wi-Fi on the LG Gram 17 gave us no trouble, offering a strong signal and speeds in any of the public and private environments we tested in. LG uses the Intel Wireless AC 9560 Wi-Fi adapter, the fastest of such chips currently on offer from Intel. This Wi-Fi adapter has a theoretical max speed of 1.73Gbps and offers a 2x2 antenna configuration, though you’re unlikely to ever hit such a high download speed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera** :**Bare minimum**
 
@@ -187,6 +173,13 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/Q5UD3HDcQsoXbP-_uvKqYsR9J6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-3-de338d995c0544ee8052e30def24ad5f.jpg)
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery** :**Beyond plentiful**
 
@@ -207,10 +200,10 @@ Lifewire / Jonno Hill
  Finally, the LG Gram 17 comes with Reader Mode as a pre-installed app that runs in the background on startup and is accessible from the taskbar. Switching it on changes the color temperature of the display to filter out blue light (by default) and make night-time and low-light usage more pleasant. You can also take control of the adjustments that Reader Mode makes, controlling the brightness, contrast, and gamma adjustments for red, green, and blue independently. This seems excessive, but we can’t fault LG too much for giving users more control.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Lighter laptop, bigger price tag**
@@ -230,6 +223,13 @@ Lifewire / Jonno Hill
 **A featherweight champion for productivity.**
 
  As it stands, you won’t find a lighter, smaller 17-inch laptop than the LG Gram 17\. LG is aware of how valuable this is to buyers that care about these metrics, and has priced their laptop accordingly. If you are shopping for what the Gram has on offer, we can’t imagine you’ll be too disappointed. This is a smart, capable laptop that delights in daily use.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -265,17 +265,21 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breakthrough-techniques-for-outstanding-youtube-openers-technique-1plus2/"><u>[Updated] 2024 Approved Breakthrough Techniques for Outstanding YouTube Openers (Technique 1+2)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-strong-authentication-protocols/"><u>[Updated] 2024 Approved Strong Authentication Protocols</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-secrets-of-smooth-transfer-mcc-files-uploaded-on-vimeo/"><u>[Updated] In 2024, Secrets of Smooth Transfer MCC Files Uploaded on Vimeo</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-building-an-effective-monetization-plan-for-video-content-on-vimeo/"><u>2024 Approved Building an Effective Monetization Plan for Video Content on Vimeo</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722964402295-2500u-drivers-fast-and-easy-methods-inside/"><u>2500U Drivers - Fast and Easy Methods Inside!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-movie-treasure-on-playstation-plus-a-simple-guide-to-accessible-film-content/"><u>Free Movie Treasure on PlayStation Plus: A Simple Guide to Accessible Film Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721425749303-gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-digital-footprint-and-interactive-iconography-honors/"><u>In 2024, Digital Footprint and Interactive Iconography Honors</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-tactics-for-elevating-your-videos-popularity-at-vimeo/"><u>In 2024, Tactics for Elevating Your Video's Popularity at Vimeo</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/kinemaster-rises-a-comprehensive-android-game-guide-2023/"><u>KineMaster Rises A Comprehensive Android Game Guide 2023</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-teething-issues-how-5g-technology-continues-to-showcase-impressive-growth-prospects-according-to-zdnet/"><u>Navigating Through Teething Issues: How 5G Technology Continues to Showcase Impressive Growth Prospects, According to ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[New] 2024 Approved How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-demystified-for-passionate-creators-and-viewers/"><u>[New] Vimeo Demystified For Passionate Creators & Viewers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-dividing-drama-how-to-split-vimeo-videos/"><u>[Updated] Dividing Drama How to Split Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficiently-embedding-your-imovie-clips-in-a-vimeo-account/"><u>[Updated] Efficiently Embedding Your iMovie Clips in a Vimeo Account</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-tips-for-recording-fan-favorite-sports-games-for-2024/"><u>[Updated] Expert Tips for Recording Fan-Favorite Sports Games for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unleashing-creativity-uploading-movies-from-mmc-to-vimeo/"><u>[Updated] Unleashing Creativity Uploading Movies From MMC to Vimeo</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-vimeo-success-strategies-for-staff-picked-videos/"><u>2024 Approved Navigating Vimeo Success Strategies for Staff-Picked Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-g2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo G2 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafted-alerts-full-charge-on-your-win-pclaptop/"><u>Crafted Alerts: Full Charge on Your WIN PC/Laptop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/de-vibratory-techniques-for-drone-video-clarity-for-2024/"><u>De-Vibratory Techniques for Drone Video Clarity for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-eu-ai-act-and-chatgpts-future/"><u>Decoding the EU AI Act & ChatGPT's Future</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-x9a-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor X9a FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-find-x7-ultra-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-playlist-passport-traveling-tunes-throughout-platforms/"><u>In 2024, Playlist Passport Traveling Tunes Throughout Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obs-hurdles-successful-tips-for-uninterrupted-screen-captures/"><u>Overcoming OBS Hurdles - Successful Tips for Uninterrupted Screen Captures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/soundscapes-for-vimeo-a-compreayers-manual-for-2024/"><u>Soundscapes for Vimeo A Compreayer's Manual for 2024</u></a></li>
 </ul></div>
 
