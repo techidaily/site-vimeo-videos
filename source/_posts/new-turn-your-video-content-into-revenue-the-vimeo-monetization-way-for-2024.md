@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Turn Your Video Content Into Revenue  The Vimeo Monetization Way for 2024\""
-date: 2024-09-12T08:08:54.867Z
-updated: 2024-09-13T08:08:54.867Z
+date: 2024-11-03T03:34:33.074Z
+updated: 2024-11-06T17:53:49.161Z
 tags:
   - ai video
   - ai vimeo
@@ -26,13 +26,6 @@ Additionally, Wondershare Filmora enhances your videos for Vimeo monetization. Y
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. Introduce Vimeo Monetization Options and Explain What It Is
 
@@ -88,19 +81,6 @@ Now upload your videos so everyone can watch them. You should upload engaging, i
 
 ![vimeo- upload video](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-3.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 4Boost your video's visibility
 
 To make your Vimeo video more visible, start by choosing an engaging title and write a detailed description using relevant keywords. Add tags that describe your content accurately. Share your video on social media and collaborate with influencers to broaden your reach. Interact with your audience by responding to comments and creating discussions. Encourage likes, shares, and subscriptions to boost visibility. You can use paid advertising or Vimeo's promotional tools to reach a larger audience.
@@ -111,34 +91,28 @@ Take a closer look at how your Vimeo video is performing. Analyze the views, lik
 
 ![vimeo- analyze your performance](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-4.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Data storage limits and pricing
 
 The four membership packages on Vimeo are Plus, PRO, Business, and Premium. $7 per month is the minimum fee and $75 per month is the maximum. The maximum storage limit for a free basic package is 500MB per week.
 
 ![vimeo- pricing plans](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Monetization of Vimeo vs. YouTube: Which is Most Effective?
 
 Videos can be uploaded and watched on the YouTube platform. Since its founding in 2005, YouTube has amassed 2 billion users and 51 million channels. In contrast, Vimeo allows businesses to share video content, and hosts and streams video content. In addition to having over 200 million active users, Vimeo hosts 1.5 million videos for a fee.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Options for monetization
@@ -159,13 +133,6 @@ You'll need a PayPal account to withdraw money from Vimeo. Creators' earnings ar
 
 ![vimeo vs youtube](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Model for Revenue Sharing
 
 Both websites are very different in terms of revenue generation. Vimeo offers its users four premium subscription plans. There are currently 30% savings from the usual $75/month price to $7-56/month. There are different subscription plans for data storage, business analytics, personalization, and privacy. Despite the free plan, Vimeo is not designed for business-related uses most people use it for. Membership fees are Vimeo's only source of revenue since it is an ad-free platform.
@@ -173,10 +140,10 @@ Both websites are very different in terms of revenue generation. Vimeo offers it
 Ads dominate YouTube, however. You will likely see ads on YouTube before, during, and after watching a video. YouTube generates revenue while advertisers can target virtually any audience. Advertisements shown with video content allow creators to monetize their content. Views need to be in the hundreds of thousands in order to generate anything substantial in ad revenue (55%).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Audience Reach and Requirements
@@ -184,13 +151,6 @@ Ads dominate YouTube, however. You will likely see ads on YouTube before, during
 You need at least 1,000 subscribers and 4,000 watch hours on your channel to become a YouTube Partner. Channel memberships and ad revenue are then available. It can be challenging to stand out on YouTube due to its vast audience reach.
 
 It's easier to be flexible with Vimeo. A percentage of your revenue is deducted from their fee. YouTube's audience is also smaller, but Vimeo's is typically more engaged. Quality over quantity makes it a good choice for creators. It's about balancing audience size with potential earnings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Benefits and Drawbacks of YouTube and Vimeo
 
@@ -253,17 +213,10 @@ You should explore Vimeo and Filmora if you are a content creator. Share your cr
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1\. Introduce Vimeo Monetization Options and Explain What It Is
@@ -277,17 +230,10 @@ In 2021, Vimeo had more than 230 million users, including 1.6 million paying sub
 ![vimeo- what is it](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The monetization options available on Vimeo
@@ -314,13 +260,6 @@ Tip Jars on Vimeo allow your audience to tip you directly for your content. With
 
 ![vimeo- monetization options available](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 6\. Stock Video Sales
 
 Selling stock footage on Vimeo is another way to make money. Vimeo's stock video marketplace is a great place to upload high-quality clips that are in demand. If someone buys your footage, you will earn royalties.
@@ -341,13 +280,6 @@ Now upload your videos so everyone can watch them. You should upload engaging, i
 
 ![vimeo- upload video](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 4Boost your video's visibility
 
 To make your Vimeo video more visible, start by choosing an engaging title and write a detailed description using relevant keywords. Add tags that describe your content accurately. Share your video on social media and collaborate with influencers to broaden your reach. Interact with your audience by responding to comments and creating discussions. Encourage likes, shares, and subscriptions to boost visibility. You can use paid advertising or Vimeo's promotional tools to reach a larger audience.
@@ -359,17 +291,23 @@ Take a closer look at how your Vimeo video is performing. Analyze the views, lik
 ![vimeo- analyze your performance](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-4.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Data storage limits and pricing
@@ -377,19 +315,6 @@ Take a closer look at how your Vimeo video is performing. Analyze the views, lik
 The four membership packages on Vimeo are Plus, PRO, Business, and Premium. $7 per month is the minimum fee and $75 per month is the maximum. The maximum storage limit for a free basic package is 500MB per week.
 
 ![vimeo- pricing plans](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization-5.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Monetization of Vimeo vs. YouTube: Which is Most Effective?
 
@@ -419,18 +344,18 @@ Both websites are very different in terms of revenue generation. Vimeo offers it
 
 Ads dominate YouTube, however. You will likely see ads on YouTube before, during, and after watching a video. YouTube generates revenue while advertisers can target virtually any audience. Advertisements shown with video content allow creators to monetize their content. Views need to be in the hundreds of thousands in order to generate anything substantial in ad revenue (55%).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Audience Reach and Requirements
 
 You need at least 1,000 subscribers and 4,000 watch hours on your channel to become a YouTube Partner. Channel memberships and ad revenue are then available. It can be challenging to stand out on YouTube due to its vast audience reach.
 
 It's easier to be flexible with Vimeo. A percentage of your revenue is deducted from their fee. YouTube's audience is also smaller, but Vimeo's is typically more engaged. Quality over quantity makes it a good choice for creators. It's about balancing audience size with potential earnings.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Benefits and Drawbacks of YouTube and Vimeo
 
@@ -507,5 +432,17 @@ You should explore Vimeo and Filmora if you are a content creator. Share your cr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-optimizing-video-saving-a-guide-to-pc-mac-and-mobile-devices/"><u>[New] 2024 Approved Optimizing Video Saving A Guide to PC, Mac & Mobile Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-video-edits-how-to-masterly-modify-and-shorten-videos-on-vimeo-online/"><u>[Updated] Expert Video Edits How to Masterly Modify and Shorten Videos on Vimeo Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplified-guide-to-transform-vimeo-video-into-mp3-for-2024/"><u>[Updated] Simplified Guide to Transform Vimeo Video Into MP3 for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-video-segments-the-chapter-creation-handbook-for-2024/"><u>[Updated] Vimeo's Video Segments The Chapter Creation Handbook for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-budget-friendly-vr-headsets-that-deliver-immersion/"><u>In 2024, Budget-Friendly VR Headsets That Deliver Immersion</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-income-from-video-how-to-profit-on-vimeo-platform/"><u>In 2024, Income From Video How to Profit on Vimeo Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-transform-ppt-deck-into-video-stream/"><u>In 2024, Transform PPT Deck Into Video Stream</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/utionize-marketing-top-tools-for-perfectly-timed-video-tags-for-2024/"><u>Revolutionize Marketing Top Tools for Perfectly Timed Video Tags for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unseen-image-alerts-chat-disappearance-on-messenger/"><u>Unseen Image Alerts: Chat Disappearance on Messenger</u></a></li>
+</ul></div>
 
