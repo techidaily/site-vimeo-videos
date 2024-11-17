@@ -1,7 +1,7 @@
 ---
 title: Is There a Risk of Banks and Personal Computers Being Compromised by ChatGPT-Assisted Cyberattacks?
-date: 2024-11-03T21:27:25.253Z
-updated: 2024-11-07T08:00:10.585Z
+date: 2024-11-15T14:41:47.780Z
+updated: 2024-11-17T09:47:08.668Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -34,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -52,24 +59,18 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -80,17 +81,10 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -116,22 +110,18 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-critical-steps-to-record-and-relive-athletic-sports-competitions/"><u>[New] 2024 Approved Critical Steps to Record & Relive Athletic Sports Competitions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-tips-streaming-via-obs-directly-to-facebook/"><u>[New] 2024 Approved Top Tips Streaming via OBS Directly to Facebook</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-elite-edits-10-superior-alternatives-to-vimeo-cameos-for-2024/"><u>[New] Elite Edits 10 Superior Alternatives to Vimeo Cameos for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-download-vimeo-videos-withwithout-software-100-useful-for-2024/"><u>[New] How to Download Vimeo Videos With/Without Software [100% Useful] for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-soniccapture-pro-review-and-download-steps/"><u>[New] SonicCapture Pro Review & Download Steps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-speedy-views-on-vimeo-how-for-2024/"><u>[Updated] Speedy Views on Vimeo How for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-simplified-platform-for-content-creators/"><u>[Updated] Vimeo Simplified Platform for Content Creators</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-novice-writers-best-enhancements-for-gopro/"><u>2024 Approved Novice’ Writers Best Enhancements for GoPro</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ng-edge-professional-guide-to-youtube-editing/"><u>Cutting Edge Professional Guide to YouTube Editing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-usb-compatibility-across-windows-ages/"><u>Ensuring USB Compatibility Across Windows Ages</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-pros-recommendation-top-10-apps-for-high-quality-vimeo-downloads/"><u>In 2024, Pro's Recommendation Top 10 Apps for High-Quality Vimeo Downloads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-hardware-tech-top-picks-from-toms-investigation/"><u>Inside Scoop on Hardware Tech - Top Picks From Tom's Investigation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-downloads-of-amd-ryzen-5-2600-chipset-drivers-easy-guide/"><u>Instant Downloads of AMD Ryzen 5 2600 Chipset Drivers - Easy Guide!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-mp4-downloading-vimeo-videos-easily/"><u>Mastering MP4 Downloading Vimeo Videos Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metaverse-metaphors-discovering-6-detailed-instances-for-2024/"><u>Metaverse Metaphors Discovering 6 Detailed Instances for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/strategies-to-promote-vimeo-films-for-2024/"><u>Strategies to Promote Vimeo Films for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/visual-voyage-from-vimeo-footage-to-animated-artistry-for-2024/"><u>Visual Voyage From Vimeo Footage to Animated Artistry for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-process-for-twitch-streamers/"><u>[New] A Step-by-Step Process for Twitch Streamers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ace-video-acquisition-strategies-for-savvy-software-and-no-software-use/"><u>[New] Ace Video Acquisition Strategies for Savvy Software & No-Software Use</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cross-network-laughter-whos-tops-today-in-2024/"><u>[New] Cross-Network Laughter Who's Tops Today, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-grandmasters-guide-to-virtual-combat-excellence/"><u>[New] In 2024, Grandmasters' Guide to Virtual Combat Excellence</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-redefining-content-creation-beyond-vimeo-tools/"><u>[New] In 2024, Redefining Content Creation Beyond Vimeo Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unlock-earnings-the-guide-to-successful-vimeo-monetization/"><u>[Updated] 2024 Approved Unlock Earnings The Guide to Successful Vimeo Monetization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-experience-effortless-panera-bread-ordering-with-alexa-enabled-delivery-service/"><u>1. Experience Effortless Panera Bread Ordering with Alexa-Enabled Delivery Service</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-gif-apps-for-iphone-x876/"><u>2024 Approved Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726029296610-mts/"><u>簡単！MTSファイルをコンパクトに詰める究極ガイド</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210852098-9798889269885-closure/"><u>Closure | Free Book</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/guide-on-purging-stored-videos-from-youtube-watchlater-for-2024/"><u>Guide on Purging Stored Videos From YouTube Watchlater for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-civi-3-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Xiaomi Civi 3 Phone? Unlock It Now</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo S17e | Dr.fone</u></a></li>
 </ul></div>
 

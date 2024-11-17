@@ -1,7 +1,7 @@
 ---
 title: "Experience a Gentle Awakening: In-Depth Analysis of the HeimVision A80S Light Therapy Alarm Clock"
-date: 2024-10-31T05:12:45.494Z
-updated: 2024-11-07T02:13:01.234Z
+date: 2024-11-15T22:58:10.856Z
+updated: 2024-11-17T14:24:07.472Z
 categories:
   - BestProducts
 description: "This Article Describes Experience a Gentle Awakening: In-Depth Analysis of the HeimVision A80S Light Therapy Alarm Clock"
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 [View On Amazon](https://www.amazon.com/dp/B078WG6DBH/?tag=lifewire-onsite-prod-20&ascsubtag=4796693%7Cn899f0376278d4881a5af76b596b54aa000%7CB078WG6DBH) [View On EBay](https://www.ebay.com/itm/Sony-XBR65X850F-65-Inch-4K-Ultra-HD-Smart-LED-TV-2018-Model/312237520273)
@@ -72,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Standard Sony**
 
  The XBR65X850F's design is a combination of sleek and workmanlike. The stand on this Sony is pretty common for TVs these days, with two V-shaped feet that stick out to either side. While they look aluminum, these are actually plastic too, with merely an aluminum finish. They are decently steady, but we noticed a bit of wobble if you move the TV around. It should be plenty sturdy for most, though you will need a fairly wide stand for them to rest on since they stick out so far. There’s also no room for adjusting the unit up or down, but they’re tall enough to fit a soundbar underneath if you want. They also flip open on the top if you want to use them for some clever cable management.
@@ -92,18 +92,18 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Stick to the on-screen instructions**
 
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -133,21 +133,7 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Audio Quality: Loud, but distorted**
 
@@ -169,6 +155,13 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -176,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
  On Sony’s website, the 65-inch model we tested here is listed at $1,300, the 75 at $2,300, and the 85 at a whopping $4,000\. Now these prices aren’t exactly accurate, especially since these are an older series. Typically you can find the 65-inch for about $1,100 or so. The other models are also heavily discounted depending on where you look, so definitely shop around. It’s likely that you can snag them for even less during sales.
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
@@ -196,10 +196,10 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -231,19 +231,19 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-efficient-route-for-vimeo-uploads-from-window-media-tools/"><u>[New] In 2024, Efficient Route for Vimeo Uploads From Window Media Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-ranked-the-best-5-iphones-for-effortless-podcast-access/"><u>[New] Ranked The Best 5 iPhones for Effortless Podcast Access</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-from-viewers-to-valuables-mastering-video-monetization-on-vimeo/"><u>[Updated] 2024 Approved From Viewers to Valuables Mastering Video Monetization on Vimeo</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-identifying-the-most-fitting-vimeo-membership-level/"><u>[Updated] In 2024, Identifying the Most Fitting Vimeo Membership Level</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-spectacular-screen-collaborations-selecting-an-mcn/"><u>[Updated] In 2024, Spectacular Screen Collaborations Selecting an MCN</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-vimeo-story-a-hub-for-exclusive-film-content/"><u>[Updated] In 2024, The Vimeo Story A Hub for Exclusive Film Content</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-whats-ideal-for-you-understanding-vimeo-membership-tiers/"><u>2024 Approved What's Ideal for You? Understanding Vimeo Membership Tiers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficient-tools-seamless-extraction-of-vimeo-media/"><u>In 2024, Efficient Tools Seamless Extraction of Vimeo Media</u></a></li>
-<li><a href="https://games-able.techidaily.com/operasides-epic-battle-with-microsofts-edge-for-games/"><u>Operaside's Epic Battle with Microsoft's Edge for Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-4-key-advantages-of-integrating-chatgpt-into-your-website-design-strategy/"><u>The 4 Key Advantages of Integrating ChatGPT Into Your Website Design Strategy</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-30-pro-windows-10-secrets-revealed-for-2024/"><u>Top 30 Pro Windows 10 Secrets Revealed for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-step-by-step-guide-how-to-enable-screen-mirroring-on-your-iphone-6s-or-6s-plus/"><u>Ultimate Step-by-Step Guide: How to Enable Screen Mirroring on Your iPhone 6S or 6S Plus</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/your-guide-to-the-best-igtv-virtuosos-for-2024/"><u>Your Guide to the Best IGTV Virtuosos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-image-integrity-keeping-quality-high-during-iphone-crops/"><u>[New] Image Integrity Keeping Quality High During iPhone Crops</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-iconic-inning-cameo-examination/"><u>[New] In 2024, Iconic Inning - Cameo Examination</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unraveling-the-secrets-to-smooth-vimeo-video-downloads/"><u>[New] Unraveling the Secrets to Smooth Vimeo Video Downloads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mkv-playback-top-macos-apps-reviewed/"><u>[Updated] In 2024, MKV Playback Top macOS Apps Reviewed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-overview-the-world-of-independent-film-hosting/"><u>[Updated] In 2024, Vimeo Overview The World of Independent Film Hosting</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-innovative-strategies-for-youtube-video-closures-for-2024/"><u>[Updated] Innovative Strategies for YouTube Video Closures for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-linktree-in-your-tiktok-bio-for-maximum-impact/"><u>[Updated] Integrating Linktree in Your TikTok Bio for Maximum Impact</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-reimagining-user-engagement-top-10-video-editors-outside-vimeo-for-2024/"><u>[Updated] Reimagining User Engagement Top 10 Video Editors Outside Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-double-your-reach-youtube-and-facebook-cross-promotion/"><u>2024 Approved Double Your Reach YouTube & Facebook Cross-Promotion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-instagram-tutorial-upload-and-share-video/"><u>2024 Approved Instagram Tutorial Upload and Share Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-device-editors-for-app-development/"><u>2024 Approved Prime Device Editors for App Development</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/explore-free-vimeo-video-editing-tips-and-tricks/"><u>Explore Free Vimeo Video Editing Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-between-macs-essential-tips-to-pick-your-ideal-laptop-macbook-air-or-macbook-pro-zdnet/"><u>Navigating Between Macs: Essential Tips to Pick Your Ideal Laptop - MacBook Air or MacBook Pro | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205382179-stop-your-device-from-falling-asleep-simple-solutions/"><u>Stop Your Device From Falling Asleep: Simple Solutions</u></a></li>
 </ul></div>
 
