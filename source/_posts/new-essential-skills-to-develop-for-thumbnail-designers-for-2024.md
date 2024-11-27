@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Skills to Develop for Thumbnail Designers for 2024"
-date: 2024-11-13T03:46:27.379Z
-updated: 2024-11-16T17:47:54.292Z
+date: 2024-11-22T18:02:51.925Z
+updated: 2024-11-26T23:43:28.292Z
 tags:
   - ai video
   - ai vimeo
@@ -103,6 +103,10 @@ Mac
 
 ![backgrounder youtube thumbnail maker](https://images.wondershare.com/filmora/article-images/backgrounder-panzoid.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It gives you the opportunity to design masterpieces of customized professional art, avatars, and thumbnails for YouTube, Facebook and Twitter, etc. It is simple to use and contains an interactive user interface that is suitable for professionals as well as beginners.
 
 * It owns a community that you can share works with other people
@@ -130,19 +134,6 @@ Mac
 
 ![pixlr](https://images.wondershare.com/filmora/article-images/pixlr-launch.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 It is a specially designs app version of well known Pixlr website where you can feel free to add overlays to your thumbnails. The choice of filters is also good her with a high end resolution as compared to available online solutions.
 
 * Its free effects are a great source to come up with a new YouTube thumbnail
@@ -168,19 +159,6 @@ Android
 #### 4\. Insta Collage:
 
 ![insta collage](https://images.wondershare.com/filmora/article-images/instacollage.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The name of this application describes its most special feature that is it allows users to create wonderful collage within very less time. As this tool comes with easy editing and sharing feature so that users can have easy interface on other platforms too. There are lots of effects that can be added to images while designing thumbnails and it is rated to have outstanding quality of results.
 
@@ -294,6 +272,10 @@ Mac
 
 ![backgrounder youtube thumbnail maker](https://images.wondershare.com/filmora/article-images/backgrounder-panzoid.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It gives you the opportunity to design masterpieces of customized professional art, avatars, and thumbnails for YouTube, Facebook and Twitter, etc. It is simple to use and contains an interactive user interface that is suitable for professionals as well as beginners.
 
 * It owns a community that you can share works with other people
@@ -307,6 +289,10 @@ Online
 #### 1\. iMovie:
 
 ![imovie youtube thumbnail maker](https://images.wondershare.com/filmora/article-images/imovie-for-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This software tool is best suited for smartphones as it has a very interactive mobile phone version that allows easy editing features along with fast editing results. It is not rated to be so good for Macbooks but most of users love to store it on their portable devices for easy access to thumbnail creations from anytime, at anywhere.
 
@@ -386,13 +372,6 @@ If you are searching for few software tools that can assist in creation of [YouT
 * [**Part1: YouTube Thumbnail Makers - Online Solutions**](#part1)
 * [**Part2: YouTube Thumbnail Makers - Phone Apps**](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: YouTube Thumbnail Makers - Online Solutions
 
 #### 1\. Wondershare PixStudio
@@ -438,6 +417,10 @@ It can also be used to create your YouTube thumbnail! Check the below videos and
 
 ![fotor youtube thumbnail maker](https://images.wondershare.com/filmora/article-images/online-fotor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It is possible to get something outstanding even out of your simple content without making much effort because Fotor serves you with all advanced features and it covers attractive themes from all over the world. Fotor gives you an opportunity to re-discover your art and skills without any limitation as it offers all quick editing services online. It is very interactive and simple to use with all rich features.
 
 * Your thumbnail will be saved on cloud
@@ -474,18 +457,15 @@ It gives you the opportunity to design masterpieces of customized professional a
 **Available :**  
 Online
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: YouTube Thumbnail Makers - Phone Apps
 
 #### 1\. iMovie:
 
 ![imovie youtube thumbnail maker](https://images.wondershare.com/filmora/article-images/imovie-for-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This software tool is best suited for smartphones as it has a very interactive mobile phone version that allows easy editing features along with fast editing results. It is not rated to be so good for Macbooks but most of users love to store it on their portable devices for easy access to thumbnail creations from anytime, at anywhere.
 
@@ -515,10 +495,7 @@ Android
 ![photo editor](https://images.wondershare.com/filmora/article-images/photo-editor-for-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Photo Editor is one of the most popular applications that assist users in easy addition of stickers, frames etc while it makes adjustment of redeye, brightness and sharpness much easier. Most of people love this application more due to its ability to create meme with available images and text for those images can be adjusted easily. Photo editor also makes it much easier to share edited stuff on Instagram and the quality of edited images use to be very high in this case.
@@ -545,13 +522,6 @@ Android
 
 ![cropic](https://images.wondershare.com/filmora/article-images/cropic.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here is one more application for you that you will need for easy customization as well as fast sharing to YouTube as well as Instagram. Users can bring all size types to this platform and it is also possible to add text at the time of editing. This tool is suggested for beginners as well as professionals due to its great results.
 
 * You can scale iamge by hands and cut it
@@ -563,6 +533,10 @@ iPhone/iPad
 With all these available software tools it becomes much easier to create Thumbnails for YouTube. The easy to follow steps are well described in different articles on internet but first of all you need to make selection between weather you need to use online toll or wish to download app on your device. For second case you need to spare some memory in your device whereas for first one it demands fast internet connection for easy services. No matter how often you love to update posts from your YouTube account but it is good to have a trustworthy solution for your editing needs.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -620,13 +594,6 @@ It can also be used to create your YouTube thumbnail! Check the below videos and
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 4\. Fotor
 
 ![fotor youtube thumbnail maker](https://images.wondershare.com/filmora/article-images/online-fotor.jpg)
@@ -659,6 +626,10 @@ Mac
 
 ![backgrounder youtube thumbnail maker](https://images.wondershare.com/filmora/article-images/backgrounder-panzoid.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It gives you the opportunity to design masterpieces of customized professional art, avatars, and thumbnails for YouTube, Facebook and Twitter, etc. It is simple to use and contains an interactive user interface that is suitable for professionals as well as beginners.
 
 * It owns a community that you can share works with other people
@@ -673,6 +644,10 @@ Online
 
 ![imovie youtube thumbnail maker](https://images.wondershare.com/filmora/article-images/imovie-for-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This software tool is best suited for smartphones as it has a very interactive mobile phone version that allows easy editing features along with fast editing results. It is not rated to be so good for Macbooks but most of users love to store it on their portable devices for easy access to thumbnail creations from anytime, at anywhere.
 
 * It owns a community that you can share works with other people
@@ -685,13 +660,6 @@ Mac
 #### 2\. Pixlr:
 
 ![pixlr](https://images.wondershare.com/filmora/article-images/pixlr-launch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It is a specially designs app version of well known Pixlr website where you can feel free to add overlays to your thumbnails. The choice of filters is also good her with a high end resolution as compared to available online solutions.
 
@@ -742,6 +710,10 @@ iPhone/iPad
 With all these available software tools it becomes much easier to create Thumbnails for YouTube. The easy to follow steps are well described in different articles on internet but first of all you need to make selection between weather you need to use online toll or wish to download app on your device. For second case you need to spare some memory in your device whereas for first one it demands fast internet connection for easy services. No matter how often you love to update posts from your YouTube account but it is good to have a trustworthy solution for your editing needs.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -770,20 +742,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-11-innovative-metaverse-projects-for-insightful-analysis-for-2024/"><u>[New] 11 Innovative Metaverse Projects for Insightful Analysis for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-boosting-vimeo-videos-accelerating-playback-for-2024/"><u>[New] Boosting Vimeo Videos Accelerating Playback for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-essence-of-a-memorable-video-conclusion-in-vimeo-for-2024/"><u>[New] The Essence of a Memorable Video Conclusion in Vimeo for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unbeatable-titles-the-creme-de-la-liste-of-10-vimeo-extractors-for-2024/"><u>[New] Unbeatable Titles The Crème De La Liste of 10 Vimeo Extractors for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-screen-recordings-powerpoint-edition/"><u>[Updated] 2024 Approved Mastering Screen Recordings PowerPoint Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-hold-whole-page-snapshot-image-for-2024/"><u>[Updated] Hold Whole Page Snapshot Image for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-immediate-strategies-for-enhancing-your-thumbnail-designs/"><u>[Updated] Immediate Strategies for Enhancing Your Thumbnail Designs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-chapters-essentials-for-seamless-cutting/"><u>[Updated] Vimeo Chapters Essentials for Seamless Cutting</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-ultimate-guide-to-vimeo-gif-conversion-magic/"><u>2024 Approved The Ultimate Guide to Vimeo-Gif Conversion Magic</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-code-of-high-quality-visuals-with-windows-11-hdr/"><u>Deciphering the Code of High-Quality Visuals with Windows 11 HDR</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/essential-guide-utilizing-vimeo-record-for-screen-and-webcam-capture-for-2024/"><u>Essential Guide Utilizing Vimeo Record for Screen & Webcam Capture for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-effortless-shuffle-of-your-youtube-playlists/"><u>In 2024, Effortless Shuffle of Your YouTube Playlists</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-the-black-screen-glitch-in-fallout-4/"><u>Troubleshooting Tips: Fixing the Black Screen Glitch in Fallout #4</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-superior-screen-quality-10-in-4ks/"><u>[New] 2024 Approved Superior Screen Quality – #10 in 4Ks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-non-vimeo-powerhouses-for-video-content-creation/"><u>[New] Non-Vimeo Powerhouses for Video Content Creation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-insights-crafting-perfect-vimeo-closures/"><u>[Updated] In 2024, Expert Insights Crafting Perfect Vimeo Closures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-highlighting-elite-gif-software-on-apple-iphones/"><u>[Updated] In 2024, Highlighting Elite GIF Software on Apple iPhones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/"><u>[Updated] In 2024, Quick Vimeo Transformation Tips Easy-to-Create GIFs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-visuals-for-the-modern-broadcaster/"><u>[Updated] Pinnacle Visuals for the Modern Broadcaster</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-stream-ready-steam-gameplay-filming-guide-for-2024/"><u>[Updated] Stream-Ready Steam Gameplay Filming Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-the-secrets-to-perfect-thumbnails/"><u>[Updated] Unlocking the Secrets to Perfect Thumbnails</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-revenue-rise-how-to-harness-the-power-of-ads/"><u>2024 Approved Vimeo Revenue Rise How to Harness the Power of Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-tutorial-mastering-the-art-of-screen-recording-with-sound-on-your-lenovo-pc-or-laptop/"><u>Complete Tutorial: Mastering the Art of Screen Recording with Sound on Your Lenovo PC or Laptop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-visual-narratives-with-the-leading-frames-for-2024/"><u>Crafting Visual Narratives with the Leading Frames for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/enhancing-video-visibility-to-attract-vimeos-top-choices/"><u>Enhancing Video Visibility to Attract Vimeo's Top Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-print-in-defender-smartscreen-on-edge-browser/"><u>Initiating Print in Defender SmartScreen on Edge Browser</u></a></li>
+<li><a href="https://win-popular.techidaily.com/irqlnotlessorequal-mistake-resolved-on-windows-11-step-by-step-guide/"><u>IRQL_NOT_LESS_OR_EQUAL Mistake Resolved on Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-elevate-your-video-game-top-online-editors-for-chromebook/"><u>New 2024 Approved Elevate Your Video Game Top Online Editors for Chromebook</u></a></li>
 </ul></div>
 

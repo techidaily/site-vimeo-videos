@@ -1,7 +1,7 @@
 ---
 title: Is There a Risk of Banks and Personal Computers Being Compromised by ChatGPT-Assisted Cyberattacks?
-date: 2024-11-15T14:41:47.780Z
-updated: 2024-11-17T09:47:08.668Z
+date: 2024-11-23T17:26:14.206Z
+updated: 2024-11-26T21:47:09.131Z
 tags:
   - chatgpt
   - open-ai
@@ -15,18 +15,15 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 ## Tired of the Wait? Here’s an Outstanding Open Source Option that Rivals the Anticipated ChatGPT Desktop App
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -60,17 +50,22 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -81,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -110,18 +102,17 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-process-for-twitch-streamers/"><u>[New] A Step-by-Step Process for Twitch Streamers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-ace-video-acquisition-strategies-for-savvy-software-and-no-software-use/"><u>[New] Ace Video Acquisition Strategies for Savvy Software & No-Software Use</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-cross-network-laughter-whos-tops-today-in-2024/"><u>[New] Cross-Network Laughter Who's Tops Today, In 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-grandmasters-guide-to-virtual-combat-excellence/"><u>[New] In 2024, Grandmasters' Guide to Virtual Combat Excellence</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-redefining-content-creation-beyond-vimeo-tools/"><u>[New] In 2024, Redefining Content Creation Beyond Vimeo Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unlock-earnings-the-guide-to-successful-vimeo-monetization/"><u>[Updated] 2024 Approved Unlock Earnings The Guide to Successful Vimeo Monetization</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-experience-effortless-panera-bread-ordering-with-alexa-enabled-delivery-service/"><u>1. Experience Effortless Panera Bread Ordering with Alexa-Enabled Delivery Service</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-gif-apps-for-iphone-x876/"><u>2024 Approved Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/1726029296610-mts/"><u>簡単！MTSファイルをコンパクトに詰める究極ガイド</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210852098-9798889269885-closure/"><u>Closure | Free Book</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/guide-on-purging-stored-videos-from-youtube-watchlater-for-2024/"><u>Guide on Purging Stored Videos From YouTube Watchlater for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-civi-3-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Xiaomi Civi 3 Phone? Unlock It Now</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-cut-costs-improve-videos-learn-free-vimeo-editing/"><u>[New] Cut Costs, Improve Videos Learn Free Vimeo Editing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-efficient-media-transformation-with-actionable-steps-from-xml/"><u>[New] In 2024, Efficient Media Transformation with Actionable Steps From XML</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-understanding-facebooks-real-time-content-restrictions/"><u>[Updated] 2024 Approved Understanding Facebook's Real-Time Content Restrictions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-live-streaming-to-lively-gifs-harnessing-vimeo-content/"><u>[Updated] From Live Streaming to Lively Gifs Harnessing Vimeo Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamlined-upload-procedures-for-media-center-videos-to-vimeo-for-2024/"><u>[Updated] Streamlined Upload Procedures for Media Center Videos to Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-digging-through-youtube-conversations/"><u>2024 Approved Digging Through YouTube Conversations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Fingerprint Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-narzo-n55-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme Narzo N55</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-alt-tab-not-working-glitch-on-your-computer/"><u>How to Repair 'Alt Tab Not Working' Glitch on Your Computer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficiency-and-speed/"><u>In 2024, Efficiency and Speed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-90-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor 90</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-metaverse-meme-phenomenon-a-comprehensive-overview/"><u>The Metaverse Meme Phenomenon A Comprehensive Overview</u></a></li>
 </ul></div>
 
