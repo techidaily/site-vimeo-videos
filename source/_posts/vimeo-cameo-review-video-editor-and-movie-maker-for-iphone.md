@@ -1,7 +1,7 @@
 ---
 title: "\"Vimeo Cameo Review-Video Editor & Movie Maker for iPhone\""
-date: 2024-07-15T15:57:05.211Z
-updated: 2024-07-16T15:57:05.211Z
+date: 2024-11-29T17:31:57.789Z
+updated: 2024-12-06T17:55:38.040Z
 tags:
   - ai video
   - ai vimeo
@@ -69,16 +69,109 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
  If you want to add captions to any of your clips start off by pressing the editing tool. Choose captions which is the ‘A|’ symbol. The captions are up to 40 characters but you do have the option as to where you want to put them on the screen. When you have chosen the theme earlier on the text and font will have already been determined. When you have added the captions you just have to tap the red tick to confirm you are done with the video editor.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Advanced editing
 
 #### 1\. Add a title and thumbnail
 
+![title-and-thumbnail](https://images.wondershare.com/filmora/article-images/title-and-thumbnail.jpg)
+
+ Once you have finished with the Vimeo cameo video editor you can then select a thumbnail and title to add. Start with the upload to Vimeo part and select add a title. Choose the title you want to give to your video and you will be automatically be prompted to choose a thumbnail photograph. You can do this from a frame of your video by using the selection bar. Tap the thumbnail picture once you have found it and confirm by using the red tick.
+
+#### 2\. Add a description
+
+ After you have decided on and saved your thumbnail in the video editor you will be taken back to the page with ‘upload to Vimeo’. Here is where you can add the description at the bottom left of the screen.
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Sharing features
+
+ Once you have finished and are ready the video is uploaded automatically as private. You can specify otherwise if you are sure you have completed editing by toggling to make it public by tapping on the button in the lower right marked privacy. Select done and the video will upload automatically to your account. Use the video settings to add more privacy options by selecting settings and making adjustments in your privacy tab.
+
+#### Pros and Cons
+
+| **Pros**                                                   | **Cons** |
+| ---------------------------------------------------------- | -------- |
+| Creates high-resolution videos                             | iOS only |
+| Includes three different editing tools with lots of choice | ——       |
+
+## Summary
+
+ Vimeo Cameo allows you to use your mobile device as a video editor by accessing the videos you already have in your camera roll. You don’t have to hook your phone up to a PC or laptop as the videos can be uploaded and edited directly from the device making it easier than ever to have more control over your videos when you are on the move.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ More and more people are using mobile technology on the go, which is why Vimeo have introduced [Vimeo Cameo](https://itunes.apple.com/us/app/cameo-video-editor-and-movie-maker/id988821661?mt=8). It is basically an app that can be used by your iOS device to upload, as a video editor and professionally adapt with different styles and effects. Once the video is complete then you are able to upload it straight from your mobile device to the Vimeo site.
+
+## Editing features
+
+ Once you have downloaded the Vimeo Cameo you just have to log in if you have an existing account or create one. Once logged in just tap to create a new video and make sure you allow the Vimeo Cameo to access the camera roll. The videos save as drafts as you go so you don’t have to worry about stopping for a while. To start a new project tap the ‘+‘ button to add any video clips from your roll. They will play automatically from the timeline once they have been uploaded.
+
+#### 1\. Trimming clips
+
+![cameo-trimming-clips](https://images.wondershare.com/filmora/article-images/cameo-trimming-clips.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ If you want to trim any clips you can do so by selecting the icon that looks like a pair of scissors. Just use the white dots that are located at the bottom of your screen so that you can create a different start or end point.
+
+#### 2\. Changing clip order
+
+ If you would like your clips to be in a different order all you have to do is tap and keep your finger on the clip. Once you do this you will see the timeline pop up, which allows you to drag the clips to their new location.
+
+#### 3\. Deleting and Replicating clips
+
+ If you want to copy or delete a clip in the video editor then just tap and hold in the same way as you did to change the order. You will then be given an option to duplicate or delete by either puling the clip up or down.
+
+#### 4\. Add or change the theme
+
+![cameo-themes](https://images.wondershare.com/filmora/article-images/cameo-themes.jpg)
+
+ If you want to put in a theme then look for the three circles that overlap and select the theme button. Look through your options to change or add a theme and tap it to select it. You can change the filter intensity by using the slider. You are also able to change any text colour or font. Once you have the desired result tap the ‘theme’ button to save your changes.
+
+#### 5\. Add, change, or remove music
+
+![vimeo-clips-editor](https://images.wondershare.com/filmora/article-images/vimeo-clips-editor.jpg)
+
+ To add any music to videos just use the music icon. This lets you select tracks from the library. To go through the tracks just swipe first across and up or down. You can also use the categories to make it easier to locate the music you want by genre. You can preview the songs by selecting the cover of the album and use the little play bar. By pressing the information button you are able to find out more about the song, writer, musicians etc.
+
+ Select the track once you have found it by tapping. If you decide you want to try something different or remove it altogether just return to the music menu, select the album and unselect it.
+
+#### 6\. Changing clip audio levels
+
+ If you want to change the level of audio in a specific clip use the edit tool and find the clip you wish to adjust. Keep tapping the audio icon as this will allow you to select whether you want the audio on, off or boosted.
+
+#### 7\. Adding captions
+
+![adding-caption-cameo](https://images.wondershare.com/filmora/article-images/adding-caption-cameo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ If you want to add captions to any of your clips start off by pressing the editing tool. Choose captions which is the ‘A|’ symbol. The captions are up to 40 characters but you do have the option as to where you want to put them on the screen. When you have chosen the theme earlier on the text and font will have already been determined. When you have added the captions you just have to tap the red tick to confirm you are done with the video editor.
+
+## Advanced editing
+
+#### 1\. Add a title and thumbnail
+
 ![title-and-thumbnail](https://images.wondershare.com/filmora/article-images/title-and-thumbnail.jpg)
 
  Once you have finished with the Vimeo cameo video editor you can then select a thumbnail and title to add. Start with the upload to Vimeo part and select add a title. Choose the title you want to give to your video and you will be automatically be prompted to choose a thumbnail photograph. You can do this from a frame of your video by using the selection bar. Tap the thumbnail picture once you have found it and confirm by using the red tick.
@@ -98,14 +191,15 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 | Creates high-resolution videos                             | iOS only |
 | Includes three different editing tools with lots of choice | ——       |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
  Vimeo Cameo allows you to use your mobile device as a video editor by accessing the videos you already have in your camera roll. You don’t have to hook your phone up to a PC or laptop as the videos can be uploaded and edited directly from the device making it easier than ever to have more control over your videos when you are on the move.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -119,9 +213,6 @@ Follow @Ollie Mattison
 
  More and more people are using mobile technology on the go, which is why Vimeo have introduced [Vimeo Cameo](https://itunes.apple.com/us/app/cameo-video-editor-and-movie-maker/id988821661?mt=8). It is basically an app that can be used by your iOS device to upload, as a video editor and professionally adapt with different styles and effects. Once the video is complete then you are able to upload it straight from your mobile device to the Vimeo site.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Editing features
 
  Once you have downloaded the Vimeo Cameo you just have to log in if you have an existing account or create one. Once logged in just tap to create a new video and make sure you allow the Vimeo Cameo to access the camera roll. The videos save as drafts as you go so you don’t have to worry about stopping for a while. To start a new project tap the ‘+‘ button to add any video clips from your roll. They will play automatically from the timeline once they have been uploaded.
@@ -168,10 +259,11 @@ Follow @Ollie Mattison
 
 #### 1\. Add a title and thumbnail
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![title-and-thumbnail](https://images.wondershare.com/filmora/article-images/title-and-thumbnail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have finished with the Vimeo cameo video editor you can then select a thumbnail and title to add. Start with the upload to Vimeo part and select add a title. Choose the title you want to give to your video and you will be automatically be prompted to choose a thumbnail photograph. You can do this from a frame of your video by using the selection bar. Tap the thumbnail picture once you have found it and confirm by using the red tick.
 
@@ -179,9 +271,6 @@ Follow @Ollie Mattison
 
  After you have decided on and saved your thumbnail in the video editor you will be taken back to the page with ‘upload to Vimeo’. Here is where you can add the description at the bottom left of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sharing features
 
  Once you have finished and are ready the video is uploaded automatically as private. You can specify otherwise if you are sure you have completed editing by toggling to make it public by tapping on the button in the lower right marked privacy. Select done and the video will upload automatically to your account. Use the video settings to add more privacy options by selecting settings and making adjustments in your privacy tab.
@@ -193,11 +282,19 @@ Follow @Ollie Mattison
 | Creates high-resolution videos                             | iOS only |
 | Includes three different editing tools with lots of choice | ——       |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Summary
 
  Vimeo Cameo allows you to use your mobile device as a video editor by accessing the videos you already have in your camera roll. You don’t have to hook your phone up to a PC or laptop as the videos can be uploaded and edited directly from the device making it easier than ever to have more control over your videos when you are on the move.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -219,124 +316,9 @@ Follow @Ollie Mattison
 
 ![cameo-trimming-clips](https://images.wondershare.com/filmora/article-images/cameo-trimming-clips.jpg)
 
- If you want to trim any clips you can do so by selecting the icon that looks like a pair of scissors. Just use the white dots that are located at the bottom of your screen so that you can create a different start or end point.
-
-#### 2\. Changing clip order
-
- If you would like your clips to be in a different order all you have to do is tap and keep your finger on the clip. Once you do this you will see the timeline pop up, which allows you to drag the clips to their new location.
-
-#### 3\. Deleting and Replicating clips
-
- If you want to copy or delete a clip in the video editor then just tap and hold in the same way as you did to change the order. You will then be given an option to duplicate or delete by either puling the clip up or down.
-
-#### 4\. Add or change the theme
-
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![cameo-themes](https://images.wondershare.com/filmora/article-images/cameo-themes.jpg)
-
- If you want to put in a theme then look for the three circles that overlap and select the theme button. Look through your options to change or add a theme and tap it to select it. You can change the filter intensity by using the slider. You are also able to change any text colour or font. Once you have the desired result tap the ‘theme’ button to save your changes.
-
-#### 5\. Add, change, or remove music
-
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![vimeo-clips-editor](https://images.wondershare.com/filmora/article-images/vimeo-clips-editor.jpg)
-
- To add any music to videos just use the music icon. This lets you select tracks from the library. To go through the tracks just swipe first across and up or down. You can also use the categories to make it easier to locate the music you want by genre. You can preview the songs by selecting the cover of the album and use the little play bar. By pressing the information button you are able to find out more about the song, writer, musicians etc.
-
- Select the track once you have found it by tapping. If you decide you want to try something different or remove it altogether just return to the music menu, select the album and unselect it.
-
-#### 6\. Changing clip audio levels
-
- If you want to change the level of audio in a specific clip use the edit tool and find the clip you wish to adjust. Keep tapping the audio icon as this will allow you to select whether you want the audio on, off or boosted.
-
-#### 7\. Adding captions
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-![adding-caption-cameo](https://images.wondershare.com/filmora/article-images/adding-caption-cameo.jpg)
-
- If you want to add captions to any of your clips start off by pressing the editing tool. Choose captions which is the ‘A|’ symbol. The captions are up to 40 characters but you do have the option as to where you want to put them on the screen. When you have chosen the theme earlier on the text and font will have already been determined. When you have added the captions you just have to tap the red tick to confirm you are done with the video editor.
-
-## Advanced editing
-
-#### 1\. Add a title and thumbnail
-
-![title-and-thumbnail](https://images.wondershare.com/filmora/article-images/title-and-thumbnail.jpg)
-
- Once you have finished with the Vimeo cameo video editor you can then select a thumbnail and title to add. Start with the upload to Vimeo part and select add a title. Choose the title you want to give to your video and you will be automatically be prompted to choose a thumbnail photograph. You can do this from a frame of your video by using the selection bar. Tap the thumbnail picture once you have found it and confirm by using the red tick.
-
-#### 2\. Add a description
-
- After you have decided on and saved your thumbnail in the video editor you will be taken back to the page with ‘upload to Vimeo’. Here is where you can add the description at the bottom left of the screen.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Sharing features
-
- Once you have finished and are ready the video is uploaded automatically as private. You can specify otherwise if you are sure you have completed editing by toggling to make it public by tapping on the button in the lower right marked privacy. Select done and the video will upload automatically to your account. Use the video settings to add more privacy options by selecting settings and making adjustments in your privacy tab.
-
-#### Pros and Cons
-
-| **Pros**                                                   | **Cons** |
-| ---------------------------------------------------------- | -------- |
-| Creates high-resolution videos                             | iOS only |
-| Includes three different editing tools with lots of choice | ——       |
-
-## Summary
-
- Vimeo Cameo allows you to use your mobile device as a video editor by accessing the videos you already have in your camera roll. You don’t have to hook your phone up to a PC or laptop as the videos can be uploaded and edited directly from the device making it easier than ever to have more control over your videos when you are on the move.
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- More and more people are using mobile technology on the go, which is why Vimeo have introduced [Vimeo Cameo](https://itunes.apple.com/us/app/cameo-video-editor-and-movie-maker/id988821661?mt=8). It is basically an app that can be used by your iOS device to upload, as a video editor and professionally adapt with different styles and effects. Once the video is complete then you are able to upload it straight from your mobile device to the Vimeo site.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Editing features
-
- Once you have downloaded the Vimeo Cameo you just have to log in if you have an existing account or create one. Once logged in just tap to create a new video and make sure you allow the Vimeo Cameo to access the camera roll. The videos save as drafts as you go so you don’t have to worry about stopping for a while. To start a new project tap the ‘+‘ button to add any video clips from your roll. They will play automatically from the timeline once they have been uploaded.
-
-#### 1\. Trimming clips
-
-![cameo-trimming-clips](https://images.wondershare.com/filmora/article-images/cameo-trimming-clips.jpg)
 
  If you want to trim any clips you can do so by selecting the icon that looks like a pair of scissors. Just use the white dots that are located at the bottom of your screen so that you can create a different start or end point.
 
@@ -356,9 +338,6 @@ Follow @Ollie Mattison
 
 #### 5\. Add, change, or remove music
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vimeo-clips-editor](https://images.wondershare.com/filmora/article-images/vimeo-clips-editor.jpg)
 
  To add any music to videos just use the music icon. This lets you select tracks from the library. To go through the tracks just swipe first across and up or down. You can also use the categories to make it easier to locate the music you want by genre. You can preview the songs by selecting the cover of the album and use the little play bar. By pressing the information button you are able to find out more about the song, writer, musicians etc.
@@ -371,16 +350,14 @@ Follow @Ollie Mattison
 
 #### 7\. Adding captions
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![adding-caption-cameo](https://images.wondershare.com/filmora/article-images/adding-caption-cameo.jpg)
 
  If you want to add captions to any of your clips start off by pressing the editing tool. Choose captions which is the ‘A|’ symbol. The captions are up to 40 characters but you do have the option as to where you want to put them on the screen. When you have chosen the theme earlier on the text and font will have already been determined. When you have added the captions you just have to tap the red tick to confirm you are done with the video editor.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Advanced editing
 
 #### 1\. Add a title and thumbnail
@@ -427,8 +404,6 @@ Follow @Ollie Mattison
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -437,7 +412,26 @@ Follow @Ollie Mattison
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-clear-cut-strategies-transferring-your-imovie-work-to-vimeo/"><u>[New] 2024 Approved Clear-Cut Strategies Transferring Your iMovie Work to Vimeo</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-basics-in-the-realm-of-tale-construction/"><u>[New] Basics in the Realm of Tale Construction</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-free-video-trimming-tutorial-with-vimeo-features/"><u>[New] Free Video Trimming Tutorial with Vimeo Features</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ultimate-tutorial-customizing-the-final-frame-of-a-vimeo-video/"><u>[New] In 2024, Ultimate Tutorial Customizing the Final Frame of a Vimeo Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-incorporating-vimeo-videos-seamlessly-in-microsoft-slides-for-2024/"><u>[New] Incorporating Vimeo Videos Seamlessly in Microsoft Slides for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-inserting-chapters-in-vimeo-videos/"><u>[New] Step-by-Step Inserting Chapters in Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-strategies-to-have-your-video-embrace-by-vimeo-experts/"><u>[Updated] 2024 Approved Strategies to Have Your Video Embrace by Vimeo Experts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/bypassing-vimeo-top-10-editing-software-choices-for-2024/"><u>Bypassing Vimeo Top 10 Editing Software Choices for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-win11-and-geforce-7025-hardware-clash/"><u>Fixing Win11 & GeForce 7025 Hardware Clash</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/guide-to-installing-the-windows-11-23h2-update-with-complete-steps-and-pre-installation-backup-tips/"><u>Guide to Installing the Windows 11 23H2 Update with Complete Steps & Pre-Installation Backup Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-s17e-by-drfone-android/"><u>How to Bypass FRP on Vivo S17e?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-convert-dvd-files-without-cost-using-windows/"><u>How to Convert DVD Files Without Cost Using Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-130-music-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-hasten-your-vimeo-watch-time/"><u>In 2024, Hasten Your Vimeo Watch Time</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-turn-your-videos-into-money-with-vimeo-expertise/"><u>In 2024, How to Turn Your Videos Into Money with Vimeo Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-converte-le-foto-in-formato-opus-senza-costo-con-il-suo-software-personalizzato/"><u>Movavi: Converte Le Foto in Formato Opus Senza Costo Con Il Suo Software Personalizzato</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-top-10-gratis-mmo-rpgs-for-2024/"><u>Ultimate Guide Top 10 Gratis MMO RPGs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-early-access-to-the-apple-watch-series-n-mastering-pre-orders-and-discounts-insider-guidance-by-zdnet/"><u>Unlock Early Access to the Apple Watch Series N: Mastering Pre-Orders and Discounts | Insider Guidance by ZDNet</u></a></li>
+</ul></div>
 

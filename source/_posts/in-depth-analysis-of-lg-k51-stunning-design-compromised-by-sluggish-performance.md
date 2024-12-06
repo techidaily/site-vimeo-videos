@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of LG K51: Stunning Design Compromised by Sluggish Performance"
-date: 2024-11-25T00:07:29.274Z
-updated: 2024-11-26T18:01:17.806Z
+date: 2024-12-02T17:28:11.542Z
+updated: 2024-12-06T17:48:49.865Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Analysis of LG K51: Stunning Design Compromised by Sluggish Performance"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ## Samsung Galaxy Watch Active2
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/Ttod1pj32tMmx9tm6GR5CMHEa1w=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_HeroSquare-8ec2b040552f4e82b569c140246d3e1f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -40,13 +44,13 @@ Lifewire / Yoona Wagener
 
 4.6
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Watch Active2
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/pQyytjsyngWSMZ0b1hCE3_tAtsA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_HeroSquare-8ec2b040552f4e82b569c140246d3e1f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -73,6 +77,10 @@ Lifewire / Yoona Wagener
 
  Other exciting enhancements revolve around advanced health and fitness features that compete with Apple and Fitbit models. Wellness enthusiasts and runners will enjoy the new VO2 max feature, running analysis, and ECG monitoring support, and all users can claim peace of mind with fall detection. Though iOS users with an iPhone 5 and newer will find compatibility, it’s more limited than Android or Galaxy users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Sleek and user-friendly
 
  The Samsung Galaxy Watch Active2 is streamlined, sporty, and simple to navigate. It comes with a vibrant SUPER AMOLED 360x360 1.2-inch display that’s easy to view in all different lighting conditions with adjustable brightness levels, the ability to use an upward wrist gesture or tap to wake, and the option of an always-on display.
@@ -87,6 +95,10 @@ Lifewire / Yoona Wagener
 
  The swipe-down quick access menu comes with even more useful features for activating the most relevant settings based on the situation. These helpful aids include shortcuts for enabling night mode to inactivate the screen and any notices while you’re sleeping and freezing the screen from interferences in the pool by turning on the water lock button. I experienced strong feedback and responsiveness with every tap or menu navigation, never feeling as if I’d lost my place or that the watch failed to register my inputs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s New: New sizing, connectivity, and fitness tracking in the Active2
 
  While the general appearance and feature set hasn’t changed dramatically, the Active2 presents some clear differences over the original[Samsung Galaxy Watch Active](https://www.lifewire.com/samsung-galaxy-watch-active-review-4766873) . The Active2 increases the display by 0.1 inches or 0.3 inches in the new larger case size that appeals to more wrist sizes.
@@ -99,10 +111,6 @@ Lifewire / Yoona Wagener
 
  The Active2 also offers more effortless connectivity by remembering text history and offering the ease of quick replies, including[Bitmoji](https://www.lifewire.com/bitmoji-explained-4137793) and canned responses right from the watch. It also doubles down on fitness and wellness tech by improving running analysis and offering ECG monitoring and fall detection. These features put it in direct company with the[Apple Watch](https://www.lifewire.com/apple-watch-basics-4121197) and Fitbit and Garmin smartwatches that dial up the fitness and wellness focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comfort: Ideal for all-day wear
 
  The Active2 offers a comfortable fluoroelastomer rubber band that flexes and repels sweat and moisture with ease, though it does catch lint easily. The device is safe to take in the pool for laps or leisurely soaks, thanks to a 5ATM waterproof rating. The water lock feature was foolproof and easy to turn off and on at will. You can also trust the Gorilla Glass DX+ glass and MIL-STD-810G durability rating to make routine wear and care a breeze.
@@ -110,10 +118,6 @@ Lifewire / Yoona Wagener
  In addition to expanded sizing for larger wrists, the Active2 manages to feel nearly weightless despite gaining a little weight over the 40mm Active (0.91 ounces versus 0.88 ounces). The flat-tuck, slim band provides a clean fit without extra material getting in the way while exercising or stationary. The light design and flexible build gave this device a nearly weightless feeling with all-day use, including while sleeping. Unlike some wearables, I didn’t end up with heavy marks when I woke up from a night of wearing it to monitor my sleep.
 
 ![Samsung Galaxy Watch Active2](https://www.lifewire.com/thmb/IL7xAj-uHT_sJJ1J34PbgpVSibk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Samsung_GalaxyWatchActive2_05-08f63a3d72d745ee95763d2bfbdccfbc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -143,10 +147,6 @@ Lifewire / Yoona Wagener
 
  I saw a consistent run time of 2.5 to three days, depending on how I used it. Streaming Spotify music or enabling the always-on display during runs predictably depleted the battery faster.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Software: Tizen OS delivers a well-rounded smartwatch experience
 
  The Active2 runs on[Tizen OS](https://www.lifewire.com/what-is-tizen-4580383) , which offers a vast selection of watch face customizations and access to the Galaxy Store for even more—or other gaming, productivity, or entertainment apps. For virtual assistance, there’s Bixby, which has improved considerably since the version in the Active, plus Samsung Pay for quick wallet-free payments.
@@ -163,13 +163,13 @@ Lifewire / Yoona Wagener
 
  Samsung Health for Android also provides access to those new advanced metrics such as VO2 max and running performance analysis along with much more detailed graphs that correspond with all the health data the Active2 captures in the background, such as heart rate, sleep, and stress levels. If you have an iPhone, you’ll get the basics but miss out on all of these advanced perks, unfortunately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Price: Right in the sweet spot
 
  The Samsung Galaxy Watch Active2 starts at $250 for the Bluetooth model or $270 for the LTE version. These price points still slot this watch below the top-tier models that ask a premium of well over $400\. Even with the standard Bluetooth and Wi-Fi connected Active2, you’ll find a lineup of apps and tools that cover most smartwatch needs. From automatic fitness tracking and some advanced health metrics to call and text response and music storage, this small and capable wearable is multi-talented and priced reasonably for its abilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch Active 2 vs. Fitbit Sense
 
@@ -187,15 +187,15 @@ Lifewire / Yoona Wagener
 
  The Samsung Galaxy Watch Active2 performs true to its name as a wearable that helps promote and match an active lifestyle with a slim and durable build, advanced running metrics, ECG monitoring, and a generous suite of apps and connected features. The full customization available on Android and Samsung Galaxy smartphones, in particular, makes the Active2 a compelling smartwatch choice for non-iOS users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch SE](https://www.lifewire.com/apple-watch-se-review-5088223)
 * [Garmin Vivomove HR](https://www.lifewire.com/garmin-vivomove-hr-review-4843913)
 * [Mobvoi TicWatch Pro 4G LTE](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -229,22 +229,14 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-from-video-to-gif-seamless-process-for-vimeo-content-for-2024/"><u>[New] From Video to GIF Seamless Process for Vimeo Content for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-advice-on-embedding-vimeo-content-in-ms-powerpoint/"><u>[New] In 2024, Expert Advice on Embedding Vimeo Content in MS PowerPoint</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-iconic-acting-snapshot-review/"><u>[New] In 2024, Iconic Acting Snapshot Review</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo/"><u>[New] Picking Perfect Your Path Through Basic, Plus & Pro in Vimeo</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-routine-for-placing-imovie-in-the-vimeo-spotlight-for-2024/"><u>[New] The Ultimate Routine for Placing iMovie in the Vimeo Spotlight for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-propel-your-profile-5-core-techniques-for-instagram-marketing-gurus/"><u>[Updated] 2024 Approved Propel Your Profile 5 Core Techniques for Instagram Marketing Gurus</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-navigating-the-process-of-embedding-vimeo-media-in-ppts/"><u>[Updated] In 2024, Navigating the Process of Embedding Vimeo Media in PPTs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quickening-ppt-tempo-a-guide-to-faster-slides/"><u>[Updated] Quickening PPT Tempo A Guide to Faster Slides</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-quick-tips-efficiently-upload-windows-video-projects-to-vimeo/"><u>2024 Approved Quick Tips Efficiently Upload Windows Video Projects to Vimeo</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-secure-your-media-download-vimeo-to-mp4/"><u>2024 Approved Secure Your Media Download Vimeo to MP4</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-spark-10c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Spark 10C without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/extending-your-screen-space-dual-monitor-setup-with-just-a-laptop/"><u>Extending Your Screen Space: Dual-Monitor Setup with Just a Laptop</u></a></li>
-<li><a href="https://fox-place.techidaily.com/hassle-free-and-secure-methods-for-cloning-hard-drives-with-hirens-bootcd/"><u>Hassle-Free and Secure Methods for Cloning Hard Drives with Hiren's BootCD</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-design-professional-slideshows-for-mac-computers-without-spending-money-a-comprehensive-guide/"><u>How to Design Professional Slideshows for Mac Computers Without Spending Money - A Comprehensive Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-14-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 14 Pro or iPad?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-time-saving-shortcuts-for-efficient-mac-screenshots/"><u>In 2024, Unveiling Time-Saving Shortcuts for Efficient Mac Screenshots</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wi-fi-dongle-setup-and-enablement-guide/"><u>Wi-Fi Dongle Setup & Enablement Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-avoiding-unauthorized-use-mastering-photowatermarking-on-instagram/"><u>[New] Avoiding Unauthorized Use Mastering Photowatermarking on Instagram</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-guide-to-30-transformative-server-bots/"><u>[New] The Ultimate Guide to 30 Transformative Server Bots</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-the-secrets-of-integrating-online-videos-in-slides/"><u>[New] Unlocking the Secrets of Integrating Online Videos in Slides</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-complete-playbook-to-conquer-spotify-advertising/"><u>[Updated] In 2024, The Complete Playbook to Conquer Spotify Advertising</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unbeatable-titles-the-creme-de-la-liste-of-10-vimeo-extractors/"><u>2024 Approved Unbeatable Titles The Crème De La Liste of 10 Vimeo Extractors</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elite-edits-10-superior-alternatives-to-vimeo-cameos/"><u>Elite Edits 10 Superior Alternatives to Vimeo Cameos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-get-a-voice-controlled-version-of-chatgpt-on-android-with-voicegpt/"><u>How to Get a Voice-Controlled Version of ChatGPT on Android With VoiceGPT</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-complete-guide-to-soundtracking-vimeo-content/"><u>The Complete Guide to Soundtracking Vimeo Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-mundane-titles-into-visual-marvels-with-ae-for-2024/"><u>Transforming Mundane Titles Into Visual Marvels with AE for 2024</u></a></li>
 </ul></div>
 

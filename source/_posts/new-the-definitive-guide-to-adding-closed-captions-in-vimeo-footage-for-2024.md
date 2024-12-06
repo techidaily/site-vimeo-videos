@@ -1,7 +1,7 @@
 ---
 title: "[New] The Definitive Guide to Adding Closed Captions in Vimeo Footage for 2024"
-date: 2024-07-15T15:53:41.430Z
-updated: 2024-07-16T15:53:41.430Z
+date: 2024-11-29T19:37:46.821Z
+updated: 2024-12-06T19:05:02.726Z
 tags:
   - ai video
   - ai vimeo
@@ -27,6 +27,10 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
  There are a lot of reasons to add subtitles to a video. And there are many different ways to do it. If you can read and follow this simple instructions you will be able to add subtitle and add caption text to your videos with ease. You have just two options which are to quickly learn how to do it yourself or pay for a professional video editor to add subtitle and caption to your videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to add subtitle to Vimeo videos
 
 #### Step 1: Get a Caption/Subtitle File for your Video
@@ -43,10 +47,11 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 1. You need to start by logging into your Vimeo account and uploading your chosen video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
 
@@ -58,9 +63,6 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 4. It’s now time to select your caption file and choose which type and language you require.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
 
 5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
@@ -85,14 +87,12 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
  Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -125,23 +125,18 @@ Follow @Ollie Mattison
 
 1. You need to start by logging into your Vimeo account and uploading your chosen video.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
 
 3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
 
 4. It’s now time to select your caption file and choose which type and language you require.
@@ -162,6 +157,10 @@ Follow @Ollie Mattison
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
 
  After dragging-n-dropping your Vimeo video to the timeline, click the “Text/Credit” tab on the Tool bar, then you will see there are many preset templates available. Click the designed template and then drag it to the Text track in the timeline.
@@ -174,9 +173,6 @@ Follow @Ollie Mattison
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -207,16 +203,14 @@ Follow @Ollie Mattison
 
 1. You need to start by logging into your Vimeo account and uploading your chosen video.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
 
 3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
@@ -252,9 +246,14 @@ Follow @Ollie Mattison
 ![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -270,9 +269,6 @@ Follow @Ollie Mattison
 
  There are a lot of reasons to add subtitles to a video. And there are many different ways to do it. If you can read and follow this simple instructions you will be able to add subtitle and add caption text to your videos with ease. You have just two options which are to quickly learn how to do it yourself or pay for a professional video editor to add subtitle and caption to your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to add subtitle to Vimeo videos
 
 #### Step 1: Get a Caption/Subtitle File for your Video
@@ -297,20 +293,18 @@ Follow @Ollie Mattison
 
 3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
 
 4. It’s now time to select your caption file and choose which type and language you require.
 
 ![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
 
  Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
@@ -321,9 +315,6 @@ Follow @Ollie Mattison
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best software to use to add subtitle or add caption due to the numerous editing options that allow you to make it your own. They have everything from animated text effects and balloons to introductions and credits. The software allows you to add, remove and favourite your desired effects and you can add numerous tracks to make future edits easier. Customise the font to make it stand out as your own, including matching the text to any logo you may have and much much more. By using Wondershare Filmora you can add subtitle and add caption effects to reach out to more people than you thought possible and have more power than similar software.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
@@ -334,19 +325,14 @@ Follow @Ollie Mattison
 
  Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -366,8 +352,6 @@ Follow @Ollie Mattison
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -376,7 +360,20 @@ Follow @Ollie Mattison
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-from-passive-viewers-to-profitable-partners-on-vimeo/"><u>[New] 2024 Approved From Passive Viewers to Profitable Partners on Vimeo</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-reconstructing-your-tiktok-identity-step-by-step-renaming-manual/"><u>[Updated] 2024 Approved Reconstructing Your TikTok Identity Step-by-Step Renaming Manual</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-best-video-editor-for-vimeo-for-2024/"><u>[Updated] Best Video Editor for Vimeo for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-simple-steps-to-extend-switchs-service-life/"><u>5 Simple Steps to Extend Switch's Service Life</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-posts-with-4-effective-video-loop-techniques-for-2024/"><u>Elevate Your Posts with 4 Effective Video Loop Techniques for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevating-your-content-becoming-a-staff-pick-favorite-on-vimeo-for-2024/"><u>Elevating Your Content Becoming a Staff Pick Favorite on Vimeo for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-computer-glitches-how-to-stop-elex-ii-from-suddenly-closing/"><u>Eliminating Computer Glitches: How to Stop Elex II From Suddenly Closing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-dxgkrnlsys-crash-in-windows-blue-screen/"><u>Fixed dxgkrnl.sys Crash in Windows' Blue Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-capture-your-macs-screen-a-step-by-step-walkthrough/"><u>In 2024, Capture Your Mac's Screen A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-polishing-tiktok-content-on-mac-a-comprehensive-editors-manual/"><u>In 2024, Polishing TikTok Content on Mac A Comprehensive Editor's Manual</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-iphone-backup-flawless-integration-with-snapchat-photos/"><u>Navigating iPhone Backup Flawless Integration with Snapchat Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-s18-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo S18 Phone Hassle-Free</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-chapter-how-to-add-chapters-to-vimeo-video/"><u>Vimeo Chapter How to Add Chapters to Vimeo Video?</u></a></li>
+</ul></div>
 
