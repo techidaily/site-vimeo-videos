@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2024-12-02T19:05:12.304Z
-updated: 2024-12-06T19:27:28.363Z
+date: 2024-12-07T16:00:34.035Z
+updated: 2024-12-12T18:49:11.391Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 1: Reinstall Keyboard Driver**
 
 1) Follow the path:**Start**icon**\> Control Panel**(View by**Large icons)>** **Device Manager**.
@@ -30,16 +26,12 @@ We have received reports from user saying that they have trouble using their HP 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When prompted to confirm the uninstall, press**OK**to continue.
 
@@ -49,12 +41,16 @@ When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
@@ -67,6 +63,10 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd71980796.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
@@ -76,7 +76,7 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -109,20 +109,19 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-methods-for-turning-vimeo-content-into-mp3/"><u>[New] 2024 Approved Methods for Turning Vimeo Content Into MP3</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimize-your-content-creation-for-vimeo-with-best-edits/"><u>[Updated] 2024 Approved Optimize Your Content Creation for Vimeo with Best Edits</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-rethinking-content-creation-non-vimeo-editor-hits/"><u>[Updated] 2024 Approved Rethinking Content Creation Non-Vimeo Editor Hits</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-video-segments-the-chapter-creation-handbook/"><u>[Updated] 2024 Approved Vimeo's Video Segments The Chapter Creation Handbook</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeos-zero-dollar-video-editing-pathway/"><u>[Updated] In 2024, Vimeo's Zero-Dollar Video Editing Pathway</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-potential-with-instagram-videos-strategic-planning-insights/"><u>[Updated] Unlocking Potential with Instagram Videos Strategic Planning Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-income-statement-pewdiepie-the-youtube-guru/"><u>2024 Approved Income Statement PewDiePie, The YouTube Guru</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-our-new-be-quiet-pc-cases-tailorable-and-radiant-fans-to-light-up-your-system/"><u>Discover Our New 'Be Quiet!' PC Cases - Tailorable and Radiant Fans to Light Up Your System!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-smart-choices-best-vimeo-video-downloader-apps/"><u>In 2024, Smart Choices Best Vimeo Video Downloader Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-organizational-tasks-how-to-efficiently-manage-cancelled-memberships-and-identifying-typographical-errors-insights-from-the-abbyy-blog/"><u>Navigating Organizational Tasks: How to Efficiently Manage Cancelled Memberships & Identifying Typographical Errors | Insights From the ABBYY Blog</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/by-step-guide-to-essential-youtube-equipment/"><u>Step-by-Step Guide to Essential YouTube Equipment</u></a></li>
-<li><a href="https://facebook.techidaily.com/tech-turmoil-massive-outage-across-platforms/"><u>Tech Turmoil: Massive Outage Across Platforms</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-itel-p55t-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Itel P55T Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformacion-de-imagenes-bmp-a-jpg-sin-coste-herramienta-en-linea-gratuita-movavi/"><u>Transformación De Imágenes BMP a JPG Sin Coste: Herramienta en Línea Gratuita - Movavi</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unlock-content-potential-with-the-right-vimeo-membership-choice-for-2024/"><u>Unlock Content Potential with the Right Vimeo Membership Choice for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-the-heart-of-sims-4-games-for-2024/"><u>[New] Capturing the Heart of Sims 4 Games for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-seamless-imovie-files-to-vimeo-integration-tips/"><u>[New] In 2024, Seamless iMovie Files to Vimeo Integration Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-securing-every-frame-best-practices-for-vimeo-record-use/"><u>[New] Securing Every Frame Best Practices for Vimeo Record Use</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-smart-choices-best-vimeo-video-downloader-apps-for-2024/"><u>[New] Smart Choices Best Vimeo Video Downloader Apps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spectacular-top-5-slow-motion-cams/"><u>[New] Spectacular Top 5 Slow Motion Cams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-xs-100i-action-camera-revolutionized/"><u>[Updated] 2024 Approved Unveiling the XS 100I - Action Camera Revolutionized</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-alternatives-to-vimeos-video-editor/"><u>[Updated] Cutting Edge Alternatives to Vimeo's Video Editor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-download-vimeo-video-to-mp3-for-2024/"><u>[Updated] How to Download Vimeo Video to MP3 for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-cutting-edge-content-creation-mastering-how-to-trim-videos-in-real-time-on-vimeo/"><u>[Updated] In 2024, Cutting-Edge Content Creation Mastering How to Trim Videos in Real Time on Vimeo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971631570-brother-hl2280dw-driver-downloads-for-windows-111087-install-now/"><u>Brother HL2280DW Driver Downloads for Windows 11/10/8/7 – Install Now</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-s17-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo S17 Pro Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor Magic 6 Pro?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-solving-starfield-cannot-startup-on-steam-or-xbox/"><u>Troubleshooting Tips: Solving 'Starfield Cannot Startup on Steam or Xbox'</u></a></li>
 </ul></div>
 
