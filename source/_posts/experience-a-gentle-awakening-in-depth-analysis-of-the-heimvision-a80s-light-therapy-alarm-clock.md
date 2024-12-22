@@ -1,7 +1,7 @@
 ---
 title: "Experience a Gentle Awakening: In-Depth Analysis of the HeimVision A80S Light Therapy Alarm Clock"
-date: 2024-12-16T01:37:02.803Z
-updated: 2024-12-20T17:56:04.417Z
+date: 2024-12-14T16:18:10.575Z
+updated: 2024-12-21T20:47:40.650Z
 categories:
   - BestProducts
 description: "This Article Describes Experience a Gentle Awakening: In-Depth Analysis of the HeimVision A80S Light Therapy Alarm Clock"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 3.6
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/bJGZVvLPIuXJptw8uPYtObxbpMQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -47,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 3.6
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -77,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
  Though Sony panels are sometimes on the expensive end of the spectrum, there are some older Sony 4K TVs that can be had for a nice little discount. One such TV is Sony’s XBR65X850F from their X850F series. This specific model has now been replaced by the X850G, but that doesn’t mean you necessarily need to go with the most current model. In fact, snagging one of these earlier generation sets can save you some cash without forcing you to compromise too much.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Standard Sony**
 
  The XBR65X850F's design is a combination of sleek and workmanlike. The stand on this Sony is pretty common for TVs these days, with two V-shaped feet that stick out to either side. While they look aluminum, these are actually plastic too, with merely an aluminum finish. They are decently steady, but we noticed a bit of wobble if you move the TV around. It should be plenty sturdy for most, though you will need a fairly wide stand for them to rest on since they stick out so far. There’s also no room for adjusting the unit up or down, but they’re tall enough to fit a soundbar underneath if you want. They also flip open on the top if you want to use them for some clever cable management.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/v7wi7isxu06LAoWNZK3dJ908mCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-4-cb1a370bd78244b383c802010a570313.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -100,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
  The included remote is pretty standard for all Sony TVs, which means it’s big and packed with functionality. You can quickly set favorites with the hotkeys, access settings, change inputs, perform basic functions, and even manually enter channel numbers. We quite prefer this type of remote to something like a minimal Apple TV remote with only a sliver of the features. You’ve also got quick access to[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) right on the remote to perform some basic functions.
 
  On the front of the screen, the bezels are a little thicker than some of the 4K TVs we’ve reviewed, but they’re pretty thin and shouldn’t distract. There’s your standard anti-glare coating found on the screen here too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup Process: Stick to the on-screen instructions**
 
@@ -161,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -168,10 +168,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
  On Sony’s website, the 65-inch model we tested here is listed at $1,300, the 75 at $2,300, and the 85 at a whopping $4,000\. Now these prices aren’t exactly accurate, especially since these are an older series. Typically you can find the 65-inch for about $1,100 or so. The other models are also heavily discounted depending on where you look, so definitely shop around. It’s likely that you can snag them for even less during sales.
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
@@ -190,6 +186,10 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 **A solid IPS panel 4K TV.**
 
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -220,17 +220,20 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-effortless-opening-of-srt-on-computers-for-2024/"><u>[New] Effortless Opening of SRT on Computers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-playbook-for-captivating-youtube-audiences-with-strategic-banners/"><u>[New] The Ultimate Playbook for Captivating YouTube Audiences with Strategic Banners</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-top-10-list-free-image-layering-progs-iosandroid/"><u>[Updated] Exclusive Top 10 List Free Image Layering Progs iOS/Android</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unmatched-collection-10-excellent-platforms-for-vimeo-video-downloaders/"><u>[Updated] In 2024, Unmatched Collection 10 Excellent Platforms for Vimeo Video Downloaders</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728490345399-404/"><u>「404 - ページを探しているけれど見当たらない:詳細解説」</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-what-lies-beneath-the-true-meanings-in-emoji/"><u>2024 Approved What Lies Beneath The True Meanings in Emoji</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/effective-strategies-for-mov-video-recording-in-windows-11-for-2024/"><u>Effective Strategies for MOV Video Recording in Windows 11 for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-extracting-audio-from-vimeo-content-easily/"><u>In 2024, Extracting Audio From Vimeo Content Easily</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-the-art-of-small-image-creation-a-thumbnail-guide-for-2024/"><u>Mastering the Art of Small Image Creation A Thumbnail Guide for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/quick-video-playback-with-vimeo/"><u>Quick Video Playback with Vimeo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-the-blue-tint-on-tv-screens-easy-fixes-in-8-steps/"><u>Solving the Mystery of the Blue Tint on TV Screens – Easy Fixes in 8 Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2023-8-free-and-online-facebook-link-downloaders-for-2024/"><u>[New] 2023 | 8 Free And Online Facebook Link Downloaders for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-comprehensive-walkthrough-creating-channel-banners/"><u>[New] A Comprehensive Walkthrough Creating Channel Banners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-chats-storing-gh-live-sessions/"><u>[New] Capturing Chats Storing GH Live Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-snaprecorder-expert-breakdowns/"><u>[New] In 2024, SnapRecorder Expert Breakdowns</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-the-best-cameras-for-youtube-from-beginners-to-professionals/"><u>[New] In 2024, The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-guide-how-to-convert-youtube-streaming-into-a-free-screencast/"><u>[New] Step by Step Guide How To Convert YouTube Streaming Into a Free Screencast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-amplify-iphone-film-and-photo-experience-with-extra-gear-for-2024/"><u>[Updated] Amplify iPhone Film & Photo Experience with Extra Gear for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-a-step-by-step-process-for-twitch-streamers/"><u>[Updated] In 2024, A Step-by-Step Process for Twitch Streamers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-direct-downloading-of-audio-content-from-vimeo-videos/"><u>[Updated] In 2024, Direct Downloading of Audio Content From Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-speed-for-vimeo-playback/"><u>[Updated] In 2024, Enhancing Speed for Vimeo Playback</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-scalable-techniques-for-vimeo-broadcasting/"><u>[Updated] In 2024, Scalable Techniques for Vimeo Broadcasting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeo-recorder-capturing-screens-and-cameras-on-streams/"><u>[Updated] Mastering Vimeo Recorder Capturing Screens & Cameras on Streams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastery-of-monitor-modification-tips-and-tricks-by-yl-software-for-optimal-display-settings/"><u>Mastery of Monitor Modification: Tips and Tricks by YL Software for Optimal Display Settings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unlocking-the-power-of-closed-captions-on-vimeo/"><u>Unlocking the Power of Closed Captions on Vimeo</u></a></li>
 </ul></div>
 

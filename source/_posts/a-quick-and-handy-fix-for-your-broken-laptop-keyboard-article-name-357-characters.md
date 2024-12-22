@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2024-12-15T22:06:11.695Z
-updated: 2024-12-20T17:43:22.085Z
+date: 2024-12-17T18:58:46.967Z
+updated: 2024-12-22T00:04:39.620Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ We have received reports from user saying that they have trouble using their HP 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
@@ -37,31 +37,27 @@ When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 2: Check Keyboard Settings**
 
 1) Click your**Start**button, then choose**Settings**icon from it. Then choose**Time & language**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcfa0068ce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) On the left side of the pane, choose**Region & language**, then on the right side, make sure that the language is set to**English (United States)**.
 
@@ -76,7 +72,11 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -109,17 +109,20 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts/"><u>[New] 2024 Approved Crafting Melodies Turn Any TikTok Sound Into Phone Alerts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-digital-moguls-guide-to-vimeo-earnings-mastery/"><u>[New] 2024 Approved The Digital Mogul's Guide to Vimeo Earnings Mastery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-speed-dial-for-vimeo-video-loading/"><u>[New] Speed Dial for Vimeo Video Loading</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-essentials-of-film-production-for-youtube-originals/"><u>[Updated] The Essentials of Film Production for YouTube Originals</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-in-depth-minecraft-gameplay-recording-strategies/"><u>2024 Approved In-Depth Minecraft Gameplay Recording Strategies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-youtube-settings-to-eliminate-video-skips/"><u>2024 Approved Mastering YouTube Settings to Eliminate Video Skips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-frames-to-frequencies-the-video-transformation/"><u>In 2024, From Frames to Frequencies The Video Transformation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-8t-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 8T 5G Bootloader Easily</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-iphone-video-editors-cameo-vs-filmorago-showdown/"><u>In 2024, IPhone Video Editors Cameo Vs. FilmoraGo Showdown</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-smart-8-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Smart 8 Pro Phones</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/rescuezilla-festplatten-fur-das-kopieren-auf-kleinere-laufwerke-machbarkeit-und-tipps/"><u>RescueZilla-Festplatten Für Das Kopieren Auf Kleinere Laufwerke: Machbarkeit Und Tipps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960676151-resolving-startech-device-drivers-troubles-in-windows-10-8-or-7-effective-methods/"><u>Resolving StarTech Device Drivers Troubles in Windows 10, 8 or 7 - Effective Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-structure-your-storytelling-with-chapter-tags-in-vimeo-videos/"><u>[New] 2024 Approved Structure Your Storytelling with Chapter Tags in Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-transforming-vimeo-streams-into-reusable-mp3-audio/"><u>[New] 2024 Approved Transforming Vimeo Streams Into Reusable MP3 Audio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-comparing-iphones-best-video-editors-cameo-and-filmorago-for-2024/"><u>[New] Comparing iPhone's Best Video Editors Cameo & FilmoraGo for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-the-digital-maze-to-save-snaps-from-social-media-for-2024/"><u>[New] Navigating the Digital Maze to Save Snaps From Social Media for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlining-film-shoots-a-beginners-guide-for-2024/"><u>[New] Streamlining Film Shoots A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevate-emotion-and-imagination-in-tiktok-creations/"><u>[Updated] 2024 Approved Elevate Emotion and Imagination in TikTok Creations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-instant-classics-days-highest-youtube-rankings/"><u>[Updated] 2024 Approved Instant Classics Day’s Highest YouTube Rankings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-bite-sized-biographical-look-for-2024/"><u>[Updated] Bite-Sized Biographical Look for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-focused-cinematography-on-kinemaster/"><u>[Updated] Mastering the Art of Focused Cinematography on Kinemaster</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unheard-voices-on-youtube-livestream-success-beyond-1000-supporters/"><u>2024 Approved Unheard Voices on YouTube Livestream Success Beyond 1000 Supporters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevate-your-content-secrets-to-becoming-a-staff-favorite-at-vimeo-for-2024/"><u>Elevate Your Content Secrets to Becoming a Staff Favorite at Vimeo for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-14-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 14 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-online-broadcast-platforms/"><u>In 2024, Ultimate Online Broadcast Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-of-conversation-gpt-3s-top-updates-unveiled/"><u>New Era of Conversation: GPT-3’s Top Updates Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/picture-perfect-adding-imagery-to-ig/"><u>Picture Perfect Adding Imagery to IG</u></a></li>
 </ul></div>
 
