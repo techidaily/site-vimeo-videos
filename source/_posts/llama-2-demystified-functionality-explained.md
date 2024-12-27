@@ -1,7 +1,7 @@
 ---
 title: "Llama 2 Demystified: Functionality Explained"
-date: 2024-12-17T20:37:42.429Z
-updated: 2024-12-21T22:28:23.846Z
+date: 2024-12-23T16:19:04.441Z
+updated: 2024-12-27T16:41:42.551Z
 tags:
   - chatgpt
   - open-ai
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -146,19 +146,20 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nfographic-social-video-marketing-tips-for-small-business-for-2024/"><u>[New] [Infographic] Social Video Marketing Tips for Small Business for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-for-rapid-thumbnail-assembly/"><u>[New] 2024 Approved Cutting-Edge Techniques for Rapid Thumbnail Assembly</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-enhancing-video-production-for-instagram-reels/"><u>[New] In 2024, Enhancing Video Production for Instagram Reels</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tips-to-get-your-video-staff-picked-on-vimeo/"><u>[Updated] In 2024, Tips to Get Your Video “Staff Picked” On Vimeo</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-addressing-the-lack-of-novelty-in-virtual-reality/"><u>2024 Approved Addressing the Lack of Novelty in Virtual Reality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/20235/"><u>無料で編集しやすい！「2023」日本語対応動画ソフトウェアのおすすめトップ5選議論</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/beyond-vimeo-a-compilation-of-premier-video-editors-for-2024/"><u>Beyond Vimeo A Compilation of Premier Video Editors for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/choosing-between-vimeo-free-premium-and-pro-membership-levels/"><u>Choosing Between Vimeo Free, Premium & Pro Membership Levels</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-common-onedrive-issues-on-pc/"><u>Conquering Common OneDrive Issues on PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g24-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Motorola Moto G24 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-huawei-nova-y91-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Huawei Nova Y91? Fixed | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/step-by-step-techniques-for-earning-profits-on-vimeo-for-2024/"><u>Step-by-Step Techniques for Earning Profits on Vimeo for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-playing-frustratingly-fix-csgo-crash-problems-instantly/"><u>Stop Playing Frustratingly: Fix CSGO Crash Problems Instantly</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlocking-insta-stardom-15-effortless-steps-towards-rapid-and-sustained-fame-for-2024/"><u>Unlocking Insta Stardom 15 Effortless Steps Towards Rapid and Sustained Fame for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-iphones-premier-video-tools-pick-cameo-over-filmorago/"><u>[New] 2024 Approved IPhone's Premier Video Tools Pick Cameo Over FilmoraGo?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-create-compelling-compositions-with-iphone-the-power-of-leading-lines/"><u>[New] Create Compelling Compositions with iPhone The Power of Leading Lines</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-essential-guide-to-selecting-a-suitable-vimeo-subscription-for-2024/"><u>[New] Essential Guide to Selecting a Suitable Vimeo Subscription for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-grasp-free-to-use-vimeo-editing-techniques/"><u>[New] Grasp Free-to-Use Vimeo Editing Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-audiovisual-alchemy-infusing-your-vimeo-clips-with-soundtracks/"><u>[Updated] 2024 Approved Audiovisual Alchemy Infusing Your Vimeo Clips with Soundtracks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-avoiding-obscurity-tips-for-staff-picked-videos-at-vimeo/"><u>[Updated] 2024 Approved Avoiding Obscurity Tips for Staff-Picked Videos at Vimeo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-nailing-video-format-change-iphonedesktops-8-choices-for-2024/"><u>[Updated] Nailing Video Format Change IPhone/Desktop's #8 Choices for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimizing-video-sharing-with-vimeo-subscription-choices/"><u>[Updated] Optimizing Video Sharing With Vimeo Subscription Choices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-excellence-with-the-apple-iphone-12-pro-max-a-detailed-product-analysis/"><u>Experience Excellence with the Apple iPhone 12 Pro Max - A Detailed Product Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia G22 Phone Without Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-70-lite-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 70 Lite 5G FRP Locks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-setting-up-internet-connectivity-for-your-home-theaters/"><u>Step-by-Step Instructions: Setting Up Internet Connectivity for Your Home Theaters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-ultimate-protection-a-review-of-apples-top-tier-iphone-case-with-innovative-safety-enhancements-insights-from-zdnet/"><u>Unveiling the Ultimate Protection: A Review of Apple's Top-Tier iPhone Case with Innovative Safety Enhancements - Insights From ZDNet</u></a></li>
 </ul></div>
 

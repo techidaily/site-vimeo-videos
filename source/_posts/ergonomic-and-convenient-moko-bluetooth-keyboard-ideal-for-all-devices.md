@@ -1,7 +1,7 @@
 ---
 title: Ergonomic & Convenient MoKo Bluetooth Keyboard – Ideal for All Devices!
-date: 2024-12-17T18:40:49.501Z
-updated: 2024-12-21T16:46:10.355Z
+date: 2024-12-20T16:03:11.291Z
+updated: 2024-12-27T17:04:29.056Z
 categories:
   - BestProducts
 description: This Article Describes Ergonomic & Convenient MoKo Bluetooth Keyboard – Ideal for All Devices!
@@ -71,6 +71,10 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  One unique feature of the Sculpt we loved was the function switch. Located on the upper-right hand side of the keyboard, this switch allows you to toggle the functionality of the top row keys, replacing the function key. Options include refreshing the active page, navigating to the home page in web, opening up the computer’s settings, a play/pause button, switching between active windows, and increasing or decreasing volume.
@@ -79,23 +83,19 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
@@ -105,10 +105,6 @@ Lifewire / Emily Isaacs
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
@@ -116,7 +112,7 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -133,6 +129,10 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  The Surface is a high-end keyboard, but that quality comes at a higher price. The Surface tends to retail for around $129, much more than the Sculpt which retails for around $80\. That said, it’s an upgrade in almost every way. If you’re on a budget, the Sculpt is a great option, but if you’re able to splurge, the Surface is our top pick for wireless ergonomic keyboards.
@@ -146,7 +146,7 @@ Lifewire / Emily Isaacs
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -179,18 +179,20 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts-for-2024/"><u>[New] From Zero to Viral Video Top 10 User-Friendly YouTube Concepts for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-efficiently-embedding-your-imovie-clips-in-a-vimeo-account/"><u>[New] In 2024, Efficiently Embedding Your iMovie Clips in a Vimeo Account</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-professional-guide-ensuring-imovie-content-shines-on-vimeo/"><u>[New] In 2024, Professional Guide Ensuring iMovie Content Shines on Vimeo</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>[Updated] Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/advanced-techniques-flawless-insertion-of-vimeo-video-in-slides-for-2024/"><u>Advanced Techniques Flawless Insertion of Vimeo Video in Slides for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/audible-riches-from-social-media-videos-fb-to-mp3-guide-for-2024/"><u>Audible Riches From Social Media Videos - FB To MP3 Guide for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-12-no-cost-defrag-software-solutions-in-junejuly-2024/"><u>Discover the Latest 12 No-Cost Defrag Software Solutions in June/July 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/from-passive-viewers-to-profitable-partners-on-vimeo/"><u>From Passive Viewers to Profitable Partners on Vimeo</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-add-border-to-instagram-photos/"><u>How to Add Border to Instagram Photos?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-strategies-to-perfect-the-last-push-on-your-vimeo-videos/"><u>In 2024, Strategies to Perfect the Last Push on Your Vimeo Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-t2-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo T2 5G FRP Bypass</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/1726027817771-mts/"><u>MTSファイル圧縮手順集 - 最も使いやすい方法</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tracing-trending-commentary-across-videos/"><u>Tracing Trending Commentary Across Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-uploading-movie-maker-videos-on-vimeo-for-2024/"><u>[New] Mastering Uploading Movie Maker Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mobility-boosted-video-stability-device/"><u>[Updated] 2024 Approved Mobility Boosted Video Stability Device</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-15-action-camera-picks-beyond-your-gopro-needs/"><u>[Updated] 2024 Approved Top 15 Action Camera Picks Beyond Your GoPro Needs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-exploring-vimeo-digital-content-hub/"><u>[Updated] Exploring Vimeo Digital Content Hub</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-final-impressions-how-to-design-a-standout-vimeo-end-screen/"><u>[Updated] Final Impressions How to Design a Standout Vimeo End Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles/"><u>[Updated] In 2024, Enhancing User Experience A Quick How-To for YouTube CC & Subtitles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-essential-techniques-for-crafting-efficient-thumbnails/"><u>[Updated] In 2024, Essential Techniques for Crafting Efficient Thumbnails</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-which-is-better-video-editor-for-iphone-cameo-or-filmorago/"><u>[Updated] In 2024, Which Is Better Video Editor for iPhone? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-strategies-to-speedy-up-vimeo-videos/"><u>2024 Approved Strategies to Speedy Up Vimeo Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-c22-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-for-triumph-fps-game-settings/"><u>Fine-Tuning for Triumph: FPS Game Settings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-tricks-for-speedy-vimeo-streams/"><u>In 2024, Tricks for Speedy Vimeo Streams</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-epson-wf-2630-driver-on-your-pc-windows-7-81-or-10-compatible-versions/"><u>Install Epson WF-2630 Driver on Your PC: Windows 7, 8.1 or 10 Compatible Versions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/my-ipad-wont-print-or-cant-find-my-printer/"><u>My iPad Won't Print or Can't Find My Printer</u></a></li>
 </ul></div>
 
