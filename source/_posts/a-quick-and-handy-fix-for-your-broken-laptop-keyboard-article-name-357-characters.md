@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2024-12-25T17:04:02.456Z
-updated: 2024-12-27T16:32:29.324Z
+date: 2025-01-02T16:34:31.894Z
+updated: 2025-01-05T22:06:50.353Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 1: Reinstall Keyboard Driver**
@@ -29,21 +29,17 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc3af48b92.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) In the Device Manager window, click to expand**Keyboards**category. Then right click the keyboard option listed here and choose**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait for the uninstall to finish. Then**restart**your computer. The keyboard driver will be reinstalled automatically once you restart your laptop. **Note**: If you need to type in password to log into your desktop, please use the on-screen keyboard by choosing the middle icon from the three icons on the bottom right corner, then select**On-Screen Keyboard**.
 
@@ -54,7 +50,7 @@ You will be able to see the on-screen keyboard appear. Use your mouse cursor to 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
@@ -71,6 +67,10 @@ If not, click the**Options**button as shown in the screen shot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd7a070a5e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
@@ -84,7 +84,7 @@ If you have tried the above methods but they are not helpful, you may need to pl
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
@@ -109,24 +109,18 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-accelerated-download-solutions-for-vimeo-files/"><u>[New] 2024 Approved Accelerated Download Solutions for Vimeo Files</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-comprehensible-list-best-games-music-found-online/"><u>[New] 2024 Approved Comprehensible List Best Games’ Music Found Online</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-advanced-methods-for-creating-quick-quality-thumbnails/"><u>[New] Advanced Methods for Creating Quick, Quality Thumbnails</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-powerpoint-pro-tips-seamlessly-add-vimeo-videos-and-multimedia/"><u>[New] In 2024, PowerPoint Pro Tips Seamlessly Add Vimeo Videos and Multimedia</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-record-panel-wide-digital-view/"><u>[New] Record Panel-Wide Digital View</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-securely-download-vimeo-videos-a-comprehensive-softwares-approach-for-2024/"><u>[New] Securely Download Vimeo Videos A Comprehensive Softwares Approach for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-invisible-interviewers-guide-stealthy-ios-and-android-tools/"><u>[Updated] 2024 Approved Invisible Interviewer's Guide Stealthy iOS & Android Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-social-media-watersheds-of-your-interest-space-for-2024/"><u>[Updated] Navigating the Social Media Watersheds of Your Interest Space for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-steadicams-tailored-for-uav-filmmaking-scenarios/"><u>[Updated] Premium Steadicams Tailored for UAV Filmmaking Scenarios</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-tailoring-your-vimeo-experience-from-free-to-pro/"><u>[Updated] Tailoring Your Vimeo Experience From Free to Pro</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-a-revenue-generating-online-presence/"><u>2024 Approved Crafting a Revenue-Generating Online Presence</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevating-your-stream-with-advanced-screen-capture-tech-for-2024/"><u>Elevating Your Stream with Advanced Screen Capture Tech for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/enhancing-vimeo-video-performance-for-2024/"><u>Enhancing Vimeo Video Performance for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-bringing-virtuality-closer-a-tale-of-two-cardboards-and-gear-vrs/"><u>In 2024, Bringing Virtuality Closer A Tale of Two Cardboards & Gear VRs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-quick-reference-how-to-insert-vimeo-media-into-powerpoint-files/"><u>In 2024, Quick Reference How to Insert Vimeo Media Into PowerPoint Files</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo T2x 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-silent-mode-restoring-speakers-and-headphones-functionality-on-pcs-and-laptops/"><u>Solving Silent Mode: Restoring Speakers and Headphones Functionality on PCs & Laptops</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/top-choice-elite-videographer-tool-for-vimeo/"><u>Top Choice Elite Videographer Tool for Vimeo</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-hogwarts-legacy-failed-startup-issues/"><u>Ultimate Guide: Solving 'Hogwarts Legacy' Failed Startup Issues</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-10-best-online-vimeo-video-downloaders/"><u>[New] 2024 Approved 10 Best Online Vimeo Video Downloaders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-what-is-vimeo-a-peek-at-innovative-content-sharing/"><u>[New] 2024 Approved What Is Vimeo? A Peek at Innovative Content Sharing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-cinematography-for-reddit-amas-for-2024/"><u>[New] Perfecting Cinematography for Reddit AMAs for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-tutorial-customizing-the-final-frame-of-a-vimeo-video/"><u>[Updated] Ultimate Tutorial Customizing the Final Frame of a Vimeo Video</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>2024 Approved Expertise in Quick Creation Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-profitable-side-jobs-similar-to-chatgpt-what-are-the-real-earnings-potentials/"><u>Exploring Profitable Side Jobs Similar to ChatGPT: What Are the Real Earnings Potentials?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-13-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 13 Pro Max Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/illuminate-your-sessions-logitechs-latest-yeti-microphones-with-customizable-rgb-lighting-and-streamlined-choices/"><u>Illuminate Your Sessions: Logitech's Latest Yeti Microphones with Customizable RGB Lighting & Streamlined Choices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-discovering-the-best-10-online-tools-for-vimeo-videos/"><u>In 2024, Discovering the Best 10 Online Tools for Vimeo Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/instant-aspect-ratio-matching-youtube-on-mac-display-for-2024/"><u>Instant Aspect Ratio Matching YouTube on Mac Display for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/reach-out-to-digiarty-expertise-in-digital-solutions/"><u>Reach Out to Digiarty: Expertise in Digital Solutions</u></a></li>
 </ul></div>
 

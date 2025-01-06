@@ -1,7 +1,7 @@
 ---
 title: Is There a Risk of Banks and Personal Computers Being Compromised by ChatGPT-Assisted Cyberattacks?
-date: 2024-12-20T16:51:34.536Z
-updated: 2024-12-27T16:43:41.857Z
+date: 2025-01-01T18:48:30.709Z
+updated: 2025-01-06T04:01:47.885Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 ## Tired of the Wait? Here’s an Outstanding Open Source Option that Rivals the Anticipated ChatGPT Desktop App
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -49,23 +57,15 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -102,14 +102,16 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-creating-viral-hashtag-campaigns-on-twitter-for-2024/"><u>[New] Creating Viral Hashtag Campaigns on Twitter for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-navigating-video-sharing-from-imovie-to-the-vimeo-network/"><u>[New] In 2024, Navigating Video Sharing From iMovie to the Vimeo Network</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-premier-text-motion-manuals/"><u>[New] Premier Text Motion Manuals</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-from-stream-to-file-vimeo-hd-to-mp4-methods/"><u>[Updated] 2024 Approved From Stream to File Vimeo HD to MP4 Methods</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-14-plus-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 14 Plus Apple ID on MacBook</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-advanced-tactics-for-seamless-subtitles-on-vimeo-videos/"><u>In 2024, Advanced Tactics for Seamless Subtitles on Vimeo Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iphone-drm/"><u>IPhone DRM解除アプリ一斉紹介：すべてのユーザーが楽しめる簡単操作</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/taming-figmas-backgrounds-a-comprehensive-guide/"><u>Taming Figma's Backgrounds A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-swiftly-seek-and-find-discarded-reddit-posts/"><u>[New] 2024 Approved Swiftly Seek and Find Discarded Reddit Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-hidden-footage-techniques-redacting-personal-information-effectively/"><u>[New] In 2024, Hidden Footage Techniques Redacting Personal Information Effectively</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-decoded-an-in-depth-look-at-video-hosting/"><u>[New] Vimeo Decoded An In-Depth Look at Video Hosting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-download-video-as-mp3-with-vimeo-step-by-step-guide/"><u>2024 Approved Download Video as MP3 with Vimeo - Step-by-Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unleash-the-power-of-live-captures-an-introduction-to-vimeo-record/"><u>2024 Approved Unleash the Power of Live Captures An Introduction to Vimeo Record</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparative-review-winx-dvd-ripper-versus-handbrake-free-trials-and-top-picks-for-video-converter-software/"><u>Comparative Review: WinX DVD Ripper Versus HandBrake - Free Trials & Top Picks for Video Converter Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-tecno-camon-20-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-make-thumbnails/"><u>In 2024, How to Make Thumbnails</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 6s Plus?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/social-network-videos-downloaded-for-audio-conversion-for-2024/"><u>Social Network Videos Downloaded for Audio Conversion for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unlocking-vimeo-mastery-of-tools-software-and-skillful-techniques-for-2024/"><u>Unlocking Vimeo Mastery of Tools, Software & Skillful Techniques for 2024</u></a></li>
 </ul></div>
 
