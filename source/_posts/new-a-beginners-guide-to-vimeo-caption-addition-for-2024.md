@@ -1,7 +1,7 @@
 ---
 title: "[New] A Beginner's Guide to Vimeo Caption Addition for 2024"
-date: 2024-12-23T16:03:13.597Z
-updated: 2024-12-27T16:39:49.993Z
+date: 2025-01-08T17:43:05.199Z
+updated: 2025-01-12T17:22:45.258Z
 tags:
   - ai video
   - ai vimeo
@@ -45,92 +45,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
-
-![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
-
-![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
-
-4. It’s now time to select your caption file and choose which type and language you require.
-
-![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
-
-5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
-
-![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
-
- On the retune you will see at the bottom right of the screen a 'CC' button. This will allow you to turn the captions off and on as well as change the languages the captions and subtitles are displayed in.
-
-## Best subtitle or Caption editing software
-
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best software to use to add subtitle or add caption due to the numerous editing options that allow you to make it your own. They have everything from animated text effects and balloons to introductions and credits. The software allows you to add, remove and favourite your desired effects and you can add numerous tracks to make future edits easier. Customise the font to make it stand out as your own, including matching the text to any logo you may have and much much more. By using Wondershare Filmora you can add subtitle and add caption effects to reach out to more people than you thought possible and have more power than similar software.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
-
- After dragging-n-dropping your Vimeo video to the timeline, click the “Text/Credit” tab on the Tool bar, then you will see there are many preset templates available. Click the designed template and then drag it to the Text track in the timeline.
-
-![Filmora Text and Titles](https://images.wondershare.com/filmora/article-images/filmora-text-interface-201704.jpg)
-
- Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
-
-![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- There are a lot of reasons to add subtitles to a video. And there are many different ways to do it. If you can read and follow this simple instructions you will be able to add subtitle and add caption text to your videos with ease. You have just two options which are to quickly learn how to do it yourself or pay for a professional video editor to add subtitle and caption to your videos.
-
-## How to add subtitle to Vimeo videos
-
-#### Step 1: Get a Caption/Subtitle File for your Video
-
- When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
-
- You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
-
- There are numerous file formats to choose from including srt, scc and ttml.
-
-#### Step 2: Upload Caption or Subtitle File to Vimeo
-
- If you want to add caption or add subtitle to your video then you will first need to know that the compatible format for Vimeo is .vvt/WebVVT.
-
-1. You need to start by logging into your Vimeo account and uploading your chosen video.
-
-![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
-
 2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
 
 ![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
@@ -150,157 +64,83 @@ Follow @Ollie Mattison
  Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
 
  On the retune you will see at the bottom right of the screen a 'CC' button. This will allow you to turn the captions off and on as well as change the languages the captions and subtitles are displayed in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Best subtitle or Caption editing software
-
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best software to use to add subtitle or add caption due to the numerous editing options that allow you to make it your own. They have everything from animated text effects and balloons to introductions and credits. The software allows you to add, remove and favourite your desired effects and you can add numerous tracks to make future edits easier. Customise the font to make it stand out as your own, including matching the text to any logo you may have and much much more. By using Wondershare Filmora you can add subtitle and add caption effects to reach out to more people than you thought possible and have more power than similar software.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
-
- After dragging-n-dropping your Vimeo video to the timeline, click the “Text/Credit” tab on the Tool bar, then you will see there are many preset templates available. Click the designed template and then drag it to the Text track in the timeline.
-
-![Filmora Text and Titles](https://images.wondershare.com/filmora/article-images/filmora-text-interface-201704.jpg)
-
- Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
-
-![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- There are a lot of reasons to add subtitles to a video. And there are many different ways to do it. If you can read and follow this simple instructions you will be able to add subtitle and add caption text to your videos with ease. You have just two options which are to quickly learn how to do it yourself or pay for a professional video editor to add subtitle and caption to your videos.
-
-## How to add subtitle to Vimeo videos
-
-#### Step 1: Get a Caption/Subtitle File for your Video
-
- When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
-
- You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
-
- There are numerous file formats to choose from including srt, scc and ttml.
-
-#### Step 2: Upload Caption or Subtitle File to Vimeo
-
- If you want to add caption or add subtitle to your video then you will first need to know that the compatible format for Vimeo is .vvt/WebVVT.
-
-1. You need to start by logging into your Vimeo account and uploading your chosen video.
-
-![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
-
-![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
-
-3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
-
-![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
-
-4. It’s now time to select your caption file and choose which type and language you require.
-
-![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
-
-5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
-
-![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
-
- Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
-
- On the retune you will see at the bottom right of the screen a 'CC' button. This will allow you to turn the captions off and on as well as change the languages the captions and subtitles are displayed in.
-
-## Best subtitle or Caption editing software
-
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best software to use to add subtitle or add caption due to the numerous editing options that allow you to make it your own. They have everything from animated text effects and balloons to introductions and credits. The software allows you to add, remove and favourite your desired effects and you can add numerous tracks to make future edits easier. Customise the font to make it stand out as your own, including matching the text to any logo you may have and much much more. By using Wondershare Filmora you can add subtitle and add caption effects to reach out to more people than you thought possible and have more power than similar software.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
-
- After dragging-n-dropping your Vimeo video to the timeline, click the “Text/Credit” tab on the Tool bar, then you will see there are many preset templates available. Click the designed template and then drag it to the Text track in the timeline.
-
-![Filmora Text and Titles](https://images.wondershare.com/filmora/article-images/filmora-text-interface-201704.jpg)
-
- Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
-
-![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- There are a lot of reasons to add subtitles to a video. And there are many different ways to do it. If you can read and follow this simple instructions you will be able to add subtitle and add caption text to your videos with ease. You have just two options which are to quickly learn how to do it yourself or pay for a professional video editor to add subtitle and caption to your videos.
-
-## How to add subtitle to Vimeo videos
-
-#### Step 1: Get a Caption/Subtitle File for your Video
-
- When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
-
- You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
-
- There are numerous file formats to choose from including srt, scc and ttml.
-
-#### Step 2: Upload Caption or Subtitle File to Vimeo
-
- If you want to add caption or add subtitle to your video then you will first need to know that the compatible format for Vimeo is .vvt/WebVVT.
-
-1. You need to start by logging into your Vimeo account and uploading your chosen video.
-
-![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
-
-2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
-
-![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
-
-3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
-
-![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
-
-4. It’s now time to select your caption file and choose which type and language you require.
-
-![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+## Best subtitle or Caption editing software
+
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best software to use to add subtitle or add caption due to the numerous editing options that allow you to make it your own. They have everything from animated text effects and balloons to introductions and credits. The software allows you to add, remove and favourite your desired effects and you can add numerous tracks to make future edits easier. Customise the font to make it stand out as your own, including matching the text to any logo you may have and much much more. By using Wondershare Filmora you can add subtitle and add caption effects to reach out to more people than you thought possible and have more power than similar software.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
+
+ After dragging-n-dropping your Vimeo video to the timeline, click the “Text/Credit” tab on the Tool bar, then you will see there are many preset templates available. Click the designed template and then drag it to the Text track in the timeline.
+
+![Filmora Text and Titles](https://images.wondershare.com/filmora/article-images/filmora-text-interface-201704.jpg)
+
+ Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
+
+![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ There are a lot of reasons to add subtitles to a video. And there are many different ways to do it. If you can read and follow this simple instructions you will be able to add subtitle and add caption text to your videos with ease. You have just two options which are to quickly learn how to do it yourself or pay for a professional video editor to add subtitle and caption to your videos.
+
+## How to add subtitle to Vimeo videos
+
+#### Step 1: Get a Caption/Subtitle File for your Video
+
+ When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
+
+ You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
+
+ There are numerous file formats to choose from including srt, scc and ttml.
+
+#### Step 2: Upload Caption or Subtitle File to Vimeo
+
+ If you want to add caption or add subtitle to your video then you will first need to know that the compatible format for Vimeo is .vvt/WebVVT.
+
+1. You need to start by logging into your Vimeo account and uploading your chosen video.
+
+![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
+
+2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
+
+![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
+
+3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
+
+![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
+
+4. It’s now time to select your caption file and choose which type and language you require.
+
+![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
+
 5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
 
 ![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
@@ -313,19 +153,11 @@ Follow @Ollie Mattison
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
 
  After dragging-n-dropping your Vimeo video to the timeline, click the “Text/Credit” tab on the Tool bar, then you will see there are many preset templates available. Click the designed template and then drag it to the Text track in the timeline.
 
 ![Filmora Text and Titles](https://images.wondershare.com/filmora/article-images/filmora-text-interface-201704.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
 
@@ -334,6 +166,174 @@ Follow @Ollie Mattison
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ There are a lot of reasons to add subtitles to a video. And there are many different ways to do it. If you can read and follow this simple instructions you will be able to add subtitle and add caption text to your videos with ease. You have just two options which are to quickly learn how to do it yourself or pay for a professional video editor to add subtitle and caption to your videos.
+
+## How to add subtitle to Vimeo videos
+
+#### Step 1: Get a Caption/Subtitle File for your Video
+
+ When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
+
+ You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
+
+ There are numerous file formats to choose from including srt, scc and ttml.
+
+#### Step 2: Upload Caption or Subtitle File to Vimeo
+
+ If you want to add caption or add subtitle to your video then you will first need to know that the compatible format for Vimeo is .vvt/WebVVT.
+
+1. You need to start by logging into your Vimeo account and uploading your chosen video.
+
+![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
+
+2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
+
+![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
+
+3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
+
+![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+4. It’s now time to select your caption file and choose which type and language you require.
+
+![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
+
+5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
+
+![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
+
+ Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
+
+ On the retune you will see at the bottom right of the screen a 'CC' button. This will allow you to turn the captions off and on as well as change the languages the captions and subtitles are displayed in.
+
+## Best subtitle or Caption editing software
+
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best software to use to add subtitle or add caption due to the numerous editing options that allow you to make it your own. They have everything from animated text effects and balloons to introductions and credits. The software allows you to add, remove and favourite your desired effects and you can add numerous tracks to make future edits easier. Customise the font to make it stand out as your own, including matching the text to any logo you may have and much much more. By using Wondershare Filmora you can add subtitle and add caption effects to reach out to more people than you thought possible and have more power than similar software.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+#### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
+
+ After dragging-n-dropping your Vimeo video to the timeline, click the “Text/Credit” tab on the Tool bar, then you will see there are many preset templates available. Click the designed template and then drag it to the Text track in the timeline.
+
+![Filmora Text and Titles](https://images.wondershare.com/filmora/article-images/filmora-text-interface-201704.jpg)
+
+ Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
+
+![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ There are a lot of reasons to add subtitles to a video. And there are many different ways to do it. If you can read and follow this simple instructions you will be able to add subtitle and add caption text to your videos with ease. You have just two options which are to quickly learn how to do it yourself or pay for a professional video editor to add subtitle and caption to your videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to add subtitle to Vimeo videos
+
+#### Step 1: Get a Caption/Subtitle File for your Video
+
+ When you create a caption or subtitle you will have to create a text file that gives you sound, transcription and even time stamps for the frames you wish to add them to.
+
+ You can make subtitle or caption yourself or hire a professional video transcription & captioning company to provide a caption file. Such as [3play](http://www.3playmedia.com/services-features/overview/) , [Rev](https://www.rev.com/services) or [Amara](https://amara.org/en/).
+
+ There are numerous file formats to choose from including srt, scc and ttml.
+
+#### Step 2: Upload Caption or Subtitle File to Vimeo
+
+ If you want to add caption or add subtitle to your video then you will first need to know that the compatible format for Vimeo is .vvt/WebVVT.
+
+1. You need to start by logging into your Vimeo account and uploading your chosen video.
+
+![vimeo-upload-video.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+2. Once you have uploaded your video you will need to edit it by selecting ‘edit setting’
+
+![vimeo-edit-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-edit-setting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+3. To add caption file you will need to select Advanced menu and choose the caption file you want to upload.
+
+![vimeo-upload-captions.jpg](https://images.wondershare.com/filmora/article-images/vimeo-upload-captions.jpg)
+
+4. It’s now time to select your caption file and choose which type and language you require.
+
+![vimeo-caption.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption.jpg)
+
+5. If you want to add subtitle in numerous languages you will have to continue to repeat the previous step for each.
+
+![vimeo-caption-setting.jpg](https://images.wondershare.com/filmora/article-images/vimeo-caption-setting.jpg)
+
+ Once you have completed your caption and subtitle edits you will need to save your changes and return to your chosen video.
+
+ On the retune you will see at the bottom right of the screen a 'CC' button. This will allow you to turn the captions off and on as well as change the languages the captions and subtitles are displayed in.
+
+## Best subtitle or Caption editing software
+
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best software to use to add subtitle or add caption due to the numerous editing options that allow you to make it your own. They have everything from animated text effects and balloons to introductions and credits. The software allows you to add, remove and favourite your desired effects and you can add numerous tracks to make future edits easier. Customise the font to make it stand out as your own, including matching the text to any logo you may have and much much more. By using Wondershare Filmora you can add subtitle and add caption effects to reach out to more people than you thought possible and have more power than similar software.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### How to Add Text/Subtitles/Credits to Vimeo Videos with Filmora Video Editor
+
+ After dragging-n-dropping your Vimeo video to the timeline, click the “Text/Credit” tab on the Tool bar, then you will see there are many preset templates available. Click the designed template and then drag it to the Text track in the timeline.
+
+![Filmora Text and Titles](https://images.wondershare.com/filmora/article-images/filmora-text-interface-201704.jpg)
+
+ Double click the Text/Credit template in the Text track and edit it further in the Advanced Text Edit window. You can change the color, size, font, effects, duration and opacity depending on your requirements. You can also save the edited Text as a preset so you can use it directly in the next time.
+
+![Filmora Text Advanced Edit Interface](https://images.wondershare.com/filmora/article-images/filmora-advanced-text-edit-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -362,17 +362,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamlining-post-editing-the-art-of-vimeos-final-screens/"><u>[New] In 2024, Streamlining Post-Editing The Art of Vimeo's Final Screens</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-techniques-and-tools-for-fast-quality-image-reductions/"><u>[New] Techniques and Tools for Fast, Quality Image Reductions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-a-beginners-guide-to-vimeo-caption-addition/"><u>[Updated] 2024 Approved A Beginner's Guide to Vimeo Caption Addition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-handset-hack-for-youtube-filmmakers/"><u>[Updated] 2024 Approved The Ultimate Handset Hack for YouTube Filmmakers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creators-vs-youtubes-profit-policies/"><u>[Updated] In 2024, Creators Vs. YouTube's Profit Policies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-to-gif-how-to-make-a-gif-from-vimeo-video/"><u>2024 Approved Vimeo to GIF How to Make a GIF From Vimeo Video</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-hostingers-offerings-a-deep-dive-into-vps-cloud-platforms-and-shared-hosting-options/"><u>Evaluating Hostinger's Offerings: A Deep Dive Into VPS, Cloud Platforms, and Shared Hosting Options</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/explore-5-pro-game-record-methods-in-windows-11/"><u>Explore 5 Pro Game Record Methods in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-convert-vimeo-hd-mp4-format-guide/"><u>In 2024, Convert Vimeo HD MP4 Format Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-robot-vacuum-cleaners-in-depth-comparisons-and-expert-reviews-techradar/"><u>Top-Ranking Robot Vacuum Cleaners: In-Depth Comparisons & Expert Reviews | TechRadar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029696839-wmawav/"><u>WMAファイルからWAV形式への正しい変換方法</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-mac-screen-recorders-ranked-a-comprehensive-analysis/"><u>[New] 2024 Approved Top Mac Screen Recorders Ranked A Comprehensive Analysis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-divide-and-conquer-adding-chapters-to-vimeo/"><u>[New] Divide and Conquer Adding Chapters to Vimeo</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>[New] In 2024, IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-gifs-transforming-vimeo-videos-into-animated-graphics/"><u>[New] Mastering GIFs Transforming Vimeo Videos Into Animated Graphics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-elevate-your-wit-crafting-memes-with-kapwing/"><u>[Updated] 2024 Approved Elevate Your Wit Crafting Memes with Kapwing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-bridging-video-and-gif-a-practical-path-from-vimeo-to-animation/"><u>[Updated] Bridging Video and GIF A Practical Path From Vimeo to Animation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamline-your-collection-easy-downloads-of-vimeo-video-files-mp4/"><u>[Updated] In 2024, Streamline Your Collection Easy Downloads of Vimeo Video Files (MP4)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-content-creators-companion-to-commercial-success-on-vimeo/"><u>[Updated] The Content Creator's Companion to Commercial Success on Vimeo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-performance-boosted-overcoming-previous-fps-drops/"><u>Cyberpunk 2077 Performance Boosted – Overcoming Previous FPS Drops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-teredo-router-functionality-fails-to-initialize/"><u>Effective Fixes for When Teredo Router Functionality Fails to Initialize</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-xs-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone XS Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-xs-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone XS online without jailbreak</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-professionals-picks-selecting-the-best-software-for-live-streamsvmix-or-wirecast/"><u>In 2024, Professionals' Picks Selecting the Best Software for Live Streams—VMix or Wirecast?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/optimizing-video-production-a-guide-to-vimeos-capabilities-for-2024/"><u>Optimizing Video Production A Guide to Vimeo's Capabilities for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-your-tower-of-fantasy-game-from-crashing-on-windows/"><u>Step-by-Step Guide: Stop Your Tower of Fantasy Game From Crashing on Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unleash-creativity-premier-vimeo-editors-deliver/"><u>Unleash Creativity Premier Vimeo Editors Deliver</u></a></li>
 </ul></div>
 
