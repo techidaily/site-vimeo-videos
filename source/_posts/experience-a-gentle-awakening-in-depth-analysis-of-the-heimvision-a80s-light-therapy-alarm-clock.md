@@ -1,7 +1,7 @@
 ---
 title: "Experience a Gentle Awakening: In-Depth Analysis of the HeimVision A80S Light Therapy Alarm Clock"
-date: 2025-01-10T18:03:17.953Z
-updated: 2025-01-12T18:41:04.450Z
+date: 2025-01-17T08:53:31.913Z
+updated: 2025-01-17T21:37:26.394Z
 categories:
   - BestProducts
 description: "This Article Describes Experience a Gentle Awakening: In-Depth Analysis of the HeimVision A80S Light Therapy Alarm Clock"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/bJGZVvLPIuXJptw8uPYtObxbpMQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -43,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 3.6
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/v7wi7isxu06LAoWNZK3dJ908mCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-4-cb1a370bd78244b383c802010a570313.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -104,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
@@ -135,11 +131,11 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vRvHMYGCPPg8nNrLBKdXwLPfwzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-3-9f0e77e7fa1d4533877316afb591cc71.jpg)
 
- Lifewire / Zach Sweat
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Zach Sweat
 
 ## **Audio Quality: Loud, but distorted**
 
@@ -161,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
  One last thing, your phone can also be used as a remote if you so choose. All you need to do is download the app and connect it to the TV. This works with both Android and iOS devices (thanks Google). While it’s not a good as the regular remote, it works fine enough if you’re too lazy to get up and find the standard remote.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Not bad for the size, but not the cheapest**
 
  The X850F series come in a range of sizes, from 65 to 85 inches, so the prices can vary considerably depending on which one you go with. Any TV in this size range is going to cost a good bit of coin, no matter the manufacturer, but Sony isn’t too bad here.
@@ -168,10 +168,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
  On Sony’s website, the 65-inch model we tested here is listed at $1,300, the 75 at $2,300, and the 85 at a whopping $4,000\. Now these prices aren’t exactly accurate, especially since these are an older series. Typically you can find the 65-inch for about $1,100 or so. The other models are also heavily discounted depending on where you look, so definitely shop around. It’s likely that you can snag them for even less during sales.
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
@@ -190,6 +186,10 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 **A solid IPS panel 4K TV.**
 
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -220,24 +220,21 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies-for-2024/"><u>[New] Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-hasten-artistic-touch-ups-on-windows-10-photos-for-2024/"><u>[New] Hasten Artistic Touch-Ups on Windows 10 Photos for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-selection-top-10-vimeo-download-tools-unveiled/"><u>[New] In 2024, The Ultimate Selection Top 10 Vimeo Download Tools Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beat-cutting-editing-music-videos-on-ios/"><u>[Updated] 2024 Approved Beat Cutting Editing Music Videos on iOS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-faster-vimeo-viewing-experiences/"><u>[Updated] 2024 Approved Faster Vimeo Viewing Experiences</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-zero-cost-film-aids-eco-edition/"><u>[Updated] In 2024, Zero-Cost Film Aids Eco Edition</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-revenue-rise-how-to-harness-the-power-of-ads-for-2024/"><u>[Updated] Vimeo Revenue Rise How to Harness the Power of Ads for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-effortless-embedding-techniques-for-streaming-video-in-presentations/"><u>2024 Approved Effortless Embedding Techniques for Streaming Video in Presentations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/adapting-office-technology-navigating-device-innovations-in-the-age-of-artificial-intelligence-insights/"><u>Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/crafting-quality-content-for-youtube-success-for-2024/"><u>Crafting Quality Content for YouTube Success for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/digital-illustration-turning-your-favorite-vimeo-videos-into-gifs-for-2024/"><u>Digital Illustration Turning Your Favorite Vimeo Videos Into GIFs for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/double-impact-understanding-the-two-crash-scenario-on-your-computer/"><u>Double Impact: Understanding the Two-Crash Scenario on Your Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-top-10-non-vimeo-editors-for-user-generated-content/"><u>In 2024, Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s5e-your-ultimate-android-tablet-guide/"><u>In-Depth Analysis of the Samsung Galaxy Tab S5e - Your Ultimate Android Tablet Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1125800-9781609252304-intuition/"><u>Intuition | Free Book</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-video-snippets-turn-into-dynamic-shareable-gifs-for-2024/"><u>Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-cost-effective-video-enhancement-vimeo-edition/"><u>[New] 2024 Approved Cost-Effective Video Enhancement Vimeo Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-creating-characters-in-the-metaverse-an-easy-methodology/"><u>[New] Creating Characters in the Metaverse An Easy Methodology</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo/"><u>[New] In 2024, Step-by-Step Excellence Optimal Software Use & No-Software Strategies for Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-video-engagement-by-inserting-captions/"><u>[Updated] In 2024, Elevate Video Engagement by Inserting Captions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-the-speed-of-vimeo-videos/"><u>[Updated] In 2024, Enhancing the Speed of Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quick-vimeo-transformation-tips-easy-to-create-gifs-for-2024/"><u>[Updated] Quick Vimeo Transformation Tips Easy-to-Create GIFs for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-slumber-screen-shows-story-insights-reviewed/"><u>[Updated] Slumber Screen Shows Story Insights Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-top-10-final-cut-pro-plug-ins/"><u>[Updated] Top 10 Final Cut Pro Plug-Ins</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-v27e-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo V27e Activity | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-se-2022-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone SE (2022) - 4 Easy Ways</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-first-timer-props-for-gopros/"><u>Essential First-Timer Props for GoPros</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-navigate-virtual-realities-without-nausea/"><u>In 2024, How to Navigate Virtual Realities without Nausea</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-profits-a-comprehensive-vimeo-revenue-strategy/"><u>Mastering Profits A Comprehensive Vimeo Revenue Strategy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/stepwise-guide-to-convert-vimeo-media-to-mp3/"><u>Stepwise Guide to Convert Vimeo Media to MP3</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-cameo-review-video-editor-and-movie-maker-for-iphone-for-2024/"><u>Vimeo Cameo Review-Video Editor & Movie Maker for iPhone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wallet-friendly-skies-cheapest-drones-to-fly-for-2024/"><u>Wallet-Friendly Skies Cheapest Drones to Fly for 2024</u></a></li>
 </ul></div>
 
