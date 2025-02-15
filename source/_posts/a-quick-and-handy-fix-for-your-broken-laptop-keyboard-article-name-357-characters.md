@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2025-01-25T02:54:35.780Z
-updated: 2025-01-31T16:34:05.786Z
+date: 2025-02-11T04:19:41.568Z
+updated: 2025-02-14T16:15:27.830Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 1: Reinstall Keyboard Driver**
@@ -33,10 +33,6 @@ We have received reports from user saying that they have trouble using their HP 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc4306d960.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bc902b86a2.png)
@@ -46,12 +42,16 @@ When prompted to confirm the uninstall, press**OK**to continue.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
 
@@ -72,7 +72,7 @@ Then make sure the Keyboards is selected as**US**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3: Try an External Keyboard**
@@ -81,11 +81,11 @@ If you have tried the above methods but they are not helpful, you may need to pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -109,24 +109,16 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-no-money-solution-easy-editing-basics-for-2024/"><u>[New] Vimeo's No-Money Solution Easy Editing Basics for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-ensure-no-loss-of-frames-during-recording/"><u>[Updated] 2024 Approved How To Ensure No Loss of Frames During Recording</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-adding-closed-captions-to-vimeo-footage/"><u>[Updated] Adding Closed Captions to Vimeo Footage</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quickening-vimeo-media-load-times/"><u>[Updated] In 2024, Quickening Vimeo Media Load Times</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tricks-for-speedy-vimeo-streams/"><u>[Updated] In 2024, Tricks for Speedy Vimeo Streams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastery-of-tasks-with-the-help-of-ez-grabber-for-2024/"><u>[Updated] Mastery of Tasks with the Help of EZ Grabber for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-digestible-vid-info-quick-start/"><u>2024 Approved Digestible Vid Info Quick Start</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevate-your-income-with-proven-vimeo-advertising-strategies/"><u>2024 Approved Elevate Your Income with Proven Vimeo Advertising Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-incredible-mobile-photography-and-videography-apps-for-iosandroid/"><u>2024 Approved Incredible Mobile Photography & Videography Apps for iOS/Android</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-xs-max-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone XS Max without App | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/boosting-video-visibility-by-sending-imovie-content-to-vimeo-for-2024/"><u>Boosting Video Visibility by Sending iMovie Content to Vimeo for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/convert-vimeo-hd-mp4-format-guide-for-2024/"><u>Convert Vimeo HD MP4 Format Guide for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-troubleshooting-how-to-restore-and-improve-voice-chat-in-valorant/"><u>DIY Troubleshooting: How to Restore and Improve Voice Chat in Valorant</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-accelerated-download-solutions-for-vimeo-files/"><u>In 2024, Accelerated Download Solutions for Vimeo Files</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-13c-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi 13C 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-snippet-filmmaker-pro/"><u>In 2024, Snippet Filmmaker Pro</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/quick-tips-for-textual-overlay-in-vimeo-content-for-2024/"><u>Quick Tips for Textual Overlay in Vimeo Content for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-add-on-effectiveness-implementing-end-cuts-on-vimeo/"><u>[New] Add-On Effectiveness Implementing End Cuts on Vimeo</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-next-level-content-creation-tools-post-vimeo/"><u>[Updated] 2024 Approved Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-8-must-have-macbook-wallpaper-apps/"><u>[Updated] 8 Must-Have MacBook Wallpaper Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>[Updated] From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-video-structure-chapter-integration-guide/"><u>[Updated] In 2024, Vimeo Video Structure Chapter Integration Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ideal-dialogue-architect-forum/"><u>Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-steer-clear-of-vr-nausea-essential-precautions/"><u>In 2024, Steer Clear of VR Nausea Essential Precautions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-improved-connectivity-and-faster-reactions-in-back-4-blood/"><u>Quick Fixes for Improved Connectivity and Faster Reactions in Back 4 Blood</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/saving-scenes-seamlessly-the-power-of-vimeo-record-for-2024/"><u>Saving Scenes Seamlessly The Power of Vimeo Record for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bot-safety-spectrum-3-privacy-issues-unveiled/"><u>The Bot Safety Spectrum: 3 Privacy Issues Unveiled</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ultimate-compilation-best-tools-for-vimeo-files/"><u>Ultimate Compilation Best Tools for Vimeo Files</u></a></li>
 </ul></div>
 

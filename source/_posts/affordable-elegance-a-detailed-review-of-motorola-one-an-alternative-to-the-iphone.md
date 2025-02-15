@@ -1,7 +1,7 @@
 ---
 title: "Affordable Elegance: A Detailed Review of Motorola One - An Alternative to the iPhone"
-date: 2025-01-27T19:21:46.811Z
-updated: 2025-01-31T17:55:34.529Z
+date: 2025-02-13T07:32:04.981Z
+updated: 2025-02-15T02:25:54.319Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Elegance: A Detailed Review of Motorola One - An Alternative to the iPhone"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LG Gram 17
@@ -44,7 +44,7 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LG Gram 17
@@ -82,15 +82,7 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/bPwgN393oESXdTRdBMHH9_o-50k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-4-65036fddfdad4e9c904b1e4388426085.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Design** :**A thoughtful approach to larger laptops**
 
@@ -108,6 +100,10 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup** **Process** :**No help needed**
 
  The LG Gram 17 arrives in a minimally packaged box containing only the essentials: The laptop itself, the charger, a manual, and an adapter for the USB-C port. LG definitely gets high marks on setup, requiring minimal steps to get set up and begin using your device right away. You will be prompted to enter the standard information any Windows laptop will ask—like your Wi-Fi credentials, a username and password, your timezone, and if you’d like, a fingerprint impression.
@@ -115,6 +111,10 @@ Lifewire / Jonno Hill
  Once you’ve completed setup, you’ll be introduced to the LG Update Center, designed to handle both Windows updates and updates to LG’s software on the laptop. Thankfully, this software is very discreet and hands-off, not overstepping its intended purpose. LG is very light on 3rd party software bundled with the laptop, containing only a handful of bespoke applications which we will cover in greater detail in the Software section. Suffice it to say, there is a lot less bloatware than we normally find on laptops.
 
 ![LG Gram 17](https://www.lifewire.com/thmb/mt69Vhar3JM30uFdBWA58_wPdYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-5-f2352e95cadc4e2b99d738b0238fb7bf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -130,10 +130,6 @@ Lifewire / Jonno Hill
 
  The IPS display also performs admirably by most other metrics that buyers will care about, such as a maximum brightness high enough to be usable outdoors. Additionally, the display looks great from off-angles, losing very little brightness when viewed from the sides, and showing no signs of color shift.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Performance** :**Ready to work (but not to game)**
 
  The LG Gram 17 performed well in our tests, managing a 3,851 score in PCMark 10\. As mentioned previously, this laptop is best suited for productivity-related tasks. The absence of a dedicated graphics card means that it won’t be able to keep up in anything beyond casual games and very light video editing workloads, but so long as you avoid these types of tasks you shouldn’t really notice any shortcomings. The 16GB of RAM and 8th gen Intel i7 made using the Gram 17 a fast, responsive experience in everyday and work-related tasks.
@@ -144,13 +140,13 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Productivity** :**The Gram’s sweet spot**
 
  Having 16GB of Memory and a 512GB SSD makes the Gram a great choice for productivity purposes. We had no problem working with many browser windows open at the same time and switching back and forth between different applications. Shoppers looking to find a laptop with ample screen real estate and the specs necessary to deliver good performance now and into the future will be pleased with what the LG Gram 17 offers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Audio** :**Sorry, what was that?**
 
@@ -158,12 +154,16 @@ Lifewire / Jonno Hill
 
  Keep in mind though that while watching most standard 16:9 content, you aren’t taking advantage of all 17 inches of the display, and will see black bars on the top and bottom.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Network** :**Everything you’d expect**
 
  Wi-Fi on the LG Gram 17 gave us no trouble, offering a strong signal and speeds in any of the public and private environments we tested in. LG uses the Intel Wireless AC 9560 Wi-Fi adapter, the fastest of such chips currently on offer from Intel. This Wi-Fi adapter has a theoretical max speed of 1.73Gbps and offers a 2x2 antenna configuration, though you’re unlikely to ever hit such a high download speed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Camera** :**Bare minimum**
@@ -173,10 +173,6 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/Q5UD3HDcQsoXbP-_uvKqYsR9J6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-3-de338d995c0544ee8052e30def24ad5f.jpg)
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Battery** :**Beyond plentiful**
 
@@ -199,6 +195,10 @@ Lifewire / Jonno Hill
 ## **Price: Lighter laptop, bigger price tag**
 
  At an MSRP of $1,700, the LG Gram 17 is not particularly affordable, and even less so when compared to similar options in the market. For this price, we would normally expect to get a discrete graphics card and the expanded possibilities that come with it. The premium you are paying for in this case isn’t sheer price-to-performance but portability and form factor. On these fronts, the LG Gram 17 definitely shines.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **LG Gram 17 vs. ASUS VivoBook Pro 17**
 
@@ -248,24 +248,24 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-crafting-quality-content-image-submission-for-youtubers/"><u>[New] In 2024, Crafting Quality Content Image Submission for YouTubers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-rethinking-content-creation-non-vimeo-editor-hits/"><u>[New] In 2024, Rethinking Content Creation Non-Vimeo Editor Hits</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-chiefs-guide-to-superior-cloud-vaults/"><u>[New] In 2024, The Chief's Guide to Superior Cloud Vaults</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-elite-selection-of-stardew-customizations-and-updates/"><u>[New] In 2024, The Elite Selection of Stardew Customizations and Updates</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-compreeved-compendium-downloading-vimeo-content-pros-way/"><u>[Updated] 2024 Approved The Compreeved Compendium Downloading Vimeo Content Pro's Way</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-which-vimeo-e-sy-option-suits-your-needs/"><u>[Updated] 2024 Approved Which Vimeo E-Sy Option Suits Your Needs?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-decoding-vimeo-where-creative-videos-meet/"><u>[Updated] In 2024, Decoding Vimeo Where Creative Videos Meet</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-multilingual-reach-adding-subtitles-in-vimeo/"><u>[Updated] In 2024, Enhancing Multilingual Reach Adding Subtitles in Vimeo</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-trend-analysis-through-infographics/"><u>[Updated] In 2024, Trend Analysis Through Infographics</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-leveraging-vimeo-resources-add-excellent-video-content-to-your-ppts/"><u>[Updated] Leveraging Vimeo Resources Add Excellent Video Content to Your PPTs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-boosting-your-videos-chance-on-vimeo-staff-list/"><u>2024 Approved Boosting Your Video's Chance on Vimeo Staff List</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-handbook-for-correcting-crashes-in-software-systems/"><u>Comprehensive Handbook for Correcting Crashes in Software Systems</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-enhanced-optimize-your-site-with-cutting-edge-tracking-technology/"><u>Cookiebot-Enhanced: Optimize Your Site with Cutting-Edge Tracking Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-deals-score-your-dream-nvidia-powered-gaming-rig-during-amazon-prime-day-2024-insider-reviews/"><u>Exclusive Deals: Score Your Dream Nvidia-Powered Gaming Rig During Amazon Prime Day 2024 - Insider Reviews</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expert-advice-on-constructing-clear-concise-image-previews/"><u>Expert Advice on Constructing Clear, Concise Image Previews</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes/"><u>In 2024, Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/physical-security-measures-for-2024/"><u>Physical Security Measures for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steam-stability-secured-instantly-tackle-frequent-crashes/"><u>Steam Stability Secured - Instantly Tackle Frequent Crashes!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-youtube-audio-gems-for-daily-listening/"><u>Updated Top YouTube Audio Gems for Daily Listening</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-boosting-fb-video-engagement-and-audience-reach/"><u>[New] 2024 Approved Boosting FB Video Engagement & Audience Reach</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-video-editor-for-seamless-vimeo-videos-for-2024/"><u>[New] Expert Video Editor for Seamless Vimeo Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-navigating-free-vs-paid-the-ultimate-guide-to-downloading-videos-from-vimeo/"><u>[New] In 2024, Navigating Free Vs. Paid The Ultimate Guide to Downloading Videos From Vimeo</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-quick-tips-to-produce-quality-thumbnails-fast/"><u>[New] In 2024, Quick Tips to Produce Quality Thumbnails Fast</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-master-the-dark-and-light-iphone-silhouette-tips/"><u>[New] Master the Dark & Light IPhone Silhouette Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-optimize-time-and-quality-in-thumbnail-design-for-2024/"><u>[New] Strategies to Optimize Time and Quality in Thumbnail Design for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevating-your-vimeo-clips-a-guide-to-musical-additions/"><u>[Updated] Elevating Your Vimeo Clips A Guide to Musical Additions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-discovering-vimeo-home-for-high-quality-films/"><u>[Updated] In 2024, Discovering Vimeo Home for High-Quality Films</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-harmonizing-audio-and-visuals-in-vimeo-media/"><u>[Updated] In 2024, Harmonizing Audio and Visuals in Vimeo Media</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-secrets-to-flawless-remote-audio-production/"><u>2024 Approved Secrets to Flawless Remote Audio Production</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-step-by-step-end-screen-customization-guide-for-vimeo/"><u>2024 Approved Step-by-Step End Screen Customization Guide for Vimeo</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-tutorial-for-home-grown-animation-magic/"><u>2024 Approved The Essential Tutorial for Home-Grown Animation Magic</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-chapter-how-to-add-chapters-to-vimeo-video/"><u>2024 Approved Vimeo Chapter How to Add Chapters to Vimeo Video?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-zero-5g-2023-turbo-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Zero 5G 2023 Turbo to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-geforce-gtx-750-drivers-with-ease-step-by-step-guide/"><u>Download GeForce GTX 750 Drivers with Ease: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-leveraging-chromes-picture-in-picture-for-multi-screen-browsing/"><u>In 2024, Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-canva-imagery-top-10-pro-level-techniques/"><u>In 2024, Mastering Canva Imagery Top 10 Pro-Level Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-the-game-fix-low-fps-and-smoothing-out-stutter/"><u>Solving Lag Issues in 'Avatar: The Game' - Fix Low FPS & Smoothing Out Stutter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-e-motorcycle-functionality-an-in-depth-exploration/"><u>Understanding E-Motorcycle Functionality: An In-Depth Exploration</u></a></li>
 </ul></div>
 

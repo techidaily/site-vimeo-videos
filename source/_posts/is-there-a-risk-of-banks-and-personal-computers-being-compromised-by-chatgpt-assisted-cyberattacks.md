@@ -1,7 +1,7 @@
 ---
 title: Is There a Risk of Banks and Personal Computers Being Compromised by ChatGPT-Assisted Cyberattacks?
-date: 2025-01-24T23:39:00.454Z
-updated: 2025-02-01T00:58:50.375Z
+date: 2025-02-10T01:05:54.190Z
+updated: 2025-02-15T07:36:22.677Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -50,17 +46,21 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -72,11 +72,11 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -102,17 +102,16 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-comprehensive-guide-to-thumbnail-production/"><u>[New] 2024 Approved A Comprehensive Guide to Thumbnail Production</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-revolutionizing-content-creation-the-insight-into-vimeos-capabilities/"><u>[New] In 2024, Revolutionizing Content Creation The Insight Into Vimeo's Capabilities</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-regular-software-updates/"><u>[New] Regular Software Updates</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-screening-the-modern-internet-best-capture-apps-reviewed/"><u>[New] Screening the Modern Internet Best Capture Apps Reviewed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-essential-tactics-for-adding-vimeo-clips-to-powerpoint-slides/"><u>[Updated] Essential Tactics for Adding Vimeo Clips to PowerPoint Slides</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-filmmaking-fundamentals-for-engaging-facebook-groups/"><u>2024 Approved Filmmaking Fundamentals for Engaging Facebook Groups</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-strategies-for-reducing-video-file-size-without-compromising-quality/"><u>Effective Strategies for Reducing Video File Size Without Compromising Quality</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/einfach-und-sicher-speichern-alle-outlook-mails-auf-ihrem-usb-stick-bequem-abrufen/"><u>Einfach Und Sicher Speichern: Alle Outlook-Mails Auf Ihrem USB-Stick Bequem Abrufen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmonious-hushes-softening-sounds-with-garageband/"><u>Harmonious Hushes Softening Sounds with Garageband</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/979626-9781780998626-shamanism-the-book-of-journeys/"><u>Shamanism: The Book of Journeys | Free Book</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-y100-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo Y100 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-modifying-windows-11-mask/"><u>Understanding and Modifying Windows 11 MASK</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-speed-dial-for-vimeo-video-loading/"><u>[Updated] 2024 Approved Speed Dial for Vimeo Video Loading</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhancing-record-accuracy-at-pwc-through-abbyys-cutting-edge-document-processing-systems/"><u>Enhancing Record Accuracy at PwC Through ABBYY's Cutting-Edge Document Processing Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-definition-top-win-11-cameras-and-recorder-list/"><u>High Definition Top Win 11 Cameras and Recorder List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-dividing-drama-how-to-split-vimeo-videos/"><u>In 2024, Dividing Drama How to Split Vimeo Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>In 2024, How to Amass Wealth The Art of Vimeo Video Monetization</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-video-allure-securing-top-spots-with-the-vimeo-experts/"><u>Mastering Video Allure Securing Top Spots with the Vimeo Experts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverse-visibility-your-step-by-step-avatar-design-for-2024/"><u>Metaverse Visibility Your Step-by-Step Avatar Design for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-dead-audio-a-step-by-step-guide-to-tech-sound/"><u>Resurrect Dead Audio: A Step-by-Step Guide to Tech Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-synergy-of-win-credentials-with-ms-online-identity/"><u>Seamless Synergy of WIN Credentials with MS Online Identity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-indispensability-of-the-camera-hump-on-phones-why-compromise-is-not-an-option/"><u>The Indispensability of the Camera Hump on Phones: Why Compromise Is Not an Option</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-fans-rejoice-lenovo-unveils-a-competing-mac-studio-promising-superior-features-zdnet/"><u>Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET</u></a></li>
 </ul></div>
 
