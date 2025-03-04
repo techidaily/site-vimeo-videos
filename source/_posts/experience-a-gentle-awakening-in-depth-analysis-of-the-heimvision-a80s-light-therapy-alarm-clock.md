@@ -1,7 +1,7 @@
 ---
 title: "Experience a Gentle Awakening: In-Depth Analysis of the HeimVision A80S Light Therapy Alarm Clock"
-date: 2025-02-12T05:19:05.420Z
-updated: 2025-02-15T07:26:50.830Z
+date: 2025-03-02T16:23:37.725Z
+updated: 2025-03-04T16:11:44.753Z
 categories:
   - BestProducts
 description: "This Article Describes Experience a Gentle Awakening: In-Depth Analysis of the HeimVision A80S Light Therapy Alarm Clock"
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/EEEMCdq2FsBPMcT8nPUgndDIw4A=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Sony-XBR65X850F-4K-TV-1-0498a6473b25497c81fe71754603f6a5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 [View On Amazon](https://www.amazon.com/dp/B078WG6DBH/?tag=lifewire-onsite-prod-20&ascsubtag=4796693%7Cn899f0376278d4881a5af76b596b54aa000%7CB078WG6DBH) [View On EBay](https://www.ebay.com/itm/Sony-XBR65X850F-65-Inch-4K-Ultra-HD-Smart-LED-TV-2018-Model/312237520273)
@@ -75,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/v7wi7isxu06LAoWNZK3dJ908mCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-4-cb1a370bd78244b383c802010a570313.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
  The rear panel is entirely matte black plastic. It’s pretty basic, but you also won’t be staring at the back of your TV a whole lot either. On the left you’ll find the power cable all by its lonesome, with the rest of the inputs and ports on the right. These are split between a hub facing the right side of the unit, and another cluster that stick straight out the back. This might be annoying if you want to get the TV super close to a wall, but the main ports most people will be using are found on the right side anyway.
@@ -98,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
  Setting up pretty much any modern-day smart TV is an easy process, so just stick to the on-screen instructions and you’ll be golden. Go ahead and unpack it all, tear off that plastic film, plug in the power cable, and turn on the device.
 
 ![Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV](https://www.lifewire.com/thmb/vvIZMf3BNAr8JmiDAVdv4o3ceHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-XBR65X850F-4K-TV-2-7eabd63fb6c0415ab75fd927d664a841.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -133,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Audio Quality: Loud, but distorted**
 
  Built-in speakers are never going to be great, but they’re nice to have if you’re lacking an[external sound system](https://www.lifewire.com/connect-tv-to-external-audio-system-1846816) like a soundbar. While we’d recommend getting an external setup for the best experience, let’s take a quick look at what the XBR65X850F has to offer with the included setup.
@@ -165,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
  But how do these prices stack up against comparable TVs from competitors like LG or Samsung? Taking a quick look around online, you can easily save a few hundred dollars by going with a comparable LG TV, while Samsung was pretty closely matched with Sony. In the end, the price for the X850F series isn’t the best bang for your buck, but it ain’t bad either.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Sony XBR65X850F vs. Samsung UN65RU8000**
 
  Now there are a ton of comparable 4K TVs out there stacked up against the Sony XBR65X850F, but Samsung is a similarly reputable brand, so let’s compare their UN65RU8000 (view on[Amazon](https://www.amazon.com/Samsung-UN65RU8000-Ultimate-SurgePro-6-Outlet/dp/B07Q6VCCLF?tag=lifewire-onsite-prod-20&ascsubtag=4796693%7Cn899f0376278d4881a5af76b596b54aa000%7C) ).
@@ -186,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 **A solid IPS panel 4K TV.**
 
  The X850F series is far from perfect, but the Sony XBR65X850F 65-Inch 4K Ultra HD Smart LED TV and its family are more than capable of providing a pleasurable viewing experience for most people. Despite this, there are probably better options out there that can be had for even less.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -220,20 +196,21 @@ thumbnail: https://thmb.techidaily.com/9ed2fa86f46a9a86e1ecc804ad586b5d67c008ec4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-turn-off-igtv-for-2024/"><u>[New] How to Turn Off IGTV for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-elevating-your-work-with-impeccable-thumbnails/"><u>[New] In 2024, Elevating Your Work with Impeccable Thumbnails</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-to-gif-how-to-make-a-gif-from-vimeo-video/"><u>[Updated] 2024 Approved Vimeo to GIF How to Make a GIF From Vimeo Video</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-beauty-vlogs-from-basics-to-brilliance-launching-a-youtube-channel/"><u>[Updated] Beauty Vlogs From Basics to Brilliance Launching a YouTube Channel</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-curated-insta-photos-in-slideshow/"><u>[Updated] Curated Insta Photos in Slideshow</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-efficient-tools-seamless-extraction-of-vimeo-media/"><u>[Updated] In 2024, Efficient Tools Seamless Extraction of Vimeo Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-key-techniques-for-smooth-inshot-pivots/"><u>[Updated] In 2024, Key Techniques for Smooth Inshot Pivots</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-inventory-management-for-2024/"><u>[Updated] Inventory Management for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-profitable-videos-on-demand-leveraging-analytics-and-ad-revenue-everywhere-for-2024/"><u>[Updated] Profitable Videos on Demand Leveraging Analytics & Ad Revenue Everywhere for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-streamlining-your-room-for-oculus-vr/"><u>2024 Approved Streamlining Your Room for Oculus VR</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/break-free-10-innovative-editors-beyond-vimeos-boundaries/"><u>Break Free 10 Innovative Editors Beyond Vimeo's Boundaries</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/crafting-a-successful-vimeo-earning-model-a-comprehensive-guide/"><u>Crafting a Successful Vimeo Earning Model – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/page-unavailable-resolving-the-error-code-404/"><u>Page Unavailable: Resolving the Error Code 404</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-tv-casting-of-zoom-webinars-the-complete-walkthrough-for-users/"><u>Seamless TV Casting of Zoom Webinars: The Complete Walkthrough for Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/upward-perspectives-capturing-landscapes-from-your-phone/"><u>Upward Perspectives Capturing Landscapes From Your Phone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-mp4-downloading-vimeo-videos-easily-for-2024/"><u>[New] Mastering MP4 Downloading Vimeo Videos Easily for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tricks-for-swift-vimeo-watch/"><u>[New] Tricks for Swift Vimeo Watch</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-your-guide-to-facebook-video-angle-selection/"><u>[New] Your Guide to Facebook Video Angle Selection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-to-checkbook-conversion-the-path-from-adsense-to-banking-for-2024/"><u>[Updated] Channel to Checkbook Conversion The Path From AdSense to Banking for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-high-definition-spectacle-our-top-7-camera-lineup/"><u>[Updated] High-Definition Spectacle Our Top 7 Camera Lineup</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-masterclass-in-kinemaster-application-and-top-tier-opponents-online/"><u>[Updated] In 2024, Masterclass in KineMaster Application & Top-Tier Opponents Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlock-the-secret-sauce-of-making-money-with-vimeo-ads/"><u>[Updated] In 2024, Unlock the Secret Sauce of Making Money with Vimeo Ads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-prime-7-film-downloader-tools/"><u>[Updated] Prime 7 Film Downloader Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-securing-every-frame-best-practices-for-vimeo-record-use/"><u>[Updated] Securing Every Frame Best Practices for Vimeo Record Use</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-make-a-gif-from-vimeo-video/"><u>How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficient-methods-for-extracting-vimeo-sound-tracks/"><u>In 2024, Efficient Methods for Extracting Vimeo Sound Tracks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-ultimate-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Ultimate Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27s to Outlook | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Pro Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-vimeos-end-screens-for-creative-directives/"><u>In 2024, Mastering Vimeo's End Screens for Creative Directives</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 </ul></div>
 

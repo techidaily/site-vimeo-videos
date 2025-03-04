@@ -1,7 +1,7 @@
 ---
 title: A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters
-date: 2025-02-11T04:19:41.568Z
-updated: 2025-02-14T16:15:27.830Z
+date: 2025-02-26T16:56:02.450Z
+updated: 2025-03-04T16:51:11.404Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bb93fdc792.jpg)
 
 We have received reports from user saying that they have trouble using their HP laptop keyboard. Some of them complained that certain keys, such as functional keys (F1, F12 etc.), are unusable, while a small number of users mentioned that the laptop keyboard is totally useless and they have to turn to an external one. If you are one of the “victims”, no worries, there are some effective ways that are going to help you solve this problem. Please follow the instructions below and get your laptop keyboard fixed!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 1: Reinstall Keyboard Driver**
 
@@ -41,17 +37,9 @@ When prompted to confirm the uninstall, press**OK**to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcb25486f6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You will be able to see the on-screen keyboard appear. Use your mouse cursor to type in your password and click**Enter**key You should be able to see Windows is automatically searching and updating the keyboard driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bcc1ba21de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 2: Check Keyboard Settings**
 
@@ -71,10 +59,6 @@ Then make sure the Keyboards is selected as**US**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592bd8974b324.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 3: Try an External Keyboard**
 
 If you have tried the above methods but they are not helpful, you may need to plug in a USB external keyboard and see if the second keyboard works. 1) If the external keyboard**works perfectly**, then you need to consider searching and downloading the latest version of the laptop driver from HP support. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). You can try its Free version, and update your drivers one by one. Or you can update all your missing and outdated drivers automatically with just one-click with Driver Easy [**Pro version**](https://tools.techidaily.com/drivereasy/download/). No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
@@ -82,10 +66,6 @@ If you have tried the above methods but they are not helpful, you may need to pl
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592be3322d6e8.jpg)
 
 2) If your external keyboard**does not work**either, then you need to consider resetting your operating system or do a system recovery. For more information, please refer to the post below: [**How to Reset Windows 10, the easy way!**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 4:** **Perform a Hard Reset**
 
@@ -109,16 +89,20 @@ A hard reset will not remove any of your data in your computer, it is a move tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-add-on-effectiveness-implementing-end-cuts-on-vimeo/"><u>[New] Add-On Effectiveness Implementing End Cuts on Vimeo</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-next-level-content-creation-tools-post-vimeo/"><u>[Updated] 2024 Approved Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-8-must-have-macbook-wallpaper-apps/"><u>[Updated] 8 Must-Have MacBook Wallpaper Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>[Updated] From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-video-structure-chapter-integration-guide/"><u>[Updated] In 2024, Vimeo Video Structure Chapter Integration Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ideal-dialogue-architect-forum/"><u>Ideal Dialogue Architect Forum</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-steer-clear-of-vr-nausea-essential-precautions/"><u>In 2024, Steer Clear of VR Nausea Essential Precautions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-improved-connectivity-and-faster-reactions-in-back-4-blood/"><u>Quick Fixes for Improved Connectivity and Faster Reactions in Back 4 Blood</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/saving-scenes-seamlessly-the-power-of-vimeo-record-for-2024/"><u>Saving Scenes Seamlessly The Power of Vimeo Record for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-bot-safety-spectrum-3-privacy-issues-unveiled/"><u>The Bot Safety Spectrum: 3 Privacy Issues Unveiled</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ultimate-compilation-best-tools-for-vimeo-files/"><u>Ultimate Compilation Best Tools for Vimeo Files</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-complete-guide-to-generating-profits-vimeo-monetization-mastery/"><u>[New] 2024 Approved The Complete Guide to Generating Profits Vimeo Monetization Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-tailoring-your-techniques-for-itunes-videos/"><u>[New] Tailoring Your Techniques for iTunes Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-transform-your-videos-into-revenue-streams-with-smart-vimeo-tactics-for-2024/"><u>[New] Transform Your Videos Into Revenue Streams with Smart Vimeo Tactics for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-no-money-solution-easy-editing-basics/"><u>[New] Vimeo's No-Money Solution Easy Editing Basics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-a-comprehensive-approach-to-adding-text-overlays-vimeo/"><u>[Updated] 2024 Approved A Comprehensive Approach to Adding Text Overlays (Vimeo)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-celebrity-quick-shot-analysis/"><u>[Updated] 2024 Approved Celebrity Quick Shot Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-ideas-to-enhance-the-visibility-of-fb-ad-videos/"><u>[Updated] 2024 Approved Ideas to Enhance the Visibility of FB Ad Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimizing-vimeo-playback-speed/"><u>[Updated] 2024 Approved Optimizing Vimeo Playback Speed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-cheat-sheet-inserting-vimeo-videos-into-slides/"><u>[Updated] 2024 Approved The Ultimate Cheat Sheet Inserting Vimeo Videos Into Slides</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-lenovo-laptop-screen-logging-made-easy/"><u>[Updated] In 2024, Lenovo Laptop Screen Logging Made Easy</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-creating-classical-cinematography-a-modern-tutorial/"><u>2024 Approved Creating Classical Cinematography A Modern Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-master-sound-capture-on-your-macos-device-via-audacity/"><u>In 2024, Master Sound Capture on Your MacOS Device via Audacity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/journey-from-photographic-moments-to-sequential-videos/"><u>Journey From Photographic Moments to Sequential Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimizing-pc-performance-a-step-by-step-tutorial-for-disk-defragmentation-in-windows-11-via-revo-uninstaller/"><u>Optimizing PC Performance: A Step-by-Step Tutorial for Disk Defragmentation in Windows 11 via Revo Uninstaller</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
 </ul></div>
 
